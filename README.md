@@ -9,9 +9,17 @@
 
 ## Process
 
-### 1. Connecting to and utilizing FourSquare & Yelp APIs
+### 1. Connecting to and utilizing CityBikes, FourSquare & Yelp APIs
+
+- Create accounts online and obtain API Keys
+- Prepare queries for the APIs
+- Query and store the data for further usage
 
 ### 2. Data transformation and cleanup
+
+- Review and analyze the data
+- Create data storages
+- Clean up and store the data
 
 ## Results
 
