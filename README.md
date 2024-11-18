@@ -2,10 +2,13 @@
 
 ## Project/Goals
 
-1. Connecting to CityBikes API and retrieving data.
-2. Connecting to Foursquare and Yelp APIs and retrieving data.
-3. Joining and transforming collected data.
-4. Building a Model and further evaluation of the data.
+- Accessing data using APIs (CityBikes, FourSquare, Yelp)
+- Cleaning and transforming data using Python
+- Loading data into a database using Python
+- Performing EDA, including using both statistics and visualizations
+- Identifying trends and patterns in data using statistical models
+- Building a Model and further evaluation of the data.
+- Interpreting the results of the statistical models
 
 ## Process
 
