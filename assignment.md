@@ -27,6 +27,9 @@ Your tasks are as follows:
 
 Complete the **yelp_foursquare_EDA.ipynb** notebook to demonstrate how you executed the tasks above.
 
+# IMPORTANT STEP - DO EXPLORATORY DATA ANALYSIS!
+
+
 ## Part 3: Joining Data
 
 1. Join the data from Part 1 with the data from Part 2 to create a new dataframe. 
