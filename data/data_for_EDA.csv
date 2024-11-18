@@ -1,0 +1,791 @@
+,name,distance,rating,price
+0,Coffee & Whisky House,603,8.8,3.0
+1,Coffee & Whisky House,832,8.8,3.0
+2,Coffee & Whisky House,603,8.8,3.0
+3,Coffee & Whisky House,229,8.8,3.0
+4,Coffee & Whisky House,229,8.8,3.0
+5,Coffee & Whisky House,229,8.8,3.0
+6,Coffee & Whisky House,852,8.8,3.0
+7,Coffee & Whisky House,211,8.8,3.0
+8,Coffee & Whisky House,211,8.8,3.0
+9,Coffee & Whisky House,852,8.8,3.0
+10,Coffee & Whisky House,211,8.8,3.0
+11,Coffee & Whisky House,852,8.8,3.0
+12,Coffee & Whisky House,832,8.8,3.0
+13,Coffee & Whisky House,657,8.8,3.0
+14,Coffee & Whisky House,810,8.8,3.0
+15,Coffee & Whisky House,810,8.8,3.0
+16,Coffee & Whisky House,810,8.8,3.0
+17,Coffee & Whisky House,657,8.8,3.0
+18,Coffee & Whisky House,657,8.8,3.0
+19,Coffee & Whisky House,603,8.8,3.0
+20,Coffee & Whisky House,832,8.8,3.0
+21,Copernicus Toruń Hotel,251,8.6,
+22,Copernicus Toruń Hotel,469,8.6,
+23,Copernicus Toruń Hotel,945,8.6,
+24,Copernicus Toruń Hotel,292,8.6,
+25,Copernicus Toruń Hotel,855,8.6,
+26,Szeroka No.9,582,8.5,
+27,Szeroka No.9,477,8.5,
+28,Szeroka No.9,276,8.5,
+29,Szeroka No.9,786,8.5,
+30,Szeroka No.9,477,8.5,
+31,Szeroka No.9,806,8.5,
+32,Szeroka No.9,786,8.5,
+33,Szeroka No.9,582,8.5,
+34,Szeroka No.9,806,8.5,
+35,Szeroka No.9,276,8.5,
+36,Szeroka No.9,591,8.5,
+37,Szeroka No.9,591,8.5,
+38,Szeroka No.9,731,8.5,
+39,Szeroka No.9,731,8.5,
+40,Szeroka No.9,529,8.5,
+41,Szeroka No.9,529,8.5,
+42,Manekin,405,8.4,
+43,Bread House Cafe,739,8.4,1.0
+44,Manekin,341,8.4,
+45,Widelec,160,8.4,2.0
+46,Bread House Cafe,739,8.4,1.0
+47,Bread House Cafe,739,8.4,1.0
+48,Apartamenty Monka,872,8.4,
+49,Widelec,440,8.4,2.0
+50,Widelec,160,8.4,2.0
+51,Widelec,160,8.4,2.0
+52,Bread House Cafe,656,8.4,1.0
+53,Manekin,210,8.4,
+54,Manekin,210,8.4,
+55,Bread House Cafe,656,8.4,1.0
+56,Bread House Cafe,656,8.4,1.0
+57,Manekin,341,8.4,
+58,Manekin,986,8.4,
+59,Manekin,986,8.4,
+60,Manekin,405,8.4,
+61,Widelec,693,8.4,2.0
+62,Widelec,893,8.4,2.0
+63,Widelec,693,8.4,2.0
+64,Apartamenty Monka,590,8.4,
+65,Widelec,693,8.4,2.0
+66,Manekin,671,8.4,
+67,Bread House Cafe,434,8.4,1.0
+68,Bread House Cafe,434,8.4,1.0
+69,Manekin,671,8.4,
+70,Manekin,833,8.4,
+71,Bread House Cafe,434,8.4,1.0
+72,Widelec,440,8.4,2.0
+73,Widelec,440,8.4,2.0
+74,Manekin,833,8.4,
+75,Widelec,578,8.4,2.0
+76,Widelec,578,8.4,2.0
+77,Widelec,578,8.4,2.0
+78,Apartamenty Monka,834,8.4,
+79,Manekin,578,8.4,
+80,Widelec,893,8.4,2.0
+81,Manekin,708,8.4,
+82,Apartamenty Monka,901,8.4,
+83,Apartamenty Monka,211,8.4,
+84,Bread House Cafe,852,8.4,1.0
+85,Bread House Cafe,852,8.4,1.0
+86,Bread House Cafe,283,8.4,1.0
+87,Bread House Cafe,283,8.4,1.0
+88,Bread House Cafe,283,8.4,1.0
+89,Manekin,302,8.4,
+90,Manekin,302,8.4,
+91,Widelec,893,8.4,2.0
+92,Apartamenty Monka,162,8.4,
+93,Manekin,662,8.4,
+94,Manekin,662,8.4,
+95,Bread House Cafe,106,8.4,1.0
+96,Bread House Cafe,106,8.4,1.0
+97,Widelec,730,8.4,2.0
+98,Bread House Cafe,852,8.4,1.0
+99,Manekin,708,8.4,
+100,Bread House Cafe,684,8.4,1.0
+101,Manekin,790,8.4,
+102,Manekin,578,8.4,
+103,Widelec,655,8.4,2.0
+104,Manekin,790,8.4,
+105,Widelec,655,8.4,2.0
+106,Widelec,655,8.4,2.0
+107,Manekin,379,8.4,
+108,Apartamenty Monka,707,8.4,
+109,Manekin,379,8.4,
+110,Bread House Cafe,684,8.4,1.0
+111,Widelec,730,8.4,2.0
+112,Widelec,730,8.4,2.0
+113,Bread House Cafe,684,8.4,1.0
+114,Bread House Cafe,106,8.4,1.0
+115,Pierogarnia Stary Toruń,545,8.1,1.0
+116,Pierogarnia Stary Toruń,545,8.1,1.0
+117,Pierogarnia Stary Młyn,498,8.1,1.0
+118,Pierogarnia Stary Młyn,498,8.1,1.0
+119,Pierogarnia Stary Toruń,631,8.1,1.0
+120,Pierogarnia Stary Młyn,749,8.1,1.0
+121,Pierogarnia Stary Młyn,749,8.1,1.0
+122,Pierogarnia Stary Toruń,631,8.1,1.0
+123,Pierogarnia Stary Toruń,849,8.1,1.0
+124,Pierogarnia Stary Młyn,452,8.1,1.0
+125,Pierogarnia Stary Młyn,452,8.1,1.0
+126,Pierogarnia Stary Toruń,324,8.1,1.0
+127,Pierogarnia Stary Młyn,645,8.1,1.0
+128,Pierogarnia Stary Młyn,645,8.1,1.0
+129,Pierogarnia Stary Młyn,370,8.1,1.0
+130,Pierogarnia Stary Młyn,370,8.1,1.0
+131,Pierogarnia Stary Toruń,423,8.1,1.0
+132,Pierogarnia Stary Toruń,423,8.1,1.0
+133,Pierogarnia Stary Młyn,572,8.1,1.0
+134,Pierogarnia Stary Młyn,756,8.1,1.0
+135,Pierogarnia Stary Młyn,756,8.1,1.0
+136,Pierogarnia Stary Toruń,692,8.1,1.0
+137,Pierogarnia Stary Toruń,692,8.1,1.0
+138,Pierogarnia Stary Młyn,572,8.1,1.0
+139,Pierogarnia Stary Toruń,464,8.1,1.0
+140,Pierogarnia Stary Toruń,464,8.1,1.0
+141,Pierogarnia Stary Toruń,849,8.1,1.0
+142,Pierogarnia Stary Młyn,873,8.1,1.0
+143,Pierogarnia Stary Młyn,873,8.1,1.0
+144,Pierogarnia Stary Toruń,496,8.1,1.0
+145,Pierogarnia Stary Toruń,496,8.1,1.0
+146,Pierogarnia Stary Toruń,324,8.1,1.0
+147,Montenegro,843,8.0,1.0
+148,Montenegro,670,8.0,1.0
+149,Montenegro,746,8.0,1.0
+150,Montenegro,860,8.0,1.0
+151,Montenegro,215,8.0,1.0
+152,Montenegro,877,8.0,1.0
+153,Jan Olbracht Browar Staromiejski,915,7.8,2.0
+154,Jan Olbracht Browar Staromiejski,525,7.8,2.0
+155,Jan Olbracht Browar Staromiejski,648,7.8,2.0
+156,Jan Olbracht Browar Staromiejski,523,7.8,2.0
+157,Jan Olbracht Browar Staromiejski,523,7.8,2.0
+158,Jan Olbracht Browar Staromiejski,523,7.8,2.0
+159,Jan Olbracht Browar Staromiejski,405,7.8,2.0
+160,Jan Olbracht Browar Staromiejski,598,7.8,2.0
+161,Jan Olbracht Browar Staromiejski,598,7.8,2.0
+162,Jan Olbracht Browar Staromiejski,598,7.8,2.0
+163,Jan Olbracht Browar Staromiejski,648,7.8,2.0
+164,Jan Olbracht Browar Staromiejski,525,7.8,2.0
+165,Jan Olbracht Browar Staromiejski,525,7.8,2.0
+166,Jan Olbracht Browar Staromiejski,555,7.8,2.0
+167,Jan Olbracht Browar Staromiejski,555,7.8,2.0
+168,Jan Olbracht Browar Staromiejski,915,7.8,2.0
+169,Jan Olbracht Browar Staromiejski,915,7.8,2.0
+170,Jan Olbracht Browar Staromiejski,405,7.8,2.0
+171,Jan Olbracht Browar Staromiejski,405,7.8,2.0
+172,Jan Olbracht Browar Staromiejski,555,7.8,2.0
+173,Jan Olbracht Browar Staromiejski,648,7.8,2.0
+174,Jan Olbracht Browar Staromiejski,388,7.8,2.0
+175,Jan Olbracht Browar Staromiejski,388,7.8,2.0
+176,Jan Olbracht Browar Staromiejski,388,7.8,2.0
+177,Weranda Chełmińska,343,7.5,2.0
+178,Weranda Chełmińska,343,7.5,2.0
+179,Weranda Chełmińska,705,7.5,2.0
+180,Weranda Chełmińska,930,7.5,2.0
+181,Weranda Chełmińska,686,7.5,2.0
+182,Weranda Chełmińska,710,7.5,2.0
+183,Weranda Chełmińska,710,7.5,2.0
+184,Weranda Chełmińska,930,7.5,2.0
+185,Weranda Chełmińska,705,7.5,2.0
+186,Weranda Chełmińska,686,7.5,2.0
+187,Weranda Chełmińska,842,7.5,2.0
+188,Weranda Chełmińska,842,7.5,2.0
+189,Czarny Tulipan. Pub,619,7.4,2.0
+190,Czarny Tulipan. Pub,862,7.4,2.0
+191,Czarny Tulipan. Pub,862,7.4,2.0
+192,Czarny Tulipan. Pub,827,7.4,2.0
+193,Czarny Tulipan. Pub,619,7.4,2.0
+194,Czarny Tulipan. Pub,827,7.4,2.0
+195,Czarny Tulipan. Pub,369,7.4,2.0
+196,Czarny Tulipan. Pub,234,7.4,2.0
+197,Czarny Tulipan. Pub,234,7.4,2.0
+198,Czarny Tulipan. Pub,369,7.4,2.0
+199,Azzurro,728,7.3,2.0
+200,Azzurro,489,7.3,2.0
+201,Azzurro,968,7.3,2.0
+202,Azzurro,298,7.3,2.0
+203,Azzurro,610,7.3,2.0
+204,Azzurro,335,7.3,2.0
+205,Azzurro,810,7.3,2.0
+206,Stare Metropolis,759,7.2,1.0
+207,Stare Metropolis,487,7.2,1.0
+208,Stare Metropolis,584,7.2,1.0
+209,Stare Metropolis,584,7.2,1.0
+210,Stare Metropolis,759,7.2,1.0
+211,Stare Metropolis,759,7.2,1.0
+212,Stare Metropolis,584,7.2,1.0
+213,Stare Metropolis,487,7.2,1.0
+214,Stare Metropolis,487,7.2,1.0
+215,Stare Metropolis,658,7.2,1.0
+216,Stare Metropolis,658,7.2,1.0
+217,Stare Metropolis,881,7.2,1.0
+218,Stare Metropolis,658,7.2,1.0
+219,Stare Metropolis,382,7.2,1.0
+220,Stare Metropolis,447,7.2,1.0
+221,Stare Metropolis,447,7.2,1.0
+222,Stare Metropolis,382,7.2,1.0
+223,Stare Metropolis,881,7.2,1.0
+224,Stare Metropolis,881,7.2,1.0
+225,Stare Metropolis,757,7.2,1.0
+226,Stare Metropolis,757,7.2,1.0
+227,Stare Metropolis,757,7.2,1.0
+228,Stare Metropolis,447,7.2,1.0
+229,Stare Metropolis,382,7.2,1.0
+230,Hotel Filmar,743,7.1,
+231,Hotel Filmar,944,7.1,
+232,Hotel Filmar,497,7.1,
+233,Hotel Filmar,805,7.1,
+234,Hotel Filmar,899,7.1,
+235,Hotel Filmar,310,7.1,
+236,Lizard King,721,7.0,
+237,Lizard King,721,7.0,
+238,Lizard King,506,7.0,
+239,Lizard King,506,7.0,
+240,Lizard King,506,7.0,
+241,Lizard King,703,7.0,
+242,Lizard King,703,7.0,
+243,Lizard King,703,7.0,
+244,Lizard King,721,7.0,
+245,Od Nowa. Studencki klub pracy twórczej,502,6.8,1.0
+246,Od Nowa. Studencki klub pracy twórczej,502,6.8,1.0
+247,Od Nowa. Studencki klub pracy twórczej,589,6.8,1.0
+248,Od Nowa. Studencki klub pracy twórczej,589,6.8,1.0
+249,Od Nowa. Studencki klub pracy twórczej,20,6.8,1.0
+250,Od Nowa. Studencki klub pracy twórczej,20,6.8,1.0
+251,Od Nowa. Studencki klub pracy twórczej,780,6.8,1.0
+252,Od Nowa. Studencki klub pracy twórczej,859,6.8,1.0
+253,Od Nowa. Studencki klub pracy twórczej,642,6.8,1.0
+254,Od Nowa. Studencki klub pracy twórczej,780,6.8,1.0
+255,Od Nowa. Studencki klub pracy twórczej,642,6.8,1.0
+256,Od Nowa. Studencki klub pracy twórczej,672,6.8,1.0
+257,Od Nowa. Studencki klub pracy twórczej,672,6.8,1.0
+258,Od Nowa. Studencki klub pracy twórczej,859,6.8,1.0
+259,Loft79,980,6.7,3.0
+260,Loft79,731,6.7,3.0
+261,Loft79,980,6.7,3.0
+262,Loft79,731,6.7,3.0
+263,Loft79,980,6.7,3.0
+264,Loft79,731,6.7,3.0
+265,Widelec,279,6.6,2.0
+266,Widelec,311,6.6,2.0
+267,Widelec,279,6.6,2.0
+268,Widelec,659,6.6,2.0
+269,Widelec,659,6.6,2.0
+270,Widelec,311,6.6,2.0
+271,KFC,922,6.5,1.0
+272,KFC,747,6.5,1.0
+273,KFC,281,6.5,1.0
+274,KFC,281,6.5,1.0
+275,Subway,43,6.5,1.0
+276,KFC,412,6.5,1.0
+277,KFC,412,6.5,1.0
+278,KFC,747,6.5,1.0
+279,Subway,669,6.5,1.0
+280,Pierogarnia Leniwa,574,6.5,1.0
+281,Pierogarnia Leniwa,574,6.5,1.0
+282,Subway,669,6.5,1.0
+283,Subway,43,6.5,1.0
+284,Subway,859,6.5,1.0
+285,Subway,637,6.5,1.0
+286,Subway,637,6.5,1.0
+287,Subway,859,6.5,1.0
+288,Gospoda Pod Modrym Fartuchem,579,6.5,
+289,KFC,922,6.5,1.0
+290,KFC,803,6.3,1.0
+291,KFC,803,6.3,1.0
+292,Dim Sum,621,6.3,2.0
+293,Dim Sum,621,6.3,2.0
+294,KFC,962,6.3,1.0
+295,KFC,451,6.3,1.0
+296,KFC,962,6.3,1.0
+297,KFC,451,6.3,1.0
+298,KFC,103,6.3,1.0
+299,KFC,103,6.3,1.0
+300,KFC,434,6.2,
+301,McDonald's,902,6.1,1.0
+302,McDonald's,216,6.1,1.0
+303,McDonald's,156,6.1,1.0
+304,Mr.Capone,29,6.0,1.0
+305,KFC,803,6.0,1.0
+306,Mr.Capone,656,6.0,1.0
+307,Mr.Capone,656,6.0,1.0
+308,Mr.Capone,378,6.0,1.0
+309,Mr.Capone,378,6.0,1.0
+310,McDonald's,158,6.0,1.0
+311,McDonald's,158,6.0,1.0
+312,KFC,803,6.0,1.0
+313,Mr.Capone,408,6.0,1.0
+314,KFC,34,6.0,1.0
+315,KFC,34,6.0,1.0
+316,Mr.Capone,29,6.0,1.0
+317,Mr.Capone,408,6.0,1.0
+318,KFC,303,6.0,1.0
+319,KFC,303,6.0,1.0
+320,McDonald's,445,5.8,1.0
+321,McDonald's,55,5.8,1.0
+322,McDonald's,55,5.8,1.0
+323,McDonald's,445,5.8,1.0
+324,Fort IV,567,5.7,
+325,Fort IV,567,5.7,
+326,McDonald's,314,5.6,1.0
+327,McDonald's,559,5.6,1.0
+328,McDonald's,559,5.6,1.0
+329,McDonald's,314,5.6,1.0
+330,Stara Paczkarnia,25,,1.0
+331,Stara Paczkarnia,25,,1.0
+332,Klif. Bar,181,,2.0
+333,Klif. Bar,188,,2.0
+334,Klif. Bar,188,,2.0
+335,Kinga Łuczak Usługi Hotelowe,283,,
+336,Pizzeria Wenecja,314,,1.0
+337,Pizzeria Wenecja,314,,1.0
+338,Drink Bar Sierżant Dawid Kościecha,350,,1.0
+339,Degustator Rafał Daczkowski,370,,2.0
+340,Degustator Rafał Daczkowski,370,,2.0
+341,Pizzeria Venus,64,,1.0
+342,Kakadu u Marcina - Pub,71,,2.0
+343,Kakadu u Marcina - Pub,71,,2.0
+344,Zahir Kebab,88,,
+345,Restauracja Montenegro,114,,1.0
+346,Cafe Molus,142,,1.0
+347,Cafe Molus,142,,1.0
+348,Cafe Molus,142,,1.0
+349,Restauracja W Kapciach,144,,
+350,MClub,160,,
+351,"Misada. Restauracja, organizacja imprez",164,,
+352,Favola,184,,1.0
+353,Favola,184,,1.0
+354,Kalinowska Giorgi Wanda Pod Jarzębiną Pokoje Gościnne,258,,
+355,Kalinowska Giorgi Wanda Pod Jarzębiną Pokoje Gościnne,258,,
+356,Pod Jarzębiną,262,,
+357,La Pablo. FHU. Wiwatowski P.,64,,1.0
+358,Kim Orient,97,,2.0
+359,Pizzeria Laguna,126,,1.0
+360,Start Bar. Bugajski Artur Toruń,464,,2.0
+361,Zapiekanki na dworcu,480,,1.0
+362,Spichrz,480,,
+363,Zapiekarnia,520,,1.0
+364,Dakat Firma. Dróżdż Teresa Toruń,556,,
+365,Folborska Monika Marcello,562,,1.0
+366,Restauracja Waliza,734,,
+367,California Pizza Bar,54,,1.0
+368,Dom Pielgrzyma,55,,
+369,Dom Pielgrzyma,55,,
+370,Bar U Beaty,99,,1.0
+371,Bar U Beaty,99,,1.0
+372,Obiady u basi,112,,1.0
+373,Smakuś,134,,
+374,Smakuś,134,,
+375,Smakuś,134,,
+376,Smakuś,134,,
+377,Chiński Kubek,140,,1.0
+378,NY's Pizza,180,,1.0
+379,Cukiernia & Cafe Weranda Anna Nitkowska,265,,
+380,Cukiernia & Cafe Weranda Anna Nitkowska,265,,
+381,Stachowski Daniel Bar,282,,1.0
+382,Chwast Prast Vegetarian Bistro,289,,2.0
+383,Tara,296,,1.0
+384,Transcatering,317,,
+385,Dariusz Nowak,185,,
+386,Kawiarnia Staś Kwiatkowska Alicja,247,,1.0
+387,Pizzeria Yarpen,350,,1.0
+388,Pizzeria Yarpen,350,,1.0
+389,Caffe Bar. Drink-bar,364,,2.0
+390,Caffe Bar. Drink-bar,364,,2.0
+391,Caffe Bar. Drink-bar,364,,2.0
+392,Skrzynka,430,,
+393,Policealna Szkoła Usług Turystycznych,502,,
+394,Policealna Szkoła Usług Turystycznych,502,,
+395,Ajsu Kebab,542,,
+396,Mała Gastronomia Cegielski Jerzy,758,,1.0
+397,Autosar. Restauracja,763,,
+398,Cichy Zakątek S.C. Zembrzuska Magdalena Dąbrowska Kinga,338,,1.0
+399,Apartament ksiezycowy II,433,,
+400,Palce Lizać,507,,
+401,Pro Eco - Invest Sp. z o.o.,583,,
+402,Smakuś,619,,
+403,Smakuś,619,,
+404,Smakuś,619,,
+405,Smakuś,619,,
+406,Pizza Sfera,634,,1.0
+407,Warpol,640,,1.0
+408,Bar Statystyk,688,,
+409,"Lokal Elena – Wesele, Catering Toruń",16,,
+410,"Lokal Elena – Wesele, Catering Toruń",16,,
+411,Elena. Restauracja,94,,
+412,Cichowicz Maria. Bufet,567,,2.0
+413,Rustico Kebab,789,,
+414,Planeta Kebab,840,,2.0
+415,Planeta Kebab,840,,2.0
+416,Planeta Kebab,840,,2.0
+417,Kawiarnia Staś Kwiatkowska Alicja,906,,1.0
+418,Forte Prim Sp. z o.o. Sp.k,941,,
+419,Ajsu Kebab,982,,
+420,Pcic Poland Sp. z o.o.,540,,
+421,Pcic Poland Sp. z o.o.,540,,
+422,DDG Restauracje Grotkowscy Danuta Grotkowskaplacówka Opiekuncza Danuta Grotkowska,793,,
+423,BIM Oriental Fast Food,125,,1.0
+424,"Hotel i Karczma ""Spichrz""",162,,
+425,Verona II S c Euro Car Bogusław Bojdo Aneta Bojdo,200,,
+426,Wild Bean Cafe,324,,1.0
+427,Wild Bean Cafe,324,,1.0
+428,Przeds Handlowo Usługowe S.C. Airfort Stawicki Janusz Paruszewski Adam,338,,1.0
+429,Pokoje Alfa,374,,
+430,Pokoje Alfa,374,,
+431,Bar Hotelowy Alfa,374,,1.0
+432,G132 Office & Restaurant,378,,
+433,G132 Office & Restaurant,378,,
+434,Ciechanowski Marian. Punkt małej gastronomii,38,,2.0
+435,Byczy Burger,201,,1.0
+436,Byczy Burger,201,,1.0
+437,Baalbek,202,,1.0
+438,Baalbek,202,,1.0
+439,North Fish,216,,3.0
+440,North Fish,216,,3.0
+441,Bangkok Wok,261,,2.0
+442,Dołasiński Zbigniew Kasztelan Bar,267,,1.0
+443,"Baalbek sp.j. Cieślewicz A., Poddany J.",303,,2.0
+444,Pizzeria Pe-Pe Marek Mech,111,,2.0
+445,Pizzeria Pe-Pe Marek Mech,111,,2.0
+446,Pizzeria Promyk,122,,1.0
+447,Jankowska Małgorzata pod Koszem Bar,212,,1.0
+448,Simple Plan Ewelina Kosińska,267,,
+449,Warpol,334,,1.0
+450,Pizza Sfera,351,,1.0
+451,Pizzeria Laguna,370,,1.0
+452,W obłokach cafe,293,,1.0
+453,W obłokach cafe,293,,1.0
+454,W obłokach cafe,293,,1.0
+455,Rubens & Monet,774,,
+456,Prim S.C. Kulpa Wiktor Kulpa Elżbieta,954,,1.0
+457,Prim S.C. Kulpa Wiktor Kulpa Elżbieta,954,,1.0
+458,Prim S.C. Kulpa Wiktor Kulpa Elżbieta,954,,1.0
+459,"Rubbens. Hotel, Restauracja",13991,,
+460,Usługi Kelnerskie Dominika Urbanik,947,,
+461,Usługi Kelnerskie Dominika Urbanik,947,,
+462,Belfood Arkadiusz Szmytkowski,138,,
+463,Zahir Kebab,304,,2.0
+464,Hotele Solaris Sp. z o.o.,315,,
+465,Mała Gastronomia Rożen Sós Piotr,378,,1.0
+466,Kashmir,393,,2.0
+467,Kashmir,393,,2.0
+468,Max. Pub,481,,1.0
+469,Kebab,540,,
+470,Thienlong,580,,1.0
+471,"Rubbens. Hotel, Restauracja",14936,,
+472,Sandżak Sp. z o.o.,56,,
+473,Montenegro,61,,1.0
+474,"Bapol s.c. Przedsiębiorstwo handlowo - gastronomiczne. Męcner J., Fedorowicz B.",94,,2.0
+475,Pizza Hut,268,,1.0
+476,Fenix. Firma handlowo - gastronomiczna,356,,2.0
+477,Tapas,429,,1.0
+478,Tapas,429,,1.0
+479,Tapas,429,,1.0
+480,Firma Tapas Odolecka Jolanta,429,,
+481,Cube Cafe. Kawiarnia Multiconcept. Sp. Z O.o.,434,,1.0
+482,Cube Cafe. Kawiarnia Multiconcept. Sp. Z O.o.,434,,1.0
+483,Cube Cafe. Kawiarnia Multiconcept. Sp. Z O.o.,434,,1.0
+484,Subway,441,,1.0
+485,Subway,441,,1.0
+486,Wild Bean Cafe,277,,1.0
+487,Wild Bean Cafe,277,,1.0
+488,Ajsu Kebab,293,,
+489,Pizzeria Don Corleone,324,,1.0
+490,Skrzynka,396,,
+491,Dobry Adres Kuchnia i Pub,431,,1.0
+492,Dobry Adres Kuchnia i Pub,431,,1.0
+493,Mała Gastronomia Cegielski Jerzy,433,,1.0
+494,Caffe Bar. Drink-bar,466,,2.0
+495,Caffe Bar. Drink-bar,466,,2.0
+496,Caffe Bar. Drink-bar,466,,2.0
+497,Pizzeria Yarpen,496,,1.0
+498,Pizzeria Yarpen,496,,1.0
+499,North Fish,41,,3.0
+500,Smaki Azji,74,,2.0
+501,burgeroWnia,90,,1.0
+502,Kosmos Hotel Torun,99,,
+503,Arianos Döner Kebab,159,,
+504,Misada,161,,
+505,Adaś. Bar,24,,
+506,Paluch stołówka,130,,1.0
+507,Bar ZIEMniaczek,137,,
+508,Bar ZIEMniaczek,137,,
+509,Bar ZIEMniaczek,137,,
+510,Hotel Uniwersytecki,230,,
+511,Murat Kebap,95,,
+512,Soczek raz dwa,107,,2.0
+513,Soczek raz dwa,107,,2.0
+514,El Ninio,167,,2.0
+515,Jagoda,182,,
+516,Chwast Prast Vegetarian Bistro,195,,2.0
+517,Mała gastronomia Bar U Dziadka,216,,
+518,Lawenda,348,,
+519,Kęs Dobry,413,,1.0
+520,Kęs Dobry,413,,1.0
+521,"Restauracja ""PIĄTA KLEPKA"" Agnieszka Borkowska",425,,
+522,Dynasińska Maria Shangri La,639,,
+523,Rafa. Pizzeria,842,,1.0
+524,Firma Usł Gastronom Wiktor S.C. Modzelewska Alicja Modzelewska Kinga,31,,
+525,Firma Usł Gastronom Wiktor S.C. Modzelewska Alicja Modzelewska Kinga,31,,
+526,"""Wiki"" Pizzeria Beata Chmurzyńska",42,,
+527,Kola Sklep Mięsno-Spożywczy. Kolasiński Tomasz Toruń,49,,
+528,Kola Sklep Mięsno-Spożywczy. Kolasiński Tomasz Toruń,49,,
+529,Marco. Pizzeria,171,,
+530,Firma Handlowo-Gastronomiczna. Grzebińska Teodozja Toruń,222,,
+531,Od Nowa MZK,25,,
+532,Od Nowa MZK,25,,
+533,Hotel Asystencki nr 2,98,,
+534,Bar Małej Gastronomi Baszyński Piotr,245,,
+535,Mała gastronomia Bar U Dziadka,381,,
+536,Chiński Kubek,394,,1.0
+537,Cybermachina Przemysław Benedykciński,191,,1.0
+538,Pora Obiadowa,229,,1.0
+539,Krągłe Placki,319,,1.0
+540,Pub Na Pętli,340,,2.0
+541,"Agnieszka Płachta Blue Cactus, Blue Home",507,,
+542,Chilli. Maćczak M.,517,,2.0
+543,Siwy Dym,685,,
+544,Prim S.C. Kulpa Wiktor Kulpa Elżbieta,767,,1.0
+545,Prim S.C. Kulpa Wiktor Kulpa Elżbieta,767,,1.0
+546,Prim S.C. Kulpa Wiktor Kulpa Elżbieta,767,,1.0
+547,Gruba Ryba,796,,3.0
+548,Thienlong,796,,1.0
+549,Kinga Łuczak Usługi Hotelowe,42,,
+550,Klif. Bar,105,,2.0
+551,Klif. Bar,105,,2.0
+552,Klif. Bar,109,,2.0
+553,Stara Paczkarnia,260,,1.0
+554,Stara Paczkarnia,260,,1.0
+555,Pizzeria Wenecja,351,,1.0
+556,Pizzeria Wenecja,351,,1.0
+557,Lodmix Szczególski Sławomir,360,,2.0
+558,Lodmix Szczególski Sławomir,360,,2.0
+559,Drink Bar Sierżant Dawid Kościecha,392,,1.0
+560,Blue Kaktus. Pub,507,,2.0
+561,Mała Gastronomia Cegielski Jerzy,163,,1.0
+562,Wild Bean Cafe,383,,1.0
+563,Wild Bean Cafe,383,,1.0
+564,Pizzeria Yarpen,489,,1.0
+565,Pizzeria Yarpen,489,,1.0
+566,Caffe Bar. Drink-bar,519,,2.0
+567,Caffe Bar. Drink-bar,519,,2.0
+568,Caffe Bar. Drink-bar,519,,2.0
+569,Skrzynka,525,,
+570,Ajsu Kebab,599,,
+571,Kawiarnia Staś Kwiatkowska Alicja,635,,1.0
+572,Dariusz Nowak,639,,
+573,Policealna Szkoła Usług Turystycznych,714,,
+574,Policealna Szkoła Usług Turystycznych,714,,
+575,Krystyna Bryla Mala Gastronomia Lodziarnia,50,,
+576,Punkt Sprzedaży Małej Gastronomi Koźlikowska Aleksandra,102,,1.0
+577,Ajsu Kebab,108,,
+578,Kwadrans Cafe Toruń,156,,1.0
+579,Kwadrans Cafe Toruń,156,,1.0
+580,Kwadrans Cafe Toruń,156,,1.0
+581,Kebab Star,156,,1.0
+582,Portos,178,,2.0
+583,Mar Changlin Chang Lin Firma,185,,
+584,Mar Changlin Chang Lin Firma,185,,
+585,Restauracja Chińska Chang Lin,190,,1.0
+586,Gruby Benek. Pizzeria,199,,1.0
+587,Enigma,291,,2.0
+588,Pokoje Alfa,65,,
+589,Pokoje Alfa,65,,
+590,Bar Hotelowy Alfa,65,,1.0
+591,G132 Office & Restaurant,70,,
+592,G132 Office & Restaurant,70,,
+593,Wild Bean Cafe,79,,1.0
+594,Wild Bean Cafe,79,,1.0
+595,"Hotel i Karczma ""Spichrz""",313,,
+596,Wild Bean Cafe,319,,1.0
+597,Wild Bean Cafe,319,,1.0
+598,Mio Piano Restaurant,339,,2.0
+599,Mio Piano Restaurant,339,,2.0
+600,Blue Kaktus. Pub,367,,2.0
+601,Kebab,66,,
+602,Mediterian,83,,2.0
+603,Mediterian,83,,2.0
+604,Mediterian,83,,2.0
+605,Apartament Delfin II,234,,
+606,Jajcarnia,256,,1.0
+607,Restauracja Olimpia Toruń,265,,
+608,Kryta Pływalnia z Hotelikiem,273,,
+609,Kryta Pływalnia z Hotelikiem,273,,
+610,Mr Chicken,292,,1.0
+611,Atena. Pizzeria,300,,1.0
+612,Serjusz Szymon Rosiński,315,,
+613,Piekuś Bistro,113,,
+614,Przewoski Lech Żak,361,,1.0
+615,Bar Kebab Gabi Mariola Tomaszewska,549,,
+616,Pizzeria Haos,555,,1.0
+617,Delikatesy 34,576,,1.0
+618,Domowa Barbara Langierowicz,652,,2.0
+619,Domowa Barbara Langierowicz,652,,2.0
+620,"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",706,,
+621,"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",706,,
+622,"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",706,,
+623,"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",706,,
+624,Klif. Bar,723,,2.0
+625,Klif. Bar,723,,2.0
+626,Klif. Bar,728,,2.0
+627,Delikates,767,,1.0
+628,Bar Krokiecik Toruń,39,,
+629,Bar Krokiecik Toruń,39,,
+630,Bar BQ,100,,2.0
+631,Domino's Pizza,118,,1.0
+632,Domino's Pizza,118,,1.0
+633,Bar Orientalny HANOI,132,,2.0
+634,Bar Azyl Dorota Jakimiak Toruń,142,,1.0
+635,Bar Azyl Dorota Jakimiak Toruń,142,,1.0
+636,Bar Azyl Dorota Jakimiak Toruń,142,,1.0
+637,Polish Kebab,257,,
+638,Dzięgiel Jacek. Kebab,257,,
+639,Domino's Pizza,280,,1.0
+640,Atena. Pizzeria,289,,1.0
+641,Zahir Kebab,82,,
+642,Gruba Ryba,109,,3.0
+643,Thienlong,109,,1.0
+644,Chilli. Maćczak M.,324,,2.0
+645,Delikates,594,,1.0
+646,Siwy Dym,605,,
+647,"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",617,,
+648,"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",617,,
+649,"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",617,,
+650,"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",617,,
+651,Domowa Barbara Langierowicz,629,,2.0
+652,Domowa Barbara Langierowicz,629,,2.0
+653,Tomasz Tokarz,725,,
+654,Pora Obiadowa,727,,1.0
+655,Budzik Coffee Bartłomiej Maciejewski,6,,1.0
+656,Taica Frias Heli CLUB LATINO,17,,1.0
+657,Maximus S.C. Bar-Pizzeria Toruń,22,,1.0
+658,Domowa,40,,1.0
+659,Ziemniak Czy Rybka,95,,2.0
+660,Domino's Pizza,131,,1.0
+661,Mr Chicken,157,,1.0
+662,Atena. Pizzeria,249,,1.0
+663,Jordan Edyta Maciejewska,274,,2.0
+664,Jordan Edyta Maciejewska,274,,2.0
+665,Restauracja Róża Wiatrów,310,,
+666,Filmar Service Sp. z o.o.,327,,
+667,Pro Eco - Invest Sp. z o.o.,173,,
+668,Palce Lizać,176,,
+669,Warpol,214,,1.0
+670,Pizza Sfera,216,,1.0
+671,Pizzeria Laguna,345,,1.0
+672,Pamela. Pub,394,,1.0
+673,Pamela. Pub,394,,1.0
+674,Cichy Zakątek S.C. Zembrzuska Magdalena Dąbrowska Kinga,405,,1.0
+675,Pizza Dominium,22,,1.0
+676,Słodka Chmurka Piotr Moroz,34,,1.0
+677,"Baalbek sp.j. Cieślewicz A., Poddany J.",38,,2.0
+678,Bangkok Wok,70,,2.0
+679,Subway,94,,1.0
+680,Subway,94,,1.0
+681,Copernicus Döner Kebap,109,,
+682,North Fish,144,,3.0
+683,North Fish,144,,3.0
+684,Zapiekarnia,64,,1.0
+685,Zapiekanki na dworcu,103,,1.0
+686,Spichrz,103,,
+687,Budowlani Toruń,524,,
+688,La Pablo. FHU. Wiwatowski P.,532,,1.0
+689,Folborska Monika Marcello,555,,1.0
+690,Start Bar. Bugajski Artur Toruń,577,,2.0
+691,Kim Orient,674,,2.0
+692,Green Way,938,,2.0
+693,Dakat Firma. Dróżdż Teresa Toruń,994,,
+694,Oscar apartments,228,,2.0
+695,Restaracja Walter,433,,
+696,Hotel Walter,437,,
+697,"Zakład Handlowo Usługowo Produkcyjny ""WALTER"" Walter Tadeusz",447,,
+698,"Zakład Handlowo Usługowo Produkcyjny ""WALTER"" Walter Tadeusz",447,,
+699,Towimor. Bar,474,,
+700,Przystanek Piekus,195,,1.0
+701,Przystanek Piekus,195,,1.0
+702,Przystanek Piekus,195,,1.0
+703,McDonald's,201,,1.0
+704,McDonald's,201,,1.0
+705,Dakat Firma. Dróżdż Teresa Toruń,322,,
+706,Zajazd Torunski,419,,
+707,Wild Bean Cafe,522,,1.0
+708,Wild Bean Cafe,522,,1.0
+709,Start Bar. Bugajski Artur Toruń,756,,2.0
+710,Kim Orient,800,,2.0
+711,Pizzeria Laguna,820,,1.0
+712,La Pablo. FHU. Wiwatowski P.,874,,1.0
+713,Bar Leśny,87,,
+714,Trzy Smaki,110,,
+715,Urbański,139,,
+716,Graffico. Producent pylonów i witaczy,227,,
+717,Mała Gastronomia Galczak Jolanta,282,,1.0
+718,Twierdza Torun,533,,
+719,Laskowska Rudnicka Violetta Viola Firma handlowo usługowa - Torun,559,,
+720,Restauracja Forteczna,588,,2.0
+721,Kebabmaniak,625,,
+722,Batory,626,,
+723,F.H.U Przy Złotej Wyspie Ewelina Fiedorowicz,693,,
+724,Restauracja Monte Carlo,784,,1.0
+725,Restauracja Monte Carlo,784,,1.0
+726,Roma. Pizzeria,84,,1.0
+727,New York Pizza Department Toruń,95,,1.0
+728,New York Pizza Department Toruń,95,,1.0
+729,Jadło Do Syta,101,,
+730,Verdad Sp. z o.o.,111,,
+731,Restauracja Jadło Polskie,127,,
+732,E-Pizzeria.Pl Krzysztof Pawłowski,171,,1.0
+733,Przedsiębiorstwo Handlowo Usługowe Kowalik Maria,183,,1.0
+734,Servus Sp. z o.o.,206,,
+735,Lawenda,160,,
+736,Dynasińska Maria Shangri La,179,,
+737,Kęs Dobry,281,,1.0
+738,Kęs Dobry,281,,1.0
+739,Rafa. Pizzeria,691,,1.0
+740,Folborska Monika Marcello,691,,1.0
+741,"Restauracja ""PIĄTA KLEPKA"" Agnieszka Borkowska",761,,
+742,Yomi S.C. Joanna Sowińska Michalina Bratkowska,120,,
+743,Yomi S.C. Joanna Sowińska Michalina Bratkowska,120,,
+744,Yomi S.C. Joanna Sowińska Michalina Bratkowska,120,,
+745,Przedsiębiorstwo Handlowo Usługowe Majus Cander Tomasz,186,,
+746,Przedsiębiorstwo Handlowo Usługowe Majus Cander Tomasz,186,,
+747,Przedsiębiorstwo Handlowo Usługowe Majus Cander Tomasz,186,,
+748,Firma Handlowo-Gastronomiczna. Grzebińska Teodozja Toruń,365,,
+749,Pensjonat LAZUR,429,,
+750,Pensjonat LAZUR,429,,
+751,Restauracja Lokomotywa,57,,1.0
+752,Restauracja Lokomotywa,57,,1.0
+753,PIE TOWN Małgorzata Mitręga,143,,
+754,"Arkadiusz Owsianik Przedsiębiorstwo Handlowo-Usługowe ""Pizza Drive""",215,,
+755,"Arkadiusz Owsianik Przedsiębiorstwo Handlowo-Usługowe ""Pizza Drive""",215,,
+756,"Arkadiusz Owsianik Przedsiębiorstwo Handlowo-Usługowe ""Pizza Drive""",215,,
+757,Orient Express,457,,2.0
+758,Orient Express,457,,2.0
+759,Orient Express,457,,2.0
+760,Pensjonat Winnica,495,,
+761,Pensjonat Winnica,495,,
+762,Pensjonat Winnica,495,,
+763,Elżbieta. FPH. Bukowska E.,594,,
+764,Pub Mokre Kurtyka Mirosława,616,,2.0
+765,Pub Mokre Kurtyka Mirosława,616,,2.0
+766,Byczy Burger,737,,1.0
+767,Byczy Burger,737,,1.0
+768,Ciao a Tutti,771,4.7,2.0
+769,Ciao a Tutti,771,4.7,2.0
+770,Green Caffè Nero,945,4.6,2.0
+771,Pardon To Tu,850,4.4,2.0
+772,Pardon To Tu,850,4.4,2.0
+773,Pardon To Tu,850,4.4,2.0
+774,Krowarzywa,1124,4.3,1.0
+775,Krowarzywa,1124,4.3,1.0
+776,Ministerstwo Kawy,1109,4.2,1.0
+777,Ministerstwo Kawy,1109,4.2,1.0
+778,Izumi Sushi,918,4.1,3.0
+779,Izumi Sushi,918,4.1,3.0
+780,Bułkę przez Bibułkę,912,4.0,1.0
+781,Bolek Pub & Restaurant,259,4.0,2.0
+782,Bolek Pub & Restaurant,259,4.0,2.0
+783,Bolek Pub & Restaurant,259,4.0,2.0
+784,Bułkę przez Bibułkę,912,4.0,1.0
+785,Bułkę przez Bibułkę,912,4.0,1.0
+786,Coffee Karma,1162,3.9,2.0
+787,Coffee Karma,1162,3.9,2.0
+788,Coffee Karma,1162,3.9,2.0
+789,Pub Zielona Gęś,123,3.3,2.0
