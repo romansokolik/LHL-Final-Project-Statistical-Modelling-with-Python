@@ -4,7 +4,7 @@
 
 1. Connecting to CityBikes API and retrieving data.
 2. Connecting to Foursquare and Yelp APIs and retrieving data.
-3. Joining collected and transforming collectd data.
+3. Joining and transforming collected data.
 4. Building a Model and further evaluation of the data.
 
 ## Process
@@ -40,6 +40,7 @@ Used to access reviews, ratings, and detailed business data.
 ## Challenges
 
 Integrating and using Foursquare and Yelp APIs comes with its own set of challenges.
+
 Here's a comparison of the common issues developers may face with each API:
 
 - Authentication and Rate Limits - using the services is costly
