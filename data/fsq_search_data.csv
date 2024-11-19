@@ -1,484 +1,484 @@
-categories,distance,name,price,rating
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",670,Montenegro,1.0,8.0
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}]",842,Weranda Chełmińska,2.0,7.5
-"[{'id': 13002, 'name': 'Bakery', 'short_name': 'Bakery', 'plural_name': 'Bakeries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bakery_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",25,Stara Paczkarnia,1.0,
-"[{'id': 13055, 'name': 'Fried Chicken Joint', 'short_name': 'Fried Chicken', 'plural_name': 'Fried Chicken Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/friedchicken_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",803,KFC,1.0,6.3
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",181,Klif. Bar,2.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",188,Klif. Bar,2.0,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",283,Kinga Łuczak Usługi Hotelowe,,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",314,Pizzeria Wenecja,1.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",350,Drink Bar Sierżant Dawid Kościecha,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",370,Degustator Rafał Daczkowski,2.0,
-"[{'id': 13041, 'name': 'Creperie', 'short_name': 'Creperie', 'plural_name': 'Creperies', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/creperie_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",379,Manekin,,8.4
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13026, 'name': 'BBQ Joint', 'short_name': 'BBQ', 'plural_name': 'BBQ Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bbqalt_', 'suffix': '.png'}}, {'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",730,Widelec,2.0,8.4
-"[{'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}]",335,Azzurro,2.0,7.3
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",619,Czarny Tulipan. Pub,2.0,7.4
-"[{'id': 10032, 'name': 'Night Club', 'short_name': 'Night Club', 'plural_name': 'Night Clubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_', 'suffix': '.png'}}, {'id': 13018, 'name': 'Pub', 'short_name': 'Pub', 'plural_name': 'Pubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",859,Od Nowa. Studencki klub pracy twórczej,1.0,6.8
-"[{'id': 13334, 'name': 'Sandwich Spot', 'short_name': 'Sandwich Spot', 'plural_name': 'Sandwich Spots', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/deli_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",637,Subway,1.0,6.5
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",64,Pizzeria Venus,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",71,Kakadu u Marcina - Pub,2.0,
-"[{'id': 13288, 'name': 'Kebab Restaurant', 'short_name': 'Kebab', 'plural_name': 'Kebab Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/middleeastern_', 'suffix': '.png'}}]",88,Zahir Kebab,,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",408,Mr.Capone,1.0,6.0
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",215,Montenegro,1.0,8.0
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}]",343,Weranda Chełmińska,2.0,7.5
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",114,Restauracja Montenegro,1.0,
-"[{'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",142,Cafe Molus,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",144,Restauracja W Kapciach,,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",160,MClub,,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",164,"Misada. Restauracja, organizacja imprez",,
-"[{'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",184,Favola,1.0,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}, {'id': 19017, 'name': 'Motel', 'short_name': 'Motel', 'plural_name': 'Motels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",258,Kalinowska Giorgi Wanda Pod Jarzębiną Pokoje Gościnne,,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",262,Pod Jarzębiną,,
-"[{'id': 13002, 'name': 'Bakery', 'short_name': 'Bakery', 'plural_name': 'Bakeries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bakery_', 'suffix': '.png'}}, {'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",106,Bread House Cafe,1.0,8.4
-"[{'id': 13024, 'name': 'Whisky Bar', 'short_name': 'Whisky Bar', 'plural_name': 'Whisky Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/whiskey_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",229,Coffee & Whisky House,3.0,8.8
-"[{'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",211,Apartamenty Monka,,8.4
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",292,Copernicus Toruń Hotel,,8.6
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}]",529,Szeroka No.9,,8.5
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",452,Pierogarnia Stary Młyn,1.0,8.1
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",496,Pierogarnia Stary Toruń,1.0,8.1
-"[{'id': 13041, 'name': 'Creperie', 'short_name': 'Creperie', 'plural_name': 'Creperies', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/creperie_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",662,Manekin,,8.4
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13029, 'name': 'Brewery', 'short_name': 'Brewery', 'plural_name': 'Breweries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/brewery_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",405,Jan Olbracht Browar Staromiejski,2.0,7.8
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",447,Stare Metropolis,1.0,7.2
-"[{'id': 13041, 'name': 'Creperie', 'short_name': 'Creperie', 'plural_name': 'Creperies', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/creperie_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",302,Manekin,,8.4
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}]",477,Szeroka No.9,,8.5
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",464,Pierogarnia Stary Toruń,1.0,8.1
-"[{'id': 13024, 'name': 'Whisky Bar', 'short_name': 'Whisky Bar', 'plural_name': 'Whisky Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/whiskey_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",852,Coffee & Whisky House,3.0,8.8
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",572,Pierogarnia Stary Młyn,1.0,8.1
-"[{'id': 13002, 'name': 'Bakery', 'short_name': 'Bakery', 'plural_name': 'Bakeries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bakery_', 'suffix': '.png'}}, {'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",852,Bread House Cafe,1.0,8.4
-"[{'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",901,Apartamenty Monka,,8.4
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13029, 'name': 'Brewery', 'short_name': 'Brewery', 'plural_name': 'Breweries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/brewery_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",555,Jan Olbracht Browar Staromiejski,2.0,7.8
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",584,Stare Metropolis,1.0,7.2
-"[{'id': 10037, 'name': 'Concert Hall', 'short_name': 'Concert Hall', 'plural_name': 'Concert Halls', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_', 'suffix': '.png'}}, {'id': 10041, 'name': 'Rock Club', 'short_name': 'Rock Club', 'plural_name': 'Rock Clubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_rockclub_', 'suffix': '.png'}}, {'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",703,Lizard King,,7.0
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",64,La Pablo. FHU. Wiwatowski P.,1.0,
-"[{'id': 13072, 'name': 'Asian Restaurant', 'short_name': 'Asian', 'plural_name': 'Asian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/asian_', 'suffix': '.png'}}]",97,Kim Orient,2.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",126,Pizzeria Laguna,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",464,Start Bar. Bugajski Artur Toruń,2.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",480,Zapiekanki na dworcu,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",480,Spichrz,,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",520,Zapiekarnia,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",556,Dakat Firma. Dróżdż Teresa Toruń,,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",562,Folborska Monika Marcello,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",734,Restauracja Waliza,,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13026, 'name': 'BBQ Joint', 'short_name': 'BBQ', 'plural_name': 'BBQ Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bbqalt_', 'suffix': '.png'}}, {'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",655,Widelec,2.0,8.4
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",877,Montenegro,1.0,8.0
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}]",705,Weranda Chełmińska,2.0,7.5
-"[{'id': 10032, 'name': 'Night Club', 'short_name': 'Night Club', 'plural_name': 'Night Clubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_', 'suffix': '.png'}}, {'id': 13018, 'name': 'Pub', 'short_name': 'Pub', 'plural_name': 'Pubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",502,Od Nowa. Studencki klub pracy twórczej,1.0,6.8
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",54,California Pizza Bar,1.0,
-"[{'id': 19013, 'name': 'Hostel', 'short_name': 'Hostel', 'plural_name': 'Hostels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hostel_', 'suffix': '.png'}}, {'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",55,Dom Pielgrzyma,,
-"[{'id': 13036, 'name': 'Tea Room', 'short_name': 'Tea Room', 'plural_name': 'Tea Rooms', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/tearoom_', 'suffix': '.png'}}, {'id': 13049, 'name': 'Diner', 'short_name': 'Diner', 'plural_name': 'Diners', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/diner_', 'suffix': '.png'}}]",99,Bar U Beaty,1.0,
-"[{'id': 13049, 'name': 'Diner', 'short_name': 'Diner', 'plural_name': 'Diners', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/diner_', 'suffix': '.png'}}]",112,Obiady u basi,1.0,
-"[{'id': 11042, 'name': 'Financial Service', 'short_name': 'Financial Service', 'plural_name': 'Financial Services', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/financial_', 'suffix': '.png'}}, {'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13052, 'name': 'Food Court', 'short_name': 'Food Court', 'plural_name': 'Food Courts', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/food_foodcourt_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",134,Smakuś,,
-"[{'id': 13099, 'name': 'Chinese Restaurant', 'short_name': 'Chinese', 'plural_name': 'Chinese Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/asian_', 'suffix': '.png'}}]",140,Chiński Kubek,1.0,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",855,Copernicus Toruń Hotel,,8.6
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13026, 'name': 'BBQ Joint', 'short_name': 'BBQ', 'plural_name': 'BBQ Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bbqalt_', 'suffix': '.png'}}, {'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",893,Widelec,2.0,8.4
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",369,Czarny Tulipan. Pub,2.0,7.4
-"[{'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}]",728,Azzurro,2.0,7.3
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",180,NY's Pizza,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}, {'id': 17057, 'name': 'Food and Beverage Retail', 'short_name': 'Food & Beverage', 'plural_name': 'Food and Beverage Retail', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_', 'suffix': '.png'}}]",265,Cukiernia & Cafe Weranda Anna Nitkowska,,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",282,Stachowski Daniel Bar,1.0,
-"[{'id': 13377, 'name': 'Vegan and Vegetarian Restaurant', 'short_name': 'Vegan and Vegetarian Restaurant', 'plural_name': 'Vegan and Vegetarian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/vegetarian_', 'suffix': '.png'}}]",289,Chwast Prast Vegetarian Bistro,2.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",296,Tara,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",317,Transcatering,,
-"[{'id': 13055, 'name': 'Fried Chicken Joint', 'short_name': 'Fried Chicken', 'plural_name': 'Fried Chicken Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/friedchicken_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",922,KFC,1.0,6.5
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",185,Dariusz Nowak,,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",247,Kawiarnia Staś Kwiatkowska Alicja,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",350,Pizzeria Yarpen,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",364,Caffe Bar. Drink-bar,2.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",430,Skrzynka,,
-"[{'id': 11167, 'name': 'Technology Business', 'short_name': 'Technology Business', 'plural_name': 'Technology Business', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/building/default_', 'suffix': '.png'}}, {'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",502,Policealna Szkoła Usług Turystycznych,,
-"[{'id': 13288, 'name': 'Kebab Restaurant', 'short_name': 'Kebab', 'plural_name': 'Kebab Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/middleeastern_', 'suffix': '.png'}}]",542,Ajsu Kebab,,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",758,Mała Gastronomia Cegielski Jerzy,1.0,
-"[{'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",763,Autosar. Restauracja,,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}]",930,Weranda Chełmińska,2.0,7.5
-"[{'id': 10032, 'name': 'Night Club', 'short_name': 'Night Club', 'plural_name': 'Night Clubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_', 'suffix': '.png'}}, {'id': 13018, 'name': 'Pub', 'short_name': 'Pub', 'plural_name': 'Pubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",780,Od Nowa. Studencki klub pracy twórczej,1.0,6.8
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",338,Cichy Zakątek S.C. Zembrzuska Magdalena Dąbrowska Kinga,1.0,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",433,Apartament ksiezycowy II,,
-"[{'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",507,Palce Lizać,,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",583,Pro Eco - Invest Sp. z o.o.,,
-"[{'id': 11042, 'name': 'Financial Service', 'short_name': 'Financial Service', 'plural_name': 'Financial Services', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/financial_', 'suffix': '.png'}}, {'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13052, 'name': 'Food Court', 'short_name': 'Food Court', 'plural_name': 'Food Courts', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/food_foodcourt_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",619,Smakuś,,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",634,Pizza Sfera,1.0,
-"[{'id': 13039, 'name': 'Deli', 'short_name': 'Deli', 'plural_name': 'Delis', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/deli_', 'suffix': '.png'}}]",640,Warpol,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",688,Bar Statystyk,,
-"[{'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}, {'id': 17057, 'name': 'Food and Beverage Retail', 'short_name': 'Food & Beverage', 'plural_name': 'Food and Beverage Retail', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_', 'suffix': '.png'}}]",16,"Lokal Elena – Wesele, Catering Toruń",,
-"[{'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",94,Elena. Restauracja,,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",567,Cichowicz Maria. Bufet,2.0,
-"[{'id': 13288, 'name': 'Kebab Restaurant', 'short_name': 'Kebab', 'plural_name': 'Kebab Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/middleeastern_', 'suffix': '.png'}}]",789,Rustico Kebab,,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}, {'id': 13356, 'name': 'Turkish Restaurant', 'short_name': 'Turkish', 'plural_name': 'Turkish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/turkish_', 'suffix': '.png'}}]",840,Planeta Kebab,2.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",906,Kawiarnia Staś Kwiatkowska Alicja,1.0,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",941,Forte Prim Sp. z o.o. Sp.k,,
-"[{'id': 13288, 'name': 'Kebab Restaurant', 'short_name': 'Kebab', 'plural_name': 'Kebab Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/middleeastern_', 'suffix': '.png'}}]",982,Ajsu Kebab,,
-"[{'id': 11020, 'name': 'Business and Strategy Consulting Office', 'short_name': 'Business and Strategy Consulting Office', 'plural_name': 'Business and Strategy Consulting Offices', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/building/default_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",540,Pcic Poland Sp. z o.o.,,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",793,DDG Restauracje Grotkowscy Danuta Grotkowskaplacówka Opiekuncza Danuta Grotkowska,,
-"[{'id': 13055, 'name': 'Fried Chicken Joint', 'short_name': 'Fried Chicken', 'plural_name': 'Fried Chicken Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/friedchicken_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",451,KFC,1.0,6.3
-"[{'id': 13099, 'name': 'Chinese Restaurant', 'short_name': 'Chinese', 'plural_name': 'Chinese Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/asian_', 'suffix': '.png'}}]",125,BIM Oriental Fast Food,1.0,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",162,"Hotel i Karczma ""Spichrz""",,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",200,Verona II S c Euro Car Bogusław Bojdo Aneta Bojdo,,
-"[{'id': 13031, 'name': 'Burger Joint', 'short_name': 'Burgers', 'plural_name': 'Burger Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/burger_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",445,McDonald's,1.0,5.8
-"[{'id': 13058, 'name': 'Hot Dog Joint', 'short_name': 'Hot Dogs', 'plural_name': 'Hot Dog Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/hotdog_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}]",324,Wild Bean Cafe,1.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",338,Przeds Handlowo Usługowe S.C. Airfort Stawicki Janusz Paruszewski Adam,1.0,
-"[{'id': 19013, 'name': 'Hostel', 'short_name': 'Hostel', 'plural_name': 'Hostels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hostel_', 'suffix': '.png'}}, {'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",374,Pokoje Alfa,,
-"[{'id': 13049, 'name': 'Diner', 'short_name': 'Diner', 'plural_name': 'Diners', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/diner_', 'suffix': '.png'}}]",374,Bar Hotelowy Alfa,1.0,
-"[{'id': 11124, 'name': 'Office', 'short_name': 'Office', 'plural_name': 'Offices', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/building/default_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",378,G132 Office & Restaurant,,
-"[{'id': 13016, 'name': 'Lounge', 'short_name': 'Lounge', 'plural_name': 'Lounges', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/default_', 'suffix': '.png'}}, {'id': 13026, 'name': 'BBQ Joint', 'short_name': 'BBQ', 'plural_name': 'BBQ Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bbqalt_', 'suffix': '.png'}}]",279,Widelec,2.0,6.6
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",216,McDonald's,1.0,6.1
-"[{'id': 13055, 'name': 'Fried Chicken Joint', 'short_name': 'Fried Chicken', 'plural_name': 'Fried Chicken Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/friedchicken_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",303,KFC,1.0,6.0
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",38,Ciechanowski Marian. Punkt małej gastronomii,2.0,
-"[{'id': 13031, 'name': 'Burger Joint', 'short_name': 'Burgers', 'plural_name': 'Burger Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/burger_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",201,Byczy Burger,1.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}, {'id': 13309, 'name': 'Middle Eastern Restaurant', 'short_name': 'Middle Eastern', 'plural_name': 'Middle Eastern Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/middleeastern_', 'suffix': '.png'}}]",202,Baalbek,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13338, 'name': 'Seafood Restaurant', 'short_name': 'Seafood', 'plural_name': 'Seafood Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/seafood_', 'suffix': '.png'}}]",216,North Fish,3.0,
-"[{'id': 13352, 'name': 'Thai Restaurant', 'short_name': 'Thai', 'plural_name': 'Thai Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/thai_', 'suffix': '.png'}}]",261,Bangkok Wok,2.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",267,Dołasiński Zbigniew Kasztelan Bar,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",303,"Baalbek sp.j. Cieślewicz A., Poddany J.",2.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",746,Montenegro,1.0,8.0
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}]",710,Weranda Chełmińska,2.0,7.5
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",805,Hotel Filmar,,7.1
-"[{'id': 13036, 'name': 'Tea Room', 'short_name': 'Tea Room', 'plural_name': 'Tea Rooms', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/tearoom_', 'suffix': '.png'}}, {'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",111,Pizzeria Pe-Pe Marek Mech,2.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",122,Pizzeria Promyk,1.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",212,Jankowska Małgorzata pod Koszem Bar,1.0,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",267,Simple Plan Ewelina Kosińska,,
-"[{'id': 13039, 'name': 'Deli', 'short_name': 'Deli', 'plural_name': 'Delis', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/deli_', 'suffix': '.png'}}]",334,Warpol,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",351,Pizza Sfera,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",370,Pizzeria Laguna,1.0,
-"[{'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13036, 'name': 'Tea Room', 'short_name': 'Tea Room', 'plural_name': 'Tea Rooms', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/tearoom_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",293,W obłokach cafe,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",774,Rubens & Monet,,
-"[{'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",954,Prim S.C. Kulpa Wiktor Kulpa Elżbieta,1.0,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",13991,"Rubbens. Hotel, Restauracja",,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",947,Usługi Kelnerskie Dominika Urbanik,,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",944,Hotel Filmar,,7.1
-"[{'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13347, 'name': 'Tapas Restaurant', 'short_name': 'Tapas', 'plural_name': 'Tapas Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/tapas_', 'suffix': '.png'}}]",980,Loft79,3.0,6.7
-"[{'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",138,Belfood Arkadiusz Szmytkowski,,
-"[{'id': 13356, 'name': 'Turkish Restaurant', 'short_name': 'Turkish', 'plural_name': 'Turkish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/turkish_', 'suffix': '.png'}}]",304,Zahir Kebab,2.0,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",315,Hotele Solaris Sp. z o.o.,,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",378,Mała Gastronomia Rożen Sós Piotr,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}]",393,Kashmir,2.0,
-"[{'id': 13018, 'name': 'Pub', 'short_name': 'Pub', 'plural_name': 'Pubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",481,Max. Pub,1.0,
-"[{'id': 13288, 'name': 'Kebab Restaurant', 'short_name': 'Kebab', 'plural_name': 'Kebab Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/middleeastern_', 'suffix': '.png'}}]",540,Kebab,,
-"[{'id': 13099, 'name': 'Chinese Restaurant', 'short_name': 'Chinese', 'plural_name': 'Chinese Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/asian_', 'suffix': '.png'}}]",580,Thienlong,1.0,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",14936,"Rubbens. Hotel, Restauracja",,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",434,KFC,,6.2
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",56,Sandżak Sp. z o.o.,,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",61,Montenegro,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",94,"Bapol s.c. Przedsiębiorstwo handlowo - gastronomiczne. Męcner J., Fedorowicz B.",2.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",268,Pizza Hut,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",356,Fenix. Firma handlowo - gastronomiczna,2.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13305, 'name': 'Burrito Restaurant', 'short_name': 'Burritos', 'plural_name': 'Burrito Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/burrito_', 'suffix': '.png'}}]",429,Tapas,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",429,Firma Tapas Odolecka Jolanta,,
-"[{'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",434,Cube Cafe. Kawiarnia Multiconcept. Sp. Z O.o.,1.0,
-"[{'id': 13334, 'name': 'Sandwich Spot', 'short_name': 'Sandwich Spot', 'plural_name': 'Sandwich Spots', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/deli_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",441,Subway,1.0,
-"[{'id': 13055, 'name': 'Fried Chicken Joint', 'short_name': 'Fried Chicken', 'plural_name': 'Fried Chicken Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/friedchicken_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",281,KFC,1.0,6.5
-"[{'id': 13058, 'name': 'Hot Dog Joint', 'short_name': 'Hot Dogs', 'plural_name': 'Hot Dog Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/hotdog_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}]",277,Wild Bean Cafe,1.0,
-"[{'id': 13288, 'name': 'Kebab Restaurant', 'short_name': 'Kebab', 'plural_name': 'Kebab Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/middleeastern_', 'suffix': '.png'}}]",293,Ajsu Kebab,,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",324,Pizzeria Don Corleone,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",396,Skrzynka,,
-"[{'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",431,Dobry Adres Kuchnia i Pub,1.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",433,Mała Gastronomia Cegielski Jerzy,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",466,Caffe Bar. Drink-bar,2.0,
-"[{'id': 13031, 'name': 'Burger Joint', 'short_name': 'Burgers', 'plural_name': 'Burger Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/burger_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",559,McDonald's,1.0,5.6
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",496,Pizzeria Yarpen,1.0,
-"[{'id': 13041, 'name': 'Creperie', 'short_name': 'Creperie', 'plural_name': 'Creperies', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/creperie_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",671,Manekin,,8.4
-"[{'id': 13334, 'name': 'Sandwich Spot', 'short_name': 'Sandwich Spot', 'plural_name': 'Sandwich Spots', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/deli_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",43,Subway,1.0,6.5
-"[{'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}]",968,Azzurro,2.0,7.3
-"[{'id': 13031, 'name': 'Burger Joint', 'short_name': 'Burgers', 'plural_name': 'Burger Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/burger_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",158,McDonald's,1.0,6.0
-"[{'id': 13338, 'name': 'Seafood Restaurant', 'short_name': 'Seafood', 'plural_name': 'Seafood Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/seafood_', 'suffix': '.png'}}]",41,North Fish,3.0,
-"[{'id': 13072, 'name': 'Asian Restaurant', 'short_name': 'Asian', 'plural_name': 'Asian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/asian_', 'suffix': '.png'}}]",74,Smaki Azji,2.0,
-"[{'id': 13031, 'name': 'Burger Joint', 'short_name': 'Burgers', 'plural_name': 'Burger Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/burger_', 'suffix': '.png'}}]",90,burgeroWnia,1.0,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",99,Kosmos Hotel Torun,,
-"[{'id': 13360, 'name': 'Doner Restaurant', 'short_name': 'Doner', 'plural_name': 'Doner Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/turkish_', 'suffix': '.png'}}]",159,Arianos Döner Kebab,,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",161,Misada,,
-"[{'id': 13041, 'name': 'Creperie', 'short_name': 'Creperie', 'plural_name': 'Creperies', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/creperie_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",405,Manekin,,8.4
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13026, 'name': 'BBQ Joint', 'short_name': 'BBQ', 'plural_name': 'BBQ Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bbqalt_', 'suffix': '.png'}}, {'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",693,Widelec,2.0,8.4
-"[{'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}]",810,Azzurro,2.0,7.3
-"[{'id': 10032, 'name': 'Night Club', 'short_name': 'Night Club', 'plural_name': 'Night Clubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_', 'suffix': '.png'}}, {'id': 13018, 'name': 'Pub', 'short_name': 'Pub', 'plural_name': 'Pubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",672,Od Nowa. Studencki klub pracy twórczej,1.0,6.8
-"[{'id': 13334, 'name': 'Sandwich Spot', 'short_name': 'Sandwich Spot', 'plural_name': 'Sandwich Spots', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/deli_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",859,Subway,1.0,6.5
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",24,Adaś. Bar,,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",378,Mr.Capone,1.0,6.0
-"[{'id': 13049, 'name': 'Diner', 'short_name': 'Diner', 'plural_name': 'Diners', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/diner_', 'suffix': '.png'}}]",130,Paluch stołówka,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13030, 'name': 'Buffet', 'short_name': 'Buffet', 'plural_name': 'Buffets', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}]",137,Bar ZIEMniaczek,,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",230,Hotel Uniwersytecki,,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13026, 'name': 'BBQ Joint', 'short_name': 'BBQ', 'plural_name': 'BBQ Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bbqalt_', 'suffix': '.png'}}, {'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",440,Widelec,2.0,8.4
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",234,Czarny Tulipan. Pub,2.0,7.4
-"[{'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}]",298,Azzurro,2.0,7.3
-"[{'id': 10032, 'name': 'Night Club', 'short_name': 'Night Club', 'plural_name': 'Night Clubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_', 'suffix': '.png'}}, {'id': 13018, 'name': 'Pub', 'short_name': 'Pub', 'plural_name': 'Pubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",589,Od Nowa. Studencki klub pracy twórczej,1.0,6.8
-"[{'id': 13191, 'name': 'Halal Restaurant', 'short_name': 'Halal', 'plural_name': 'Halal Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/halal_', 'suffix': '.png'}}]",95,Murat Kebap,,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",107,Soczek raz dwa,2.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",167,El Ninio,2.0,
-"[{'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",182,Jagoda,,
-"[{'id': 13377, 'name': 'Vegan and Vegetarian Restaurant', 'short_name': 'Vegan and Vegetarian Restaurant', 'plural_name': 'Vegan and Vegetarian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/vegetarian_', 'suffix': '.png'}}]",195,Chwast Prast Vegetarian Bistro,2.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",216,Mała gastronomia Bar U Dziadka,,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",348,Lawenda,,
-"[{'id': 13031, 'name': 'Burger Joint', 'short_name': 'Burgers', 'plural_name': 'Burger Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/burger_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",413,Kęs Dobry,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",425,"Restauracja ""PIĄTA KLEPKA"" Agnieszka Borkowska",,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",639,Dynasińska Maria Shangri La,,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",842,Rafa. Pizzeria,1.0,
-"[{'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",31,Firma Usł Gastronom Wiktor S.C. Modzelewska Alicja Modzelewska Kinga,,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",42,"""Wiki"" Pizzeria Beata Chmurzyńska",,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}, {'id': 17077, 'name': 'Meat and Seafood Store', 'short_name': 'Meat and Seafood Store', 'plural_name': 'Meat and Seafood Stores', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_', 'suffix': '.png'}}]",49,Kola Sklep Mięsno-Spożywczy. Kolasiński Tomasz Toruń,,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",171,Marco. Pizzeria,,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",222,Firma Handlowo-Gastronomiczna. Grzebińska Teodozja Toruń,,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13026, 'name': 'BBQ Joint', 'short_name': 'BBQ', 'plural_name': 'BBQ Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bbqalt_', 'suffix': '.png'}}, {'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",160,Widelec,2.0,8.4
-"[{'id': 10032, 'name': 'Night Club', 'short_name': 'Night Club', 'plural_name': 'Night Clubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_', 'suffix': '.png'}}, {'id': 13018, 'name': 'Pub', 'short_name': 'Pub', 'plural_name': 'Pubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",20,Od Nowa. Studencki klub pracy twórczej,1.0,6.8
-"[{'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}]",610,Azzurro,2.0,7.3
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",827,Czarny Tulipan. Pub,2.0,7.4
-"[{'id': 10000, 'name': 'Arts and Entertainment', 'short_name': 'Arts & Entertainment', 'plural_name': 'Arts and Entertainment', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_', 'suffix': '.png'}}, {'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",25,Od Nowa MZK,,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",98,Hotel Asystencki nr 2,,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",245,Bar Małej Gastronomi Baszyński Piotr,,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",656,Mr.Capone,1.0,6.0
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",381,Mała gastronomia Bar U Dziadka,,
-"[{'id': 13099, 'name': 'Chinese Restaurant', 'short_name': 'Chinese', 'plural_name': 'Chinese Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/asian_', 'suffix': '.png'}}]",394,Chiński Kubek,1.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",191,Cybermachina Przemysław Benedykciński,1.0,
-"[{'id': 13049, 'name': 'Diner', 'short_name': 'Diner', 'plural_name': 'Diners', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/diner_', 'suffix': '.png'}}]",229,Pora Obiadowa,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",319,Krągłe Placki,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",340,Pub Na Pętli,2.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",507,"Agnieszka Płachta Blue Cactus, Blue Home",,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",517,Chilli. Maćczak M.,2.0,
-"[{'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",685,Siwy Dym,,
-"[{'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",767,Prim S.C. Kulpa Wiktor Kulpa Elżbieta,1.0,
-"[{'id': 13338, 'name': 'Seafood Restaurant', 'short_name': 'Seafood', 'plural_name': 'Seafood Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/seafood_', 'suffix': '.png'}}]",796,Gruba Ryba,3.0,
-"[{'id': 13099, 'name': 'Chinese Restaurant', 'short_name': 'Chinese', 'plural_name': 'Chinese Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/asian_', 'suffix': '.png'}}]",796,Thienlong,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",860,Montenegro,1.0,8.0
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",42,Kinga Łuczak Usługi Hotelowe,,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",105,Klif. Bar,2.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",109,Klif. Bar,2.0,
-"[{'id': 13055, 'name': 'Fried Chicken Joint', 'short_name': 'Fried Chicken', 'plural_name': 'Fried Chicken Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/friedchicken_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",962,KFC,1.0,6.3
-"[{'id': 13002, 'name': 'Bakery', 'short_name': 'Bakery', 'plural_name': 'Bakeries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bakery_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",260,Stara Paczkarnia,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",351,Pizzeria Wenecja,1.0,
-"[{'id': 13036, 'name': 'Tea Room', 'short_name': 'Tea Room', 'plural_name': 'Tea Rooms', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/tearoom_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",360,Lodmix Szczególski Sławomir,2.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",392,Drink Bar Sierżant Dawid Kościecha,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",507,Blue Kaktus. Pub,2.0,
-"[{'id': 13055, 'name': 'Fried Chicken Joint', 'short_name': 'Fried Chicken', 'plural_name': 'Fried Chicken Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/friedchicken_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",412,KFC,1.0,6.5
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",163,Mała Gastronomia Cegielski Jerzy,1.0,
-"[{'id': 13058, 'name': 'Hot Dog Joint', 'short_name': 'Hot Dogs', 'plural_name': 'Hot Dog Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/hotdog_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}]",383,Wild Bean Cafe,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",489,Pizzeria Yarpen,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",519,Caffe Bar. Drink-bar,2.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",525,Skrzynka,,
-"[{'id': 13288, 'name': 'Kebab Restaurant', 'short_name': 'Kebab', 'plural_name': 'Kebab Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/middleeastern_', 'suffix': '.png'}}]",599,Ajsu Kebab,,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",635,Kawiarnia Staś Kwiatkowska Alicja,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",639,Dariusz Nowak,,
-"[{'id': 11167, 'name': 'Technology Business', 'short_name': 'Technology Business', 'plural_name': 'Technology Business', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/building/default_', 'suffix': '.png'}}, {'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",714,Policealna Szkoła Usług Turystycznych,,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",50,Krystyna Bryla Mala Gastronomia Lodziarnia,,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",102,Punkt Sprzedaży Małej Gastronomi Koźlikowska Aleksandra,1.0,
-"[{'id': 13288, 'name': 'Kebab Restaurant', 'short_name': 'Kebab', 'plural_name': 'Kebab Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/middleeastern_', 'suffix': '.png'}}]",108,Ajsu Kebab,,
-"[{'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",156,Kwadrans Cafe Toruń,1.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",156,Kebab Star,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",178,Portos,2.0,
-"[{'id': 11086, 'name': 'General Contractor', 'short_name': 'General Contractor', 'plural_name': 'General Contractors', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/hardware_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",185,Mar Changlin Chang Lin Firma,,
-"[{'id': 13099, 'name': 'Chinese Restaurant', 'short_name': 'Chinese', 'plural_name': 'Chinese Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/asian_', 'suffix': '.png'}}]",190,Restauracja Chińska Chang Lin,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",199,Gruby Benek. Pizzeria,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",291,Enigma,2.0,
-"[{'id': 13041, 'name': 'Creperie', 'short_name': 'Creperie', 'plural_name': 'Creperies', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/creperie_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",578,Manekin,,8.4
-"[{'id': 13024, 'name': 'Whisky Bar', 'short_name': 'Whisky Bar', 'plural_name': 'Whisky Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/whiskey_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",810,Coffee & Whisky House,3.0,8.8
-"[{'id': 13002, 'name': 'Bakery', 'short_name': 'Bakery', 'plural_name': 'Bakeries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bakery_', 'suffix': '.png'}}, {'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",656,Bread House Cafe,1.0,8.4
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}]",731,Szeroka No.9,,8.5
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",545,Pierogarnia Stary Toruń,1.0,8.1
-"[{'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",834,Apartamenty Monka,,8.4
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",945,Copernicus Toruń Hotel,,8.6
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",749,Pierogarnia Stary Młyn,1.0,8.1
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13029, 'name': 'Brewery', 'short_name': 'Brewery', 'plural_name': 'Breweries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/brewery_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",598,Jan Olbracht Browar Staromiejski,2.0,7.8
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",759,Stare Metropolis,1.0,7.2
-"[{'id': 13055, 'name': 'Fried Chicken Joint', 'short_name': 'Fried Chicken', 'plural_name': 'Fried Chicken Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/friedchicken_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",103,KFC,1.0,6.3
-"[{'id': 13031, 'name': 'Burger Joint', 'short_name': 'Burgers', 'plural_name': 'Burger Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/burger_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",55,McDonald's,1.0,5.8
-"[{'id': 19013, 'name': 'Hostel', 'short_name': 'Hostel', 'plural_name': 'Hostels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hostel_', 'suffix': '.png'}}, {'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",65,Pokoje Alfa,,
-"[{'id': 13049, 'name': 'Diner', 'short_name': 'Diner', 'plural_name': 'Diners', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/diner_', 'suffix': '.png'}}]",65,Bar Hotelowy Alfa,1.0,
-"[{'id': 11124, 'name': 'Office', 'short_name': 'Office', 'plural_name': 'Offices', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/building/default_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",70,G132 Office & Restaurant,,
-"[{'id': 13058, 'name': 'Hot Dog Joint', 'short_name': 'Hot Dogs', 'plural_name': 'Hot Dog Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/hotdog_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}]",79,Wild Bean Cafe,1.0,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",313,"Hotel i Karczma ""Spichrz""",,
-"[{'id': 13058, 'name': 'Hot Dog Joint', 'short_name': 'Hot Dogs', 'plural_name': 'Hot Dog Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/hotdog_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}]",319,Wild Bean Cafe,1.0,
-"[{'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",339,Mio Piano Restaurant,2.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",367,Blue Kaktus. Pub,2.0,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",743,Hotel Filmar,,7.1
-"[{'id': 13288, 'name': 'Kebab Restaurant', 'short_name': 'Kebab', 'plural_name': 'Kebab Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/middleeastern_', 'suffix': '.png'}}]",66,Kebab,,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13177, 'name': 'Greek Restaurant', 'short_name': 'Greek', 'plural_name': 'Greek Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/greek_', 'suffix': '.png'}}, {'id': 13302, 'name': 'Mediterranean Restaurant', 'short_name': 'Mediterranean', 'plural_name': 'Mediterranean Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/mediterranean_', 'suffix': '.png'}}]",83,Mediterian,2.0,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",234,Apartament Delfin II,,
-"[{'id': 13049, 'name': 'Diner', 'short_name': 'Diner', 'plural_name': 'Diners', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/diner_', 'suffix': '.png'}}]",256,Jajcarnia,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",265,Restauracja Olimpia Toruń,,
-"[{'id': 18075, 'name': 'Swimming Pool', 'short_name': 'Pool', 'plural_name': 'Swimming Pools', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/parks_outdoors/pool_', 'suffix': '.png'}}, {'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",273,Kryta Pływalnia z Hotelikiem,,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",292,Mr Chicken,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",300,Atena. Pizzeria,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",315,Serjusz Szymon Rosiński,,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",469,Copernicus Toruń Hotel,,8.6
-"[{'id': 13002, 'name': 'Bakery', 'short_name': 'Bakery', 'plural_name': 'Bakeries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bakery_', 'suffix': '.png'}}, {'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",434,Bread House Cafe,1.0,8.4
-"[{'id': 13024, 'name': 'Whisky Bar', 'short_name': 'Whisky Bar', 'plural_name': 'Whisky Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/whiskey_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",603,Coffee & Whisky House,3.0,8.8
-"[{'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",590,Apartamenty Monka,,8.4
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}]",806,Szeroka No.9,,8.5
-"[{'id': 13041, 'name': 'Creperie', 'short_name': 'Creperie', 'plural_name': 'Creperies', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/creperie_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",833,Manekin,,8.4
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",692,Pierogarnia Stary Toruń,1.0,8.1
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",756,Pierogarnia Stary Młyn,1.0,8.1
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13029, 'name': 'Brewery', 'short_name': 'Brewery', 'plural_name': 'Breweries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/brewery_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",648,Jan Olbracht Browar Staromiejski,2.0,7.8
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",757,Stare Metropolis,1.0,7.2
-"[{'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",113,Piekuś Bistro,,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",361,Przewoski Lech Żak,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",549,Bar Kebab Gabi Mariola Tomaszewska,,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",555,Pizzeria Haos,1.0,
-"[{'id': 13039, 'name': 'Deli', 'short_name': 'Deli', 'plural_name': 'Delis', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/deli_', 'suffix': '.png'}}]",576,Delikatesy 34,1.0,
-"[{'id': 13036, 'name': 'Tea Room', 'short_name': 'Tea Room', 'plural_name': 'Tea Rooms', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/tearoom_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",652,Domowa Barbara Langierowicz,2.0,
-"[{'id': 11056, 'name': 'Food and Beverage Service', 'short_name': 'Food Service', 'plural_name': 'Food and Beverage Services', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_', 'suffix': '.png'}}, {'id': 17025, 'name': 'Electronics Store', 'short_name': 'Electronics', 'plural_name': 'Electronics Stores', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/technology_', 'suffix': '.png'}}, {'id': 17082, 'name': 'Furniture and Home Store', 'short_name': 'Furniture and Home Store', 'plural_name': 'Furniture and Home Stores', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/furniture_', 'suffix': '.png'}}, {'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",706,"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",723,Klif. Bar,2.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",728,Klif. Bar,2.0,
-"[{'id': 13039, 'name': 'Deli', 'short_name': 'Deli', 'plural_name': 'Delis', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/deli_', 'suffix': '.png'}}]",767,Delikates,1.0,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",497,Hotel Filmar,,7.1
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",39,Bar Krokiecik Toruń,,
-"[{'id': 13026, 'name': 'BBQ Joint', 'short_name': 'BBQ', 'plural_name': 'BBQ Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bbqalt_', 'suffix': '.png'}}]",100,Bar BQ,2.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",118,Domino's Pizza,1.0,
-"[{'id': 13379, 'name': 'Vietnamese Restaurant', 'short_name': 'Vietnamese', 'plural_name': 'Vietnamese Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/vietnamese_', 'suffix': '.png'}}]",132,Bar Orientalny HANOI,2.0,
-"[{'id': 13002, 'name': 'Bakery', 'short_name': 'Bakery', 'plural_name': 'Bakeries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bakery_', 'suffix': '.png'}}, {'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",142,Bar Azyl Dorota Jakimiak Toruń,1.0,
-"[{'id': 13360, 'name': 'Doner Restaurant', 'short_name': 'Doner', 'plural_name': 'Doner Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/turkish_', 'suffix': '.png'}}]",257,Polish Kebab,,
-"[{'id': 13288, 'name': 'Kebab Restaurant', 'short_name': 'Kebab', 'plural_name': 'Kebab Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/middleeastern_', 'suffix': '.png'}}]",257,Dzięgiel Jacek. Kebab,,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",280,Domino's Pizza,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",289,Atena. Pizzeria,1.0,
-"[{'id': 13288, 'name': 'Kebab Restaurant', 'short_name': 'Kebab', 'plural_name': 'Kebab Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/middleeastern_', 'suffix': '.png'}}]",82,Zahir Kebab,,
-"[{'id': 13338, 'name': 'Seafood Restaurant', 'short_name': 'Seafood', 'plural_name': 'Seafood Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/seafood_', 'suffix': '.png'}}]",109,Gruba Ryba,3.0,
-"[{'id': 13099, 'name': 'Chinese Restaurant', 'short_name': 'Chinese', 'plural_name': 'Chinese Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/asian_', 'suffix': '.png'}}]",109,Thienlong,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",324,Chilli. Maćczak M.,2.0,
-"[{'id': 13039, 'name': 'Deli', 'short_name': 'Deli', 'plural_name': 'Delis', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/deli_', 'suffix': '.png'}}]",594,Delikates,1.0,
-"[{'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",605,Siwy Dym,,
-"[{'id': 11056, 'name': 'Food and Beverage Service', 'short_name': 'Food Service', 'plural_name': 'Food and Beverage Services', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_', 'suffix': '.png'}}, {'id': 17025, 'name': 'Electronics Store', 'short_name': 'Electronics', 'plural_name': 'Electronics Stores', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/technology_', 'suffix': '.png'}}, {'id': 17082, 'name': 'Furniture and Home Store', 'short_name': 'Furniture and Home Store', 'plural_name': 'Furniture and Home Stores', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/furniture_', 'suffix': '.png'}}, {'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",617,"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",,
-"[{'id': 13036, 'name': 'Tea Room', 'short_name': 'Tea Room', 'plural_name': 'Tea Rooms', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/tearoom_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",629,Domowa Barbara Langierowicz,2.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",725,Tomasz Tokarz,,
-"[{'id': 13049, 'name': 'Diner', 'short_name': 'Diner', 'plural_name': 'Diners', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/diner_', 'suffix': '.png'}}]",727,Pora Obiadowa,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13026, 'name': 'BBQ Joint', 'short_name': 'BBQ', 'plural_name': 'BBQ Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bbqalt_', 'suffix': '.png'}}, {'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",578,Widelec,2.0,8.4
-"[{'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}]",489,Azzurro,2.0,7.3
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",862,Czarny Tulipan. Pub,2.0,7.4
-"[{'id': 10032, 'name': 'Night Club', 'short_name': 'Night Club', 'plural_name': 'Night Clubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_', 'suffix': '.png'}}, {'id': 13018, 'name': 'Pub', 'short_name': 'Pub', 'plural_name': 'Pubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",642,Od Nowa. Studencki klub pracy twórczej,1.0,6.8
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",29,Mr.Capone,1.0,6.0
-"[{'id': 13334, 'name': 'Sandwich Spot', 'short_name': 'Sandwich Spot', 'plural_name': 'Sandwich Spots', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/deli_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",669,Subway,1.0,6.5
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",6,Budzik Coffee Bartłomiej Maciejewski,1.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",17,Taica Frias Heli CLUB LATINO,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",22,Maximus S.C. Bar-Pizzeria Toruń,1.0,
-"[{'id': 13049, 'name': 'Diner', 'short_name': 'Diner', 'plural_name': 'Diners', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/diner_', 'suffix': '.png'}}]",40,Domowa,1.0,
-"[{'id': 13041, 'name': 'Creperie', 'short_name': 'Creperie', 'plural_name': 'Creperies', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/creperie_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",986,Manekin,,8.4
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",310,Hotel Filmar,,7.1
-"[{'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13347, 'name': 'Tapas Restaurant', 'short_name': 'Tapas', 'plural_name': 'Tapas Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/tapas_', 'suffix': '.png'}}]",731,Loft79,3.0,6.7
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",95,Ziemniak Czy Rybka,2.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",131,Domino's Pizza,1.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",157,Mr Chicken,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",249,Atena. Pizzeria,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",274,Jordan Edyta Maciejewska,2.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",310,Restauracja Róża Wiatrów,,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",327,Filmar Service Sp. z o.o.,,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",843,Montenegro,1.0,8.0
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}]",686,Weranda Chełmińska,2.0,7.5
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",899,Hotel Filmar,,7.1
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",173,Pro Eco - Invest Sp. z o.o.,,
-"[{'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",176,Palce Lizać,,
-"[{'id': 13039, 'name': 'Deli', 'short_name': 'Deli', 'plural_name': 'Delis', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/deli_', 'suffix': '.png'}}]",214,Warpol,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",216,Pizza Sfera,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",345,Pizzeria Laguna,1.0,
-"[{'id': 10032, 'name': 'Night Club', 'short_name': 'Night Club', 'plural_name': 'Night Clubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_', 'suffix': '.png'}}, {'id': 13018, 'name': 'Pub', 'short_name': 'Pub', 'plural_name': 'Pubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",394,Pamela. Pub,1.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",405,Cichy Zakątek S.C. Zembrzuska Magdalena Dąbrowska Kinga,1.0,
-"[{'id': 13016, 'name': 'Lounge', 'short_name': 'Lounge', 'plural_name': 'Lounges', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/default_', 'suffix': '.png'}}, {'id': 13026, 'name': 'BBQ Joint', 'short_name': 'BBQ', 'plural_name': 'BBQ Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bbqalt_', 'suffix': '.png'}}]",311,Widelec,2.0,6.6
-"[{'id': 13055, 'name': 'Fried Chicken Joint', 'short_name': 'Fried Chicken', 'plural_name': 'Fried Chicken Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/friedchicken_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",34,KFC,1.0,6.0
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",156,McDonald's,1.0,6.1
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",22,Pizza Dominium,1.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",34,Słodka Chmurka Piotr Moroz,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",38,"Baalbek sp.j. Cieślewicz A., Poddany J.",2.0,
-"[{'id': 13352, 'name': 'Thai Restaurant', 'short_name': 'Thai', 'plural_name': 'Thai Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/thai_', 'suffix': '.png'}}]",70,Bangkok Wok,2.0,
-"[{'id': 13334, 'name': 'Sandwich Spot', 'short_name': 'Sandwich Spot', 'plural_name': 'Sandwich Spots', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/deli_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",94,Subway,1.0,
-"[{'id': 13288, 'name': 'Kebab Restaurant', 'short_name': 'Kebab', 'plural_name': 'Kebab Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/middleeastern_', 'suffix': '.png'}}]",109,Copernicus Döner Kebap,,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13338, 'name': 'Seafood Restaurant', 'short_name': 'Seafood', 'plural_name': 'Seafood Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/seafood_', 'suffix': '.png'}}]",144,North Fish,3.0,
-"[{'id': 13041, 'name': 'Creperie', 'short_name': 'Creperie', 'plural_name': 'Creperies', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/creperie_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",341,Manekin,,8.4
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}]",582,Szeroka No.9,,8.5
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",423,Pierogarnia Stary Toruń,1.0,8.1
-"[{'id': 13024, 'name': 'Whisky Bar', 'short_name': 'Whisky Bar', 'plural_name': 'Whisky Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/whiskey_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",832,Coffee & Whisky House,3.0,8.8
-"[{'id': 13002, 'name': 'Bakery', 'short_name': 'Bakery', 'plural_name': 'Bakeries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bakery_', 'suffix': '.png'}}, {'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",739,Bread House Cafe,1.0,8.4
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",645,Pierogarnia Stary Młyn,1.0,8.1
-"[{'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",872,Apartamenty Monka,,8.4
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13029, 'name': 'Brewery', 'short_name': 'Brewery', 'plural_name': 'Breweries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/brewery_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",525,Jan Olbracht Browar Staromiejski,2.0,7.8
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",658,Stare Metropolis,1.0,7.2
-"[{'id': 10037, 'name': 'Concert Hall', 'short_name': 'Concert Hall', 'plural_name': 'Concert Halls', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_', 'suffix': '.png'}}, {'id': 10041, 'name': 'Rock Club', 'short_name': 'Rock Club', 'plural_name': 'Rock Clubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_rockclub_', 'suffix': '.png'}}, {'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",721,Lizard King,,7.0
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",64,Zapiekarnia,1.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",103,Zapiekanki na dworcu,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",103,Spichrz,,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",524,Budowlani Toruń,,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",532,La Pablo. FHU. Wiwatowski P.,1.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",555,Folborska Monika Marcello,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",577,Start Bar. Bugajski Artur Toruń,2.0,
-"[{'id': 13072, 'name': 'Asian Restaurant', 'short_name': 'Asian', 'plural_name': 'Asian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/asian_', 'suffix': '.png'}}]",674,Kim Orient,2.0,
-"[{'id': 13377, 'name': 'Vegan and Vegetarian Restaurant', 'short_name': 'Vegan and Vegetarian Restaurant', 'plural_name': 'Vegan and Vegetarian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/vegetarian_', 'suffix': '.png'}}]",938,Green Way,2.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",994,Dakat Firma. Dróżdż Teresa Toruń,,
-"[{'id': 13041, 'name': 'Creperie', 'short_name': 'Creperie', 'plural_name': 'Creperies', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/creperie_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",210,Manekin,,8.4
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}]",276,Szeroka No.9,,8.5
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",324,Pierogarnia Stary Toruń,1.0,8.1
-"[{'id': 13024, 'name': 'Whisky Bar', 'short_name': 'Whisky Bar', 'plural_name': 'Whisky Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/whiskey_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",657,Coffee & Whisky House,3.0,8.8
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",370,Pierogarnia Stary Młyn,1.0,8.1
-"[{'id': 13002, 'name': 'Bakery', 'short_name': 'Bakery', 'plural_name': 'Bakeries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bakery_', 'suffix': '.png'}}, {'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",684,Bread House Cafe,1.0,8.4
-"[{'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",707,Apartamenty Monka,,8.4
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13029, 'name': 'Brewery', 'short_name': 'Brewery', 'plural_name': 'Breweries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/brewery_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",388,Jan Olbracht Browar Staromiejski,2.0,7.8
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",382,Stare Metropolis,1.0,7.2
-"[{'id': 10037, 'name': 'Concert Hall', 'short_name': 'Concert Hall', 'plural_name': 'Concert Halls', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_', 'suffix': '.png'}}, {'id': 10041, 'name': 'Rock Club', 'short_name': 'Rock Club', 'plural_name': 'Rock Clubs', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_rockclub_', 'suffix': '.png'}}, {'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",506,Lizard King,,7.0
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",228,Oscar apartments,2.0,
-"[{'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",433,Restaracja Walter,,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",437,Hotel Walter,,
-"[{'id': 17000, 'name': 'Retail', 'short_name': 'Retail', 'plural_name': 'Retail', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/default_', 'suffix': '.png'}}, {'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",447,"Zakład Handlowo Usługowo Produkcyjny ""WALTER"" Walter Tadeusz",,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",474,Towimor. Bar,,
-"[{'id': 13002, 'name': 'Bakery', 'short_name': 'Bakery', 'plural_name': 'Bakeries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bakery_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",195,Przystanek Piekus,1.0,
-"[{'id': 13031, 'name': 'Burger Joint', 'short_name': 'Burgers', 'plural_name': 'Burger Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/burger_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",201,McDonald's,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",322,Dakat Firma. Dróżdż Teresa Toruń,,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",419,Zajazd Torunski,,
-"[{'id': 13058, 'name': 'Hot Dog Joint', 'short_name': 'Hot Dogs', 'plural_name': 'Hot Dog Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/hotdog_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}]",522,Wild Bean Cafe,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",756,Start Bar. Bugajski Artur Toruń,2.0,
-"[{'id': 13072, 'name': 'Asian Restaurant', 'short_name': 'Asian', 'plural_name': 'Asian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/asian_', 'suffix': '.png'}}]",800,Kim Orient,2.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",820,Pizzeria Laguna,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",874,La Pablo. FHU. Wiwatowski P.,1.0,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}]",87,Bar Leśny,,
-"[{'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",110,Trzy Smaki,,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",139,Urbański,,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",227,Graffico. Producent pylonów i witaczy,,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",282,Mała Gastronomia Galczak Jolanta,1.0,
-"[{'id': 19013, 'name': 'Hostel', 'short_name': 'Hostel', 'plural_name': 'Hostels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hostel_', 'suffix': '.png'}}, {'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",567,Fort IV,,5.7
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",533,Twierdza Torun,,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",559,Laskowska Rudnicka Violetta Viola Firma handlowo usługowa - Torun,,
-"[{'id': 13139, 'name': 'Eastern European Restaurant', 'short_name': 'Eastern European', 'plural_name': 'Eastern European Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",588,Restauracja Forteczna,2.0,
-"[{'id': 13288, 'name': 'Kebab Restaurant', 'short_name': 'Kebab', 'plural_name': 'Kebab Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/middleeastern_', 'suffix': '.png'}}]",625,Kebabmaniak,,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",626,Batory,,
-"[{'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",693,F.H.U Przy Złotej Wyspie Ewelina Fiedorowicz,,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",784,Restauracja Monte Carlo,1.0,
-"[{'id': 13055, 'name': 'Fried Chicken Joint', 'short_name': 'Fried Chicken', 'plural_name': 'Fried Chicken Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/friedchicken_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",747,KFC,1.0,6.5
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",84,Roma. Pizzeria,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13314, 'name': 'New American Restaurant', 'short_name': 'New American', 'plural_name': 'New American Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/newamerican_', 'suffix': '.png'}}]",95,New York Pizza Department Toruń,1.0,
-"[{'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",101,Jadło Do Syta,,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",111,Verdad Sp. z o.o.,,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",127,Restauracja Jadło Polskie,,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",171,E-Pizzeria.Pl Krzysztof Pawłowski,1.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",183,Przedsiębiorstwo Handlowo Usługowe Kowalik Maria,1.0,
-"[{'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",206,Servus Sp. z o.o.,,
-"[{'id': 13031, 'name': 'Burger Joint', 'short_name': 'Burgers', 'plural_name': 'Burger Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/burger_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",314,McDonald's,1.0,5.6
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",160,Lawenda,,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",179,Dynasińska Maria Shangri La,,
-"[{'id': 13031, 'name': 'Burger Joint', 'short_name': 'Burgers', 'plural_name': 'Burger Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/burger_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",281,Kęs Dobry,1.0,
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}]",691,Rafa. Pizzeria,1.0,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",691,Folborska Monika Marcello,1.0,
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",761,"Restauracja ""PIĄTA KLEPKA"" Agnieszka Borkowska",,
-"[{'id': 11056, 'name': 'Food and Beverage Service', 'short_name': 'Food Service', 'plural_name': 'Food and Beverage Services', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_', 'suffix': '.png'}}, {'id': 13036, 'name': 'Tea Room', 'short_name': 'Tea Room', 'plural_name': 'Tea Rooms', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/tearoom_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",120,Yomi S.C. Joanna Sowińska Michalina Bratkowska,,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}, {'id': 17033, 'name': 'Department Store', 'short_name': 'Department Store', 'plural_name': 'Department Stores', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/departmentstore_', 'suffix': '.png'}}, {'id': 17057, 'name': 'Food and Beverage Retail', 'short_name': 'Food & Beverage', 'plural_name': 'Food and Beverage Retail', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_', 'suffix': '.png'}}]",186,Przedsiębiorstwo Handlowo Usługowe Majus Cander Tomasz,,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",365,Firma Handlowo-Gastronomiczna. Grzebińska Teodozja Toruń,,
-"[{'id': 19010, 'name': 'Bed and Breakfast', 'short_name': 'Bed and Breakfast', 'plural_name': 'Bed and Breakfasts', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/bedandbreakfast_', 'suffix': '.png'}}, {'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",429,Pensjonat LAZUR,,
-"[{'id': 13041, 'name': 'Creperie', 'short_name': 'Creperie', 'plural_name': 'Creperies', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/creperie_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",708,Manekin,,8.4
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}]",786,Szeroka No.9,,8.5
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",849,Pierogarnia Stary Toruń,1.0,8.1
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",873,Pierogarnia Stary Młyn,1.0,8.1
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13029, 'name': 'Brewery', 'short_name': 'Brewery', 'plural_name': 'Breweries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/brewery_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",915,Jan Olbracht Browar Staromiejski,2.0,7.8
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",881,Stare Metropolis,1.0,7.2
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",574,Pierogarnia Leniwa,1.0,6.5
-"[{'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",579,Gospoda Pod Modrym Fartuchem,,6.5
-"[{'id': 13106, 'name': 'Dim Sum Restaurant', 'short_name': 'Dim Sum', 'plural_name': 'Dim Sum Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dimsum_', 'suffix': '.png'}}, {'id': 13099, 'name': 'Chinese Restaurant', 'short_name': 'Chinese', 'plural_name': 'Chinese Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/asian_', 'suffix': '.png'}}]",621,Dim Sum,2.0,6.3
-"[{'id': 13010, 'name': 'Dive Bar', 'short_name': 'Dive Bar', 'plural_name': 'Dive Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/divebar_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",57,Restauracja Lokomotywa,1.0,
-"[{'id': 13024, 'name': 'Whisky Bar', 'short_name': 'Whisky Bar', 'plural_name': 'Whisky Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/whiskey_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",211,Coffee & Whisky House,3.0,8.8
-"[{'id': 13027, 'name': 'Bistro', 'short_name': 'Bistro', 'plural_name': 'Bistros', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",162,Apartamenty Monka,,8.4
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",251,Copernicus Toruń Hotel,,8.6
-"[{'id': 13002, 'name': 'Bakery', 'short_name': 'Bakery', 'plural_name': 'Bakeries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bakery_', 'suffix': '.png'}}, {'id': 13035, 'name': 'Coffee Shop', 'short_name': 'Coffee Shop', 'plural_name': 'Coffee Shops', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",283,Bread House Cafe,1.0,8.4
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}, {'id': 13034, 'name': 'Café', 'short_name': 'Café', 'plural_name': 'Cafés', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/cafe_', 'suffix': '.png'}}]",591,Szeroka No.9,,8.5
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",498,Pierogarnia Stary Młyn,1.0,8.1
-"[{'id': 13137, 'name': 'Dumpling Restaurant', 'short_name': 'Dumplings', 'plural_name': 'Dumpling Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/dumplings_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",631,Pierogarnia Stary Toruń,1.0,8.1
-"[{'id': 13041, 'name': 'Creperie', 'short_name': 'Creperie', 'plural_name': 'Creperies', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/creperie_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",790,Manekin,,8.4
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13029, 'name': 'Brewery', 'short_name': 'Brewery', 'plural_name': 'Breweries', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/brewery_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",523,Jan Olbracht Browar Staromiejski,2.0,7.8
-"[{'id': 13064, 'name': 'Pizzeria', 'short_name': 'Pizza', 'plural_name': 'Pizzerias', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/pizza_', 'suffix': '.png'}}, {'id': 13236, 'name': 'Italian Restaurant', 'short_name': 'Italian', 'plural_name': 'Italian Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/italian_', 'suffix': '.png'}}, {'id': 13324, 'name': 'Polish Restaurant', 'short_name': 'Polish', 'plural_name': 'Polish Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",487,Stare Metropolis,1.0,7.2
-"[{'id': 13016, 'name': 'Lounge', 'short_name': 'Lounge', 'plural_name': 'Lounges', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/default_', 'suffix': '.png'}}, {'id': 13026, 'name': 'BBQ Joint', 'short_name': 'BBQ', 'plural_name': 'BBQ Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/bbqalt_', 'suffix': '.png'}}]",659,Widelec,2.0,6.6
-"[{'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",143,PIE TOWN Małgorzata Mitręga,,
-"[{'id': 11056, 'name': 'Food and Beverage Service', 'short_name': 'Food Service', 'plural_name': 'Food and Beverage Services', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_', 'suffix': '.png'}}, {'id': 13036, 'name': 'Tea Room', 'short_name': 'Tea Room', 'plural_name': 'Tea Rooms', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/tearoom_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",215,"Arkadiusz Owsianik Przedsiębiorstwo Handlowo-Usługowe ""Pizza Drive""",,
-"[{'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",902,McDonald's,1.0,6.1
-"[{'id': 13055, 'name': 'Fried Chicken Joint', 'short_name': 'Fried Chicken', 'plural_name': 'Fried Chicken Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/friedchicken_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",803,KFC,1.0,6.0
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}, {'id': 13276, 'name': 'Sushi Restaurant', 'short_name': 'Sushi', 'plural_name': 'Sushi Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/sushi_', 'suffix': '.png'}}]",457,Orient Express,2.0,
-"[{'id': 19010, 'name': 'Bed and Breakfast', 'short_name': 'Bed and Breakfast', 'plural_name': 'Bed and Breakfasts', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/bedandbreakfast_', 'suffix': '.png'}}, {'id': 19012, 'name': 'Cabin', 'short_name': 'Cabin', 'plural_name': 'Cabins', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_', 'suffix': '.png'}}, {'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",495,Pensjonat Winnica,,
-"[{'id': 19014, 'name': 'Hotel', 'short_name': 'Hotel', 'plural_name': 'Hotels', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/travel/hotel_', 'suffix': '.png'}}]",594,Elżbieta. FPH. Bukowska E.,,
-"[{'id': 13003, 'name': 'Bar', 'short_name': 'Bar', 'plural_name': 'Bars', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/nightlife/pub_', 'suffix': '.png'}}, {'id': 13065, 'name': 'Restaurant', 'short_name': 'Restaurant', 'plural_name': 'Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/default_', 'suffix': '.png'}}]",616,Pub Mokre Kurtyka Mirosława,2.0,
-"[{'id': 13031, 'name': 'Burger Joint', 'short_name': 'Burgers', 'plural_name': 'Burger Joints', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/burger_', 'suffix': '.png'}}, {'id': 13145, 'name': 'Fast Food Restaurant', 'short_name': 'Fast Food', 'plural_name': 'Fast Food Restaurants', 'icon': {'prefix': 'https://ss3.4sqi.net/img/categories_v2/food/fastfood_', 'suffix': '.png'}}]",737,Byczy Burger,1.0,
+name,price,rating,distance,latitude,longitude
+Montenegro,1.0,8.0,670,53.033019,18.599727
+Weranda Chełmińska,2.0,7.5,842,53.033019,18.599727
+Stara Paczkarnia,1.0,,25,53.033019,18.599727
+KFC,1.0,6.3,803,53.033019,18.599727
+Klif. Bar,2.0,,181,53.033019,18.599727
+Klif. Bar,2.0,,188,53.033019,18.599727
+Kinga Łuczak Usługi Hotelowe,,,283,53.033019,18.599727
+Pizzeria Wenecja,1.0,,314,53.033019,18.599727
+Drink Bar Sierżant Dawid Kościecha,1.0,,350,53.033019,18.599727
+Degustator Rafał Daczkowski,2.0,,370,53.033019,18.599727
+Manekin,,8.4,379,53.013489,18.571125
+Widelec,2.0,8.4,730,53.013489,18.571125
+Azzurro,2.0,7.3,335,53.013489,18.571125
+Czarny Tulipan. Pub,2.0,7.4,619,53.013489,18.571125
+Od Nowa. Studencki klub pracy twórczej,1.0,6.8,859,53.013489,18.571125
+Subway,1.0,6.5,637,53.013489,18.571125
+Pizzeria Venus,1.0,,64,53.013489,18.571125
+Kakadu u Marcina - Pub,2.0,,71,53.013489,18.571125
+Zahir Kebab,,,88,53.013489,18.571125
+Mr.Capone,1.0,6.0,408,53.013489,18.571125
+Montenegro,1.0,8.0,215,53.030117,18.58979
+Weranda Chełmińska,2.0,7.5,343,53.030117,18.58979
+Restauracja Montenegro,1.0,,114,53.030117,18.58979
+Cafe Molus,1.0,,142,53.030117,18.58979
+Restauracja W Kapciach,,,144,53.030117,18.58979
+MClub,,,160,53.030117,18.58979
+"Misada. Restauracja, organizacja imprez",,,164,53.030117,18.58979
+Favola,1.0,,184,53.030117,18.58979
+Kalinowska Giorgi Wanda Pod Jarzębiną Pokoje Gościnne,,,258,53.030117,18.58979
+Pod Jarzębiną,,,262,53.030117,18.58979
+Bread House Cafe,1.0,8.4,106,53.009622,18.600228
+Coffee & Whisky House,3.0,8.8,229,53.009622,18.600228
+Apartamenty Monka,,8.4,211,53.009622,18.600228
+Copernicus Toruń Hotel,,8.6,292,53.009622,18.600228
+Szeroka No.9,,8.5,529,53.009622,18.600228
+Pierogarnia Stary Młyn,1.0,8.1,452,53.009622,18.600228
+Pierogarnia Stary Toruń,1.0,8.1,496,53.009622,18.600228
+Manekin,,8.4,662,53.009622,18.600228
+Jan Olbracht Browar Staromiejski,2.0,7.8,405,53.009622,18.600228
+Stare Metropolis,1.0,7.2,447,53.009622,18.600228
+Manekin,,8.4,302,53.013655,18.612899
+Szeroka No.9,,8.5,477,53.013655,18.612899
+Pierogarnia Stary Toruń,1.0,8.1,464,53.013655,18.612899
+Coffee & Whisky House,3.0,8.8,852,53.013655,18.612899
+Pierogarnia Stary Młyn,1.0,8.1,572,53.013655,18.612899
+Bread House Cafe,1.0,8.4,852,53.013655,18.612899
+Apartamenty Monka,,8.4,901,53.013655,18.612899
+Jan Olbracht Browar Staromiejski,2.0,7.8,555,53.013655,18.612899
+Stare Metropolis,1.0,7.2,584,53.013655,18.612899
+Lizard King,,7.0,703,53.013655,18.612899
+La Pablo. FHU. Wiwatowski P.,1.0,,64,52.99555,18.616924
+Kim Orient,2.0,,97,52.99555,18.616924
+Pizzeria Laguna,1.0,,126,52.99555,18.616924
+Start Bar. Bugajski Artur Toruń,2.0,,464,52.99555,18.616924
+Zapiekanki na dworcu,1.0,,480,52.99555,18.616924
+Spichrz,,,480,52.99555,18.616924
+Zapiekarnia,1.0,,520,52.99555,18.616924
+Dakat Firma. Dróżdż Teresa Toruń,,,556,52.99555,18.616924
+Folborska Monika Marcello,1.0,,562,52.99555,18.616924
+Restauracja Waliza,,,734,52.99555,18.616924
+Widelec,2.0,8.4,655,53.022897,18.583878
+Montenegro,1.0,8.0,877,53.022897,18.583878
+Weranda Chełmińska,2.0,7.5,705,53.022897,18.583878
+Od Nowa. Studencki klub pracy twórczej,1.0,6.8,502,53.022897,18.583878
+California Pizza Bar,1.0,,54,53.022897,18.583878
+Dom Pielgrzyma,,,55,53.022897,18.583878
+Bar U Beaty,1.0,,99,53.022897,18.583878
+Obiady u basi,1.0,,112,53.022897,18.583878
+Smakuś,,,134,53.022897,18.583878
+Chiński Kubek,1.0,,140,53.022897,18.583878
+Copernicus Toruń Hotel,,8.6,855,53.010124,18.584802
+Widelec,2.0,8.4,893,53.010124,18.584802
+Czarny Tulipan. Pub,2.0,7.4,369,53.010124,18.584802
+Azzurro,2.0,7.3,728,53.010124,18.584802
+NY's Pizza,1.0,,180,53.010124,18.584802
+Cukiernia & Cafe Weranda Anna Nitkowska,,,265,53.010124,18.584802
+Stachowski Daniel Bar,1.0,,282,53.010124,18.584802
+Chwast Prast Vegetarian Bistro,2.0,,289,53.010124,18.584802
+Tara,1.0,,296,53.010124,18.584802
+Transcatering,,,317,53.010124,18.584802
+KFC,1.0,6.5,922,53.029537,18.653436
+Dariusz Nowak,,,185,53.029537,18.653436
+Kawiarnia Staś Kwiatkowska Alicja,1.0,,247,53.029537,18.653436
+Pizzeria Yarpen,1.0,,350,53.029537,18.653436
+Caffe Bar. Drink-bar,2.0,,364,53.029537,18.653436
+Skrzynka,,,430,53.029537,18.653436
+Policealna Szkoła Usług Turystycznych,,,502,53.029537,18.653436
+Ajsu Kebab,,,542,53.029537,18.653436
+Mała Gastronomia Cegielski Jerzy,1.0,,758,53.029537,18.653436
+Autosar. Restauracja,,,763,53.029537,18.653436
+Weranda Chełmińska,2.0,7.5,930,53.018852,18.591969
+Od Nowa. Studencki klub pracy twórczej,1.0,6.8,780,53.018852,18.591969
+Cichy Zakątek S.C. Zembrzuska Magdalena Dąbrowska Kinga,1.0,,338,53.018852,18.591969
+Apartament ksiezycowy II,,,433,53.018852,18.591969
+Palce Lizać,,,507,53.018852,18.591969
+Pro Eco - Invest Sp. z o.o.,,,583,53.018852,18.591969
+Smakuś,,,619,53.018852,18.591969
+Pizza Sfera,1.0,,634,53.018852,18.591969
+Warpol,1.0,,640,53.018852,18.591969
+Bar Statystyk,,,688,53.018852,18.591969
+"Lokal Elena – Wesele, Catering Toruń",,,16,53.037219,18.657603
+Elena. Restauracja,,,94,53.037219,18.657603
+Cichowicz Maria. Bufet,2.0,,567,53.037219,18.657603
+Rustico Kebab,,,789,53.037219,18.657603
+Planeta Kebab,2.0,,840,53.037219,18.657603
+Kawiarnia Staś Kwiatkowska Alicja,1.0,,906,53.037219,18.657603
+Forte Prim Sp. z o.o. Sp.k,,,941,53.037219,18.657603
+Ajsu Kebab,,,982,53.037219,18.657603
+Pcic Poland Sp. z o.o.,,,540,53.037219,18.657603
+DDG Restauracje Grotkowscy Danuta Grotkowskaplacówka Opiekuncza Danuta Grotkowska,,,793,53.037219,18.657603
+KFC,1.0,6.3,451,53.034691,18.612857
+BIM Oriental Fast Food,1.0,,125,53.034691,18.612857
+"Hotel i Karczma ""Spichrz""",,,162,53.034691,18.612857
+McDonald's,1.0,5.9,445,53.034691,18.612857
+Verona II S c Euro Car Bogusław Bojdo Aneta Bojdo,,,200,53.034691,18.612857
+Wild Bean Cafe,1.0,,324,53.034691,18.612857
+Przeds Handlowo Usługowe S.C. Airfort Stawicki Janusz Paruszewski Adam,1.0,,338,53.034691,18.612857
+Pokoje Alfa,,,374,53.034691,18.612857
+Bar Hotelowy Alfa,1.0,,374,53.034691,18.612857
+G132 Office & Restaurant,,,378,53.034691,18.612857
+Widelec,2.0,6.6,279,53.025994,18.633996
+McDonald's,1.0,6.1,216,53.025994,18.633996
+KFC,1.0,6.0,303,53.025994,18.633996
+Ciechanowski Marian. Punkt małej gastronomii,2.0,,38,53.025994,18.633996
+Byczy Burger,1.0,,201,53.025994,18.633996
+Baalbek,1.0,,202,53.025994,18.633996
+North Fish,3.0,,216,53.025994,18.633996
+Bangkok Wok,2.0,,261,53.025994,18.633996
+Dołasiński Zbigniew Kasztelan Bar,1.0,,267,53.025994,18.633996
+"Baalbek sp.j. Cieślewicz A., Poddany J.",2.0,,303,53.025994,18.633996
+Montenegro,1.0,8.0,746,53.025309,18.601746
+Weranda Chełmińska,2.0,7.5,710,53.025309,18.601746
+Hotel Filmar,,7.0,805,53.025309,18.601746
+Pizzeria Pe-Pe Marek Mech,2.0,,111,53.025309,18.601746
+Pizzeria Promyk,1.0,,122,53.025309,18.601746
+Jankowska Małgorzata pod Koszem Bar,1.0,,212,53.025309,18.601746
+Simple Plan Ewelina Kosińska,,,267,53.025309,18.601746
+Warpol,1.0,,334,53.025309,18.601746
+Pizza Sfera,1.0,,351,53.025309,18.601746
+Pizzeria Laguna,1.0,,370,53.025309,18.601746
+W obłokach cafe,1.0,,293,53.050109,18.603833
+Rubens & Monet,,,774,53.050109,18.603833
+Prim S.C. Kulpa Wiktor Kulpa Elżbieta,1.0,,954,53.050109,18.603833
+"Rubbens. Hotel, Restauracja",,,13991,53.050109,18.603833
+Usługi Kelnerskie Dominika Urbanik,,,947,53.050109,18.603833
+Hotel Filmar,,7.0,944,53.019546,18.623415
+Loft79,3.0,6.7,980,53.019546,18.623415
+Belfood Arkadiusz Szmytkowski,,,138,53.019546,18.623415
+Zahir Kebab,2.0,,304,53.019546,18.623415
+Hotele Solaris Sp. z o.o.,,,315,53.019546,18.623415
+Mała Gastronomia Rożen Sós Piotr,1.0,,378,53.019546,18.623415
+Kashmir,2.0,,393,53.019546,18.623415
+Max. Pub,1.0,,481,53.019546,18.623415
+Kebab,,,540,53.019546,18.623415
+Thienlong,1.0,,580,53.019546,18.623415
+"Rubbens. Hotel, Restauracja",,,14936,53.055472,18.617056
+KFC,,6.2,434,53.028683,18.692462
+Sandżak Sp. z o.o.,,,56,53.028683,18.692462
+Montenegro,1.0,,61,53.028683,18.692462
+"Bapol s.c. Przedsiębiorstwo handlowo - gastronomiczne. Męcner J., Fedorowicz B.",2.0,,94,53.028683,18.692462
+Pizza Hut,1.0,,268,53.028683,18.692462
+Fenix. Firma handlowo - gastronomiczna,2.0,,356,53.028683,18.692462
+Tapas,1.0,,429,53.028683,18.692462
+Firma Tapas Odolecka Jolanta,,,429,53.028683,18.692462
+Cube Cafe. Kawiarnia Multiconcept. Sp. Z O.o.,1.0,,434,53.028683,18.692462
+Subway,1.0,,441,53.028683,18.692462
+KFC,1.0,6.5,281,53.027355,18.665235
+Wild Bean Cafe,1.0,,277,53.027355,18.665235
+Ajsu Kebab,,,293,53.027355,18.665235
+Pizzeria Don Corleone,1.0,,324,53.027355,18.665235
+Skrzynka,,,396,53.027355,18.665235
+Dobry Adres Kuchnia i Pub,1.0,,431,53.027355,18.665235
+Mała Gastronomia Cegielski Jerzy,1.0,,433,53.027355,18.665235
+Caffe Bar. Drink-bar,2.0,,466,53.027355,18.665235
+McDonald's,1.0,5.6,559,53.027355,18.665235
+Pizzeria Yarpen,1.0,,496,53.027355,18.665235
+Manekin,,8.4,671,53.014522,18.5616
+Subway,1.0,6.5,43,53.014522,18.5616
+Azzurro,2.0,7.3,968,53.014522,18.5616
+McDonald's,1.0,6.0,158,53.014522,18.5616
+North Fish,3.0,,41,53.014522,18.5616
+Smaki Azji,2.0,,74,53.014522,18.5616
+burgeroWnia,1.0,,90,53.014522,18.5616
+Kosmos Hotel Torun,,,99,53.014522,18.5616
+Arianos Döner Kebab,,,159,53.014522,18.5616
+Misada,,,161,53.014522,18.5616
+Manekin,,8.4,405,53.020554,18.570606
+Widelec,2.0,8.4,693,53.020554,18.570606
+Azzurro,2.0,7.3,810,53.020554,18.570606
+Od Nowa. Studencki klub pracy twórczej,1.0,6.8,672,53.020554,18.570606
+Subway,1.0,6.5,859,53.020554,18.570606
+Adaś. Bar,,,24,53.020554,18.570606
+Mr.Capone,1.0,6.0,378,53.020554,18.570606
+Paluch stołówka,1.0,,130,53.020554,18.570606
+Bar ZIEMniaczek,,,137,53.020554,18.570606
+Hotel Uniwersytecki,,,230,53.020554,18.570606
+Widelec,2.0,8.4,440,53.013617,18.580471
+Czarny Tulipan. Pub,2.0,7.4,234,53.013617,18.580471
+Azzurro,2.0,7.3,298,53.013617,18.580471
+Od Nowa. Studencki klub pracy twórczej,1.0,6.8,589,53.013617,18.580471
+Murat Kebap,,,95,53.013617,18.580471
+Soczek raz dwa,2.0,,107,53.013617,18.580471
+El Ninio,2.0,,167,53.013617,18.580471
+Jagoda,,,182,53.013617,18.580471
+Chwast Prast Vegetarian Bistro,2.0,,195,53.013617,18.580471
+Mała gastronomia Bar U Dziadka,,,216,53.013617,18.580471
+Lawenda,,,348,52.99384,18.593969
+Kęs Dobry,1.0,,413,52.99384,18.593969
+"Restauracja ""PIĄTA KLEPKA"" Agnieszka Borkowska",,,425,52.99384,18.593969
+Dynasińska Maria Shangri La,,,639,52.99384,18.593969
+Rafa. Pizzeria,1.0,,842,52.99384,18.593969
+Firma Usł Gastronom Wiktor S.C. Modzelewska Alicja Modzelewska Kinga,,,31,52.99384,18.593969
+"""Wiki"" Pizzeria Beata Chmurzyńska",,,42,52.99384,18.593969
+Kola Sklep Mięsno-Spożywczy. Kolasiński Tomasz Toruń,,,49,52.99384,18.593969
+Marco. Pizzeria,,,171,52.99384,18.593969
+Firma Handlowo-Gastronomiczna. Grzebińska Teodozja Toruń,,,222,52.99384,18.593969
+Widelec,2.0,8.4,160,53.018989,18.580011
+Od Nowa. Studencki klub pracy twórczej,1.0,6.8,20,53.018989,18.580011
+Azzurro,2.0,7.3,610,53.018989,18.580011
+Czarny Tulipan. Pub,2.0,7.4,827,53.018989,18.580011
+Od Nowa MZK,,,25,53.018989,18.580011
+Hotel Asystencki nr 2,,,98,53.018989,18.580011
+Bar Małej Gastronomi Baszyński Piotr,,,245,53.018989,18.580011
+Mr.Capone,1.0,6.0,656,53.018989,18.580011
+Mała gastronomia Bar U Dziadka,,,381,53.018989,18.580011
+Chiński Kubek,1.0,,394,53.018989,18.580011
+Cybermachina Przemysław Benedykciński,1.0,,191,53.049682,18.578734
+Pora Obiadowa,1.0,,229,53.049682,18.578734
+Krągłe Placki,1.0,,319,53.049682,18.578734
+Pub Na Pętli,2.0,,340,53.049682,18.578734
+"Agnieszka Płachta Blue Cactus, Blue Home",,,507,53.049682,18.578734
+Chilli. Maćczak M.,2.0,,517,53.049682,18.578734
+Siwy Dym,,,685,53.049682,18.578734
+Prim S.C. Kulpa Wiktor Kulpa Elżbieta,1.0,,767,53.049682,18.578734
+Gruba Ryba,3.0,,796,53.049682,18.578734
+Thienlong,1.0,,796,53.049682,18.578734
+Montenegro,1.0,8.0,860,53.035522,18.599119
+Kinga Łuczak Usługi Hotelowe,,,42,53.035522,18.599119
+Klif. Bar,2.0,,105,53.035522,18.599119
+Klif. Bar,2.0,,109,53.035522,18.599119
+KFC,1.0,6.3,962,53.035522,18.599119
+Stara Paczkarnia,1.0,,260,53.035522,18.599119
+Pizzeria Wenecja,1.0,,351,53.035522,18.599119
+Lodmix Szczególski Sławomir,2.0,,360,53.035522,18.599119
+Drink Bar Sierżant Dawid Kościecha,1.0,,392,53.035522,18.599119
+Blue Kaktus. Pub,2.0,,507,53.035522,18.599119
+KFC,1.0,6.5,412,53.02348,18.659069
+Mała Gastronomia Cegielski Jerzy,1.0,,163,53.02348,18.659069
+Wild Bean Cafe,1.0,,383,53.02348,18.659069
+Pizzeria Yarpen,1.0,,489,53.02348,18.659069
+Caffe Bar. Drink-bar,2.0,,519,53.02348,18.659069
+Skrzynka,,,525,53.02348,18.659069
+Ajsu Kebab,,,599,53.02348,18.659069
+Kawiarnia Staś Kwiatkowska Alicja,1.0,,635,53.02348,18.659069
+Dariusz Nowak,,,639,53.02348,18.659069
+Policealna Szkoła Usług Turystycznych,,,714,53.02348,18.659069
+Krystyna Bryla Mala Gastronomia Lodziarnia,,,50,53.027043,18.679764
+Punkt Sprzedaży Małej Gastronomi Koźlikowska Aleksandra,1.0,,102,53.027043,18.679764
+Ajsu Kebab,,,108,53.027043,18.679764
+Kwadrans Cafe Toruń,1.0,,156,53.027043,18.679764
+Kebab Star,1.0,,156,53.027043,18.679764
+Portos,2.0,,178,53.027043,18.679764
+Mar Changlin Chang Lin Firma,,,185,53.027043,18.679764
+Restauracja Chińska Chang Lin,1.0,,190,53.027043,18.679764
+Gruby Benek. Pizzeria,1.0,,199,53.027043,18.679764
+Enigma,2.0,,291,53.027043,18.679764
+Manekin,,8.4,578,53.015872,18.601638
+Coffee & Whisky House,3.0,8.8,810,53.015872,18.601638
+Bread House Cafe,1.0,8.4,656,53.015872,18.601638
+Szeroka No.9,,8.5,731,53.015872,18.601638
+Pierogarnia Stary Toruń,1.0,8.1,545,53.015872,18.601638
+Apartamenty Monka,,8.4,834,53.015872,18.601638
+Copernicus Toruń Hotel,,8.6,945,53.015872,18.601638
+Pierogarnia Stary Młyn,1.0,8.1,749,53.015872,18.601638
+Jan Olbracht Browar Staromiejski,2.0,7.8,598,53.015872,18.601638
+Stare Metropolis,1.0,7.2,759,53.015872,18.601638
+KFC,1.0,6.3,103,53.031525,18.610275
+McDonald's,1.0,5.9,55,53.031525,18.610275
+Pokoje Alfa,,,65,53.031525,18.610275
+Bar Hotelowy Alfa,1.0,,65,53.031525,18.610275
+G132 Office & Restaurant,,,70,53.031525,18.610275
+Wild Bean Cafe,1.0,,79,53.031525,18.610275
+"Hotel i Karczma ""Spichrz""",,,313,53.031525,18.610275
+Wild Bean Cafe,1.0,,319,53.031525,18.610275
+Mio Piano Restaurant,2.0,,339,53.031525,18.610275
+Blue Kaktus. Pub,2.0,,367,53.031525,18.610275
+Hotel Filmar,,7.0,743,53.023882,18.61791
+Kebab,,,66,53.023882,18.61791
+Mediterian,2.0,,83,53.023882,18.61791
+Apartament Delfin II,,,234,53.023882,18.61791
+Jajcarnia,1.0,,256,53.023882,18.61791
+Restauracja Olimpia Toruń,,,265,53.023882,18.61791
+Kryta Pływalnia z Hotelikiem,,,273,53.023882,18.61791
+Mr Chicken,1.0,,292,53.023882,18.61791
+Atena. Pizzeria,1.0,,300,53.023882,18.61791
+Serjusz Szymon Rosiński,,,315,53.023882,18.61791
+Copernicus Toruń Hotel,,8.6,469,53.012029,18.596202
+Bread House Cafe,1.0,8.4,434,53.012029,18.596202
+Coffee & Whisky House,3.0,8.8,603,53.012029,18.596202
+Apartamenty Monka,,8.4,590,53.012029,18.596202
+Szeroka No.9,,8.5,806,53.012029,18.596202
+Manekin,,8.4,833,53.012029,18.596202
+Pierogarnia Stary Toruń,1.0,8.1,692,53.012029,18.596202
+Pierogarnia Stary Młyn,1.0,8.1,756,53.012029,18.596202
+Jan Olbracht Browar Staromiejski,2.0,7.8,648,53.012029,18.596202
+Stare Metropolis,1.0,7.2,757,53.012029,18.596202
+Piekuś Bistro,,,113,53.041102,18.598109
+Przewoski Lech Żak,1.0,,361,53.041102,18.598109
+Bar Kebab Gabi Mariola Tomaszewska,,,549,53.041102,18.598109
+Pizzeria Haos,1.0,,555,53.041102,18.598109
+Delikatesy 34,1.0,,576,53.041102,18.598109
+Domowa Barbara Langierowicz,2.0,,652,53.041102,18.598109
+"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",,,706,53.041102,18.598109
+Klif. Bar,2.0,,723,53.041102,18.598109
+Klif. Bar,2.0,,728,53.041102,18.598109
+Delikates,1.0,,767,53.041102,18.598109
+Hotel Filmar,,7.0,497,53.024134,18.609268
+Bar Krokiecik Toruń,,,39,53.024134,18.609268
+Bar BQ,2.0,,100,53.024134,18.609268
+Domino's Pizza,1.0,,118,53.024134,18.609268
+Bar Orientalny HANOI,2.0,,132,53.024134,18.609268
+Bar Azyl Dorota Jakimiak Toruń,1.0,,142,53.024134,18.609268
+Polish Kebab,,,257,53.024134,18.609268
+Dzięgiel Jacek. Kebab,,,257,53.024134,18.609268
+Domino's Pizza,1.0,,280,53.024134,18.609268
+Atena. Pizzeria,1.0,,289,53.024134,18.609268
+Zahir Kebab,,,82,53.042366,18.580832
+Gruba Ryba,3.0,,109,53.042366,18.580832
+Thienlong,1.0,,109,53.042366,18.580832
+Chilli. Maćczak M.,2.0,,324,53.042366,18.580832
+Delikates,1.0,,594,53.042366,18.580832
+Siwy Dym,,,605,53.042366,18.580832
+"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",,,617,53.042366,18.580832
+Domowa Barbara Langierowicz,2.0,,629,53.042366,18.580832
+Tomasz Tokarz,,,725,53.042366,18.580832
+Pora Obiadowa,1.0,,727,53.042366,18.580832
+Widelec,2.0,8.4,578,53.01726,18.571075
+Azzurro,2.0,7.3,489,53.01726,18.571075
+Czarny Tulipan. Pub,2.0,7.4,862,53.01726,18.571075
+Od Nowa. Studencki klub pracy twórczej,1.0,6.8,642,53.01726,18.571075
+Mr.Capone,1.0,6.0,29,53.01726,18.571075
+Subway,1.0,6.5,669,53.01726,18.571075
+Budzik Coffee Bartłomiej Maciejewski,1.0,,6,53.01726,18.571075
+Taica Frias Heli CLUB LATINO,1.0,,17,53.01726,18.571075
+Maximus S.C. Bar-Pizzeria Toruń,1.0,,22,53.01726,18.571075
+Domowa,1.0,,40,53.01726,18.571075
+Manekin,,8.4,986,53.021252,18.613106
+Hotel Filmar,,7.0,310,53.021252,18.613106
+Loft79,3.0,6.7,731,53.021252,18.613106
+Ziemniak Czy Rybka,2.0,,95,53.021252,18.613106
+Domino's Pizza,1.0,,131,53.021252,18.613106
+Mr Chicken,1.0,,157,53.021252,18.613106
+Atena. Pizzeria,1.0,,249,53.021252,18.613106
+Jordan Edyta Maciejewska,2.0,,274,53.021252,18.613106
+Restauracja Róża Wiatrów,,,310,53.021252,18.613106
+Filmar Service Sp. z o.o.,,,327,53.021252,18.613106
+Montenegro,1.0,8.0,843,53.021725,18.59627
+Weranda Chełmińska,2.0,7.5,686,53.021725,18.59627
+Hotel Filmar,,7.0,899,53.021725,18.59627
+Pro Eco - Invest Sp. z o.o.,,,173,53.021725,18.59627
+Palce Lizać,,,176,53.021725,18.59627
+Warpol,1.0,,214,53.021725,18.59627
+Pizza Sfera,1.0,,216,53.021725,18.59627
+Pizzeria Laguna,1.0,,345,53.021725,18.59627
+Pamela. Pub,1.0,,394,53.021725,18.59627
+Cichy Zakątek S.C. Zembrzuska Magdalena Dąbrowska Kinga,1.0,,405,53.021725,18.59627
+Widelec,2.0,6.6,311,53.024468,18.638258
+KFC,1.0,6.0,34,53.024468,18.638258
+McDonald's,1.0,6.1,156,53.024468,18.638258
+Pizza Dominium,1.0,,22,53.024468,18.638258
+Słodka Chmurka Piotr Moroz,1.0,,34,53.024468,18.638258
+"Baalbek sp.j. Cieślewicz A., Poddany J.",2.0,,38,53.024468,18.638258
+Bangkok Wok,2.0,,70,53.024468,18.638258
+Subway,1.0,,94,53.024468,18.638258
+Copernicus Döner Kebap,,,109,53.024468,18.638258
+North Fish,3.0,,144,53.024468,18.638258
+Manekin,,8.4,341,53.015745,18.607203
+Szeroka No.9,,8.5,582,53.015745,18.607203
+Pierogarnia Stary Toruń,1.0,8.1,423,53.015745,18.607203
+Coffee & Whisky House,3.0,8.8,832,53.015745,18.607203
+Bread House Cafe,1.0,8.4,739,53.015745,18.607203
+Pierogarnia Stary Młyn,1.0,8.1,645,53.015745,18.607203
+Apartamenty Monka,,8.4,872,53.015745,18.607203
+Jan Olbracht Browar Staromiejski,2.0,7.8,525,53.015745,18.607203
+Stare Metropolis,1.0,7.2,658,53.015745,18.607203
+Lizard King,,7.0,721,53.015745,18.607203
+Zapiekarnia,1.0,,64,53.000452,18.613884
+Zapiekanki na dworcu,1.0,,103,53.000452,18.613884
+Spichrz,,,103,53.000452,18.613884
+Budowlani Toruń,,,524,53.000452,18.613884
+La Pablo. FHU. Wiwatowski P.,1.0,,532,53.000452,18.613884
+Folborska Monika Marcello,1.0,,555,53.000452,18.613884
+Start Bar. Bugajski Artur Toruń,2.0,,577,53.000452,18.613884
+Kim Orient,2.0,,674,53.000452,18.613884
+Green Way,2.0,,938,53.000452,18.613884
+Dakat Firma. Dróżdż Teresa Toruń,,,994,53.000452,18.613884
+Manekin,,8.4,210,53.011939,18.611414
+Szeroka No.9,,8.5,276,53.011939,18.611414
+Pierogarnia Stary Toruń,1.0,8.1,324,53.011939,18.611414
+Coffee & Whisky House,3.0,8.8,657,53.011939,18.611414
+Pierogarnia Stary Młyn,1.0,8.1,370,53.011939,18.611414
+Bread House Cafe,1.0,8.4,684,53.011939,18.611414
+Apartamenty Monka,,8.4,707,53.011939,18.611414
+Jan Olbracht Browar Staromiejski,2.0,7.8,388,53.011939,18.611414
+Stare Metropolis,1.0,7.2,382,53.011939,18.611414
+Lizard King,,7.0,506,53.011939,18.611414
+Oscar apartments,2.0,,228,53.019033,18.518344
+Restaracja Walter,,,433,53.019033,18.518344
+Hotel Walter,,,437,53.019033,18.518344
+"Zakład Handlowo Usługowo Produkcyjny ""WALTER"" Walter Tadeusz",,,447,53.019033,18.518344
+Towimor. Bar,,,474,53.019033,18.518344
+Przystanek Piekus,1.0,,195,52.993479,18.629549
+McDonald's,1.0,,201,52.993479,18.629549
+Dakat Firma. Dróżdż Teresa Toruń,,,322,52.993479,18.629549
+Zajazd Torunski,,,419,52.993479,18.629549
+Wild Bean Cafe,1.0,,522,52.993479,18.629549
+Start Bar. Bugajski Artur Toruń,2.0,,756,52.993479,18.629549
+Kim Orient,2.0,,800,52.993479,18.629549
+Pizzeria Laguna,1.0,,820,52.993479,18.629549
+La Pablo. FHU. Wiwatowski P.,1.0,,874,52.993479,18.629549
+Bar Leśny,,,87,52.993479,18.629549
+Trzy Smaki,,,110,53.04035,18.624286
+Urbański,,,139,53.04035,18.624286
+Graffico. Producent pylonów i witaczy,,,227,53.04035,18.624286
+Mała Gastronomia Galczak Jolanta,1.0,,282,53.04035,18.624286
+Fort IV,,5.7,567,53.04035,18.624286
+Twierdza Torun,,,533,53.04035,18.624286
+Laskowska Rudnicka Violetta Viola Firma handlowo usługowa - Torun,,,559,53.04035,18.624286
+Restauracja Forteczna,2.0,,588,53.04035,18.624286
+Kebabmaniak,,,625,53.04035,18.624286
+Batory,,,626,53.04035,18.624286
+F.H.U Przy Złotej Wyspie Ewelina Fiedorowicz,,,693,53.001641,18.701141
+Restauracja Monte Carlo,1.0,,784,53.001641,18.701141
+KFC,1.0,6.5,747,53.023772,18.675857
+Roma. Pizzeria,1.0,,84,53.023772,18.675857
+New York Pizza Department Toruń,1.0,,95,53.023772,18.675857
+Jadło Do Syta,,,101,53.023772,18.675857
+Verdad Sp. z o.o.,,,111,53.023772,18.675857
+Restauracja Jadło Polskie,,,127,53.023772,18.675857
+E-Pizzeria.Pl Krzysztof Pawłowski,1.0,,171,53.023772,18.675857
+Przedsiębiorstwo Handlowo Usługowe Kowalik Maria,1.0,,183,53.023772,18.675857
+Servus Sp. z o.o.,,,206,53.023772,18.675857
+McDonald's,1.0,5.6,314,53.023772,18.675857
+Lawenda,,,160,52.992563,18.600756
+Dynasińska Maria Shangri La,,,179,52.992563,18.600756
+Kęs Dobry,1.0,,281,52.992563,18.600756
+Rafa. Pizzeria,1.0,,691,52.992563,18.600756
+Folborska Monika Marcello,1.0,,691,52.992563,18.600756
+"Restauracja ""PIĄTA KLEPKA"" Agnieszka Borkowska",,,761,52.992563,18.600756
+Yomi S.C. Joanna Sowińska Michalina Bratkowska,,,120,52.992563,18.600756
+Przedsiębiorstwo Handlowo Usługowe Majus Cander Tomasz,,,186,52.992563,18.600756
+Firma Handlowo-Gastronomiczna. Grzebińska Teodozja Toruń,,,365,52.992563,18.600756
+Pensjonat LAZUR,,,429,52.992563,18.600756
+Manekin,,8.4,708,53.012702,18.619199
+Szeroka No.9,,8.5,786,53.012702,18.619199
+Pierogarnia Stary Toruń,1.0,8.1,849,53.012702,18.619199
+Pierogarnia Stary Młyn,1.0,8.1,873,53.012702,18.619199
+Jan Olbracht Browar Staromiejski,2.0,7.8,915,53.012702,18.619199
+Stare Metropolis,1.0,7.2,881,53.012702,18.619199
+Pierogarnia Leniwa,1.0,6.5,574,53.012702,18.619199
+Gospoda Pod Modrym Fartuchem,,6.5,579,53.012702,18.619199
+Dim Sum,2.0,6.3,621,53.012702,18.619199
+Restauracja Lokomotywa,1.0,,57,53.012702,18.619199
+Coffee & Whisky House,3.0,8.8,211,53.007485,18.600735
+Apartamenty Monka,,8.4,162,53.007485,18.600735
+Copernicus Toruń Hotel,,8.6,251,53.007485,18.600735
+Bread House Cafe,1.0,8.4,283,53.007485,18.600735
+Szeroka No.9,,8.5,591,53.007485,18.600735
+Pierogarnia Stary Młyn,1.0,8.1,498,53.007485,18.600735
+Pierogarnia Stary Toruń,1.0,8.1,631,53.007485,18.600735
+Manekin,,8.4,790,53.007485,18.600735
+Jan Olbracht Browar Staromiejski,2.0,7.8,523,53.007485,18.600735
+Stare Metropolis,1.0,7.2,487,53.007485,18.600735
+Widelec,2.0,6.6,659,53.017646,18.635777
+PIE TOWN Małgorzata Mitręga,,,143,53.017646,18.635777
+"Arkadiusz Owsianik Przedsiębiorstwo Handlowo-Usługowe ""Pizza Drive""",,,215,53.017646,18.635777
+McDonald's,1.0,6.1,902,53.017646,18.635777
+KFC,1.0,6.0,803,53.017646,18.635777
+Orient Express,2.0,,457,53.017646,18.635777
+Pensjonat Winnica,,,495,53.017646,18.635777
+Elżbieta. FPH. Bukowska E.,,,594,53.017646,18.635777
+Pub Mokre Kurtyka Mirosława,2.0,,616,53.017646,18.635777
+Byczy Burger,1.0,,737,53.017646,18.635777

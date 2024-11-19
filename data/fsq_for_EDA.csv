@@ -1,769 +1,484 @@
-name,price,rating,distance,category.plural,category.name
-Coffee & Whisky House,3.0,8.8,603,Cafés,Café
-Coffee & Whisky House,3.0,8.8,832,Whisky Bars,Whisky Bar
-Coffee & Whisky House,3.0,8.8,603,Whisky Bars,Whisky Bar
-Coffee & Whisky House,3.0,8.8,229,Restaurants,Restaurant
-Coffee & Whisky House,3.0,8.8,229,Cafés,Café
-Coffee & Whisky House,3.0,8.8,229,Whisky Bars,Whisky Bar
-Coffee & Whisky House,3.0,8.8,852,Whisky Bars,Whisky Bar
-Coffee & Whisky House,3.0,8.8,211,Cafés,Café
-Coffee & Whisky House,3.0,8.8,211,Restaurants,Restaurant
-Coffee & Whisky House,3.0,8.8,852,Cafés,Café
-Coffee & Whisky House,3.0,8.8,211,Whisky Bars,Whisky Bar
-Coffee & Whisky House,3.0,8.8,852,Restaurants,Restaurant
-Coffee & Whisky House,3.0,8.8,832,Cafés,Café
-Coffee & Whisky House,3.0,8.8,657,Restaurants,Restaurant
-Coffee & Whisky House,3.0,8.8,810,Whisky Bars,Whisky Bar
-Coffee & Whisky House,3.0,8.8,810,Cafés,Café
-Coffee & Whisky House,3.0,8.8,810,Restaurants,Restaurant
-Coffee & Whisky House,3.0,8.8,657,Whisky Bars,Whisky Bar
-Coffee & Whisky House,3.0,8.8,657,Cafés,Café
-Coffee & Whisky House,3.0,8.8,603,Restaurants,Restaurant
-Coffee & Whisky House,3.0,8.8,832,Restaurants,Restaurant
-Copernicus Toruń Hotel,,8.6,251,Hotels,Hotel
-Copernicus Toruń Hotel,,8.6,469,Hotels,Hotel
-Copernicus Toruń Hotel,,8.6,945,Hotels,Hotel
-Copernicus Toruń Hotel,,8.6,292,Hotels,Hotel
-Copernicus Toruń Hotel,,8.6,855,Hotels,Hotel
-Szeroka No.9,,8.5,582,Cafés,Café
-Szeroka No.9,,8.5,477,Cafés,Café
-Szeroka No.9,,8.5,276,Restaurants,Restaurant
-Szeroka No.9,,8.5,786,Restaurants,Restaurant
-Szeroka No.9,,8.5,477,Restaurants,Restaurant
-Szeroka No.9,,8.5,806,Cafés,Café
-Szeroka No.9,,8.5,786,Cafés,Café
-Szeroka No.9,,8.5,582,Restaurants,Restaurant
-Szeroka No.9,,8.5,806,Restaurants,Restaurant
-Szeroka No.9,,8.5,276,Cafés,Café
-Szeroka No.9,,8.5,591,Restaurants,Restaurant
-Szeroka No.9,,8.5,591,Cafés,Café
-Szeroka No.9,,8.5,731,Cafés,Café
-Szeroka No.9,,8.5,731,Restaurants,Restaurant
-Szeroka No.9,,8.5,529,Cafés,Café
-Szeroka No.9,,8.5,529,Restaurants,Restaurant
-Manekin,,8.4,405,Restaurants,Restaurant
-Bread House Cafe,1.0,8.4,739,Restaurants,Restaurant
-Manekin,,8.4,341,Restaurants,Restaurant
-Widelec,2.0,8.4,160,Bars,Bar
-Bread House Cafe,1.0,8.4,739,Bakeries,Bakery
-Bread House Cafe,1.0,8.4,739,Coffee Shops,Coffee Shop
-Apartamenty Monka,,8.4,872,Bistros,Bistro
-Widelec,2.0,8.4,440,Bistros,Bistro
-Widelec,2.0,8.4,160,BBQ Joints,BBQ
-Widelec,2.0,8.4,160,Bistros,Bistro
-Bread House Cafe,1.0,8.4,656,Restaurants,Restaurant
-Manekin,,8.4,210,Creperies,Creperie
-Manekin,,8.4,210,Restaurants,Restaurant
-Bread House Cafe,1.0,8.4,656,Coffee Shops,Coffee Shop
-Bread House Cafe,1.0,8.4,656,Bakeries,Bakery
-Manekin,,8.4,341,Creperies,Creperie
-Manekin,,8.4,986,Creperies,Creperie
-Manekin,,8.4,986,Restaurants,Restaurant
-Manekin,,8.4,405,Creperies,Creperie
-Widelec,2.0,8.4,693,Bars,Bar
-Widelec,2.0,8.4,893,Bistros,Bistro
-Widelec,2.0,8.4,693,BBQ Joints,BBQ
-Apartamenty Monka,,8.4,590,Bistros,Bistro
-Widelec,2.0,8.4,693,Bistros,Bistro
-Manekin,,8.4,671,Restaurants,Restaurant
-Bread House Cafe,1.0,8.4,434,Restaurants,Restaurant
-Bread House Cafe,1.0,8.4,434,Coffee Shops,Coffee Shop
-Manekin,,8.4,671,Creperies,Creperie
-Manekin,,8.4,833,Creperies,Creperie
-Bread House Cafe,1.0,8.4,434,Bakeries,Bakery
-Widelec,2.0,8.4,440,Bars,Bar
-Widelec,2.0,8.4,440,BBQ Joints,BBQ
-Manekin,,8.4,833,Restaurants,Restaurant
-Widelec,2.0,8.4,578,Bars,Bar
-Widelec,2.0,8.4,578,BBQ Joints,BBQ
-Widelec,2.0,8.4,578,Bistros,Bistro
-Apartamenty Monka,,8.4,834,Bistros,Bistro
-Manekin,,8.4,578,Restaurants,Restaurant
-Widelec,2.0,8.4,893,BBQ Joints,BBQ
-Manekin,,8.4,708,Restaurants,Restaurant
-Apartamenty Monka,,8.4,901,Bistros,Bistro
-Apartamenty Monka,,8.4,211,Bistros,Bistro
-Bread House Cafe,1.0,8.4,852,Coffee Shops,Coffee Shop
-Bread House Cafe,1.0,8.4,852,Bakeries,Bakery
-Bread House Cafe,1.0,8.4,283,Restaurants,Restaurant
-Bread House Cafe,1.0,8.4,283,Coffee Shops,Coffee Shop
-Bread House Cafe,1.0,8.4,283,Bakeries,Bakery
-Manekin,,8.4,302,Restaurants,Restaurant
-Manekin,,8.4,302,Creperies,Creperie
-Widelec,2.0,8.4,893,Bars,Bar
-Apartamenty Monka,,8.4,162,Bistros,Bistro
-Manekin,,8.4,662,Restaurants,Restaurant
-Manekin,,8.4,662,Creperies,Creperie
-Bread House Cafe,1.0,8.4,106,Bakeries,Bakery
-Bread House Cafe,1.0,8.4,106,Coffee Shops,Coffee Shop
-Widelec,2.0,8.4,730,Bistros,Bistro
-Bread House Cafe,1.0,8.4,852,Restaurants,Restaurant
-Manekin,,8.4,708,Creperies,Creperie
-Bread House Cafe,1.0,8.4,684,Bakeries,Bakery
-Manekin,,8.4,790,Restaurants,Restaurant
-Manekin,,8.4,578,Creperies,Creperie
-Widelec,2.0,8.4,655,Bistros,Bistro
-Manekin,,8.4,790,Creperies,Creperie
-Widelec,2.0,8.4,655,BBQ Joints,BBQ
-Widelec,2.0,8.4,655,Bars,Bar
-Manekin,,8.4,379,Creperies,Creperie
-Apartamenty Monka,,8.4,707,Bistros,Bistro
-Manekin,,8.4,379,Restaurants,Restaurant
-Bread House Cafe,1.0,8.4,684,Coffee Shops,Coffee Shop
-Widelec,2.0,8.4,730,Bars,Bar
-Widelec,2.0,8.4,730,BBQ Joints,BBQ
-Bread House Cafe,1.0,8.4,684,Restaurants,Restaurant
-Bread House Cafe,1.0,8.4,106,Restaurants,Restaurant
-Pierogarnia Stary Toruń,1.0,8.1,545,Polish Restaurants,Polish
-Pierogarnia Stary Toruń,1.0,8.1,545,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Młyn,1.0,8.1,498,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Młyn,1.0,8.1,498,Polish Restaurants,Polish
-Pierogarnia Stary Toruń,1.0,8.1,631,Polish Restaurants,Polish
-Pierogarnia Stary Młyn,1.0,8.1,749,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Młyn,1.0,8.1,749,Polish Restaurants,Polish
-Pierogarnia Stary Toruń,1.0,8.1,631,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Toruń,1.0,8.1,849,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Młyn,1.0,8.1,452,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Młyn,1.0,8.1,452,Polish Restaurants,Polish
-Pierogarnia Stary Toruń,1.0,8.1,324,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Młyn,1.0,8.1,645,Polish Restaurants,Polish
-Pierogarnia Stary Młyn,1.0,8.1,645,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Młyn,1.0,8.1,370,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Młyn,1.0,8.1,370,Polish Restaurants,Polish
-Pierogarnia Stary Toruń,1.0,8.1,423,Polish Restaurants,Polish
-Pierogarnia Stary Toruń,1.0,8.1,423,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Młyn,1.0,8.1,572,Polish Restaurants,Polish
-Pierogarnia Stary Młyn,1.0,8.1,756,Polish Restaurants,Polish
-Pierogarnia Stary Młyn,1.0,8.1,756,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Toruń,1.0,8.1,692,Polish Restaurants,Polish
-Pierogarnia Stary Toruń,1.0,8.1,692,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Młyn,1.0,8.1,572,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Toruń,1.0,8.1,464,Polish Restaurants,Polish
-Pierogarnia Stary Toruń,1.0,8.1,464,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Toruń,1.0,8.1,849,Polish Restaurants,Polish
-Pierogarnia Stary Młyn,1.0,8.1,873,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Młyn,1.0,8.1,873,Polish Restaurants,Polish
-Pierogarnia Stary Toruń,1.0,8.1,496,Polish Restaurants,Polish
-Pierogarnia Stary Toruń,1.0,8.1,496,Dumpling Restaurants,Dumplings
-Pierogarnia Stary Toruń,1.0,8.1,324,Polish Restaurants,Polish
-Montenegro,1.0,8.0,843,Pizzerias,Pizza
-Montenegro,1.0,8.0,670,Pizzerias,Pizza
-Montenegro,1.0,8.0,746,Pizzerias,Pizza
-Montenegro,1.0,8.0,860,Pizzerias,Pizza
-Montenegro,1.0,8.0,215,Pizzerias,Pizza
-Montenegro,1.0,8.0,877,Pizzerias,Pizza
-Jan Olbracht Browar Staromiejski,2.0,7.8,915,Restaurants,Restaurant
-Jan Olbracht Browar Staromiejski,2.0,7.8,525,Restaurants,Restaurant
-Jan Olbracht Browar Staromiejski,2.0,7.8,648,Restaurants,Restaurant
-Jan Olbracht Browar Staromiejski,2.0,7.8,523,Bars,Bar
-Jan Olbracht Browar Staromiejski,2.0,7.8,523,Breweries,Brewery
-Jan Olbracht Browar Staromiejski,2.0,7.8,523,Restaurants,Restaurant
-Jan Olbracht Browar Staromiejski,2.0,7.8,405,Bars,Bar
-Jan Olbracht Browar Staromiejski,2.0,7.8,598,Restaurants,Restaurant
-Jan Olbracht Browar Staromiejski,2.0,7.8,598,Breweries,Brewery
-Jan Olbracht Browar Staromiejski,2.0,7.8,598,Bars,Bar
-Jan Olbracht Browar Staromiejski,2.0,7.8,648,Bars,Bar
-Jan Olbracht Browar Staromiejski,2.0,7.8,525,Breweries,Brewery
-Jan Olbracht Browar Staromiejski,2.0,7.8,525,Bars,Bar
-Jan Olbracht Browar Staromiejski,2.0,7.8,555,Breweries,Brewery
-Jan Olbracht Browar Staromiejski,2.0,7.8,555,Restaurants,Restaurant
-Jan Olbracht Browar Staromiejski,2.0,7.8,915,Breweries,Brewery
-Jan Olbracht Browar Staromiejski,2.0,7.8,915,Bars,Bar
-Jan Olbracht Browar Staromiejski,2.0,7.8,405,Breweries,Brewery
-Jan Olbracht Browar Staromiejski,2.0,7.8,405,Restaurants,Restaurant
-Jan Olbracht Browar Staromiejski,2.0,7.8,555,Bars,Bar
-Jan Olbracht Browar Staromiejski,2.0,7.8,648,Breweries,Brewery
-Jan Olbracht Browar Staromiejski,2.0,7.8,388,Restaurants,Restaurant
-Jan Olbracht Browar Staromiejski,2.0,7.8,388,Breweries,Brewery
-Jan Olbracht Browar Staromiejski,2.0,7.8,388,Bars,Bar
-Weranda Chełmińska,2.0,7.5,343,Italian Restaurants,Italian
-Weranda Chełmińska,2.0,7.5,343,Pizzerias,Pizza
-Weranda Chełmińska,2.0,7.5,705,Pizzerias,Pizza
-Weranda Chełmińska,2.0,7.5,930,Italian Restaurants,Italian
-Weranda Chełmińska,2.0,7.5,686,Italian Restaurants,Italian
-Weranda Chełmińska,2.0,7.5,710,Pizzerias,Pizza
-Weranda Chełmińska,2.0,7.5,710,Italian Restaurants,Italian
-Weranda Chełmińska,2.0,7.5,930,Pizzerias,Pizza
-Weranda Chełmińska,2.0,7.5,705,Italian Restaurants,Italian
-Weranda Chełmińska,2.0,7.5,686,Pizzerias,Pizza
-Weranda Chełmińska,2.0,7.5,842,Pizzerias,Pizza
-Weranda Chełmińska,2.0,7.5,842,Italian Restaurants,Italian
-Czarny Tulipan. Pub,2.0,7.4,619,Restaurants,Restaurant
-Czarny Tulipan. Pub,2.0,7.4,862,Restaurants,Restaurant
-Czarny Tulipan. Pub,2.0,7.4,862,Bars,Bar
-Czarny Tulipan. Pub,2.0,7.4,827,Restaurants,Restaurant
-Czarny Tulipan. Pub,2.0,7.4,619,Bars,Bar
-Czarny Tulipan. Pub,2.0,7.4,827,Bars,Bar
-Czarny Tulipan. Pub,2.0,7.4,369,Bars,Bar
-Czarny Tulipan. Pub,2.0,7.4,234,Restaurants,Restaurant
-Czarny Tulipan. Pub,2.0,7.4,234,Bars,Bar
-Czarny Tulipan. Pub,2.0,7.4,369,Restaurants,Restaurant
-Azzurro,2.0,7.3,728,Italian Restaurants,Italian
-Azzurro,2.0,7.3,489,Italian Restaurants,Italian
-Azzurro,2.0,7.3,968,Italian Restaurants,Italian
-Azzurro,2.0,7.3,298,Italian Restaurants,Italian
-Azzurro,2.0,7.3,610,Italian Restaurants,Italian
-Azzurro,2.0,7.3,335,Italian Restaurants,Italian
-Azzurro,2.0,7.3,810,Italian Restaurants,Italian
-Stare Metropolis,1.0,7.2,759,Polish Restaurants,Polish
-Stare Metropolis,1.0,7.2,487,Pizzerias,Pizza
-Stare Metropolis,1.0,7.2,584,Polish Restaurants,Polish
-Stare Metropolis,1.0,7.2,584,Italian Restaurants,Italian
-Stare Metropolis,1.0,7.2,759,Pizzerias,Pizza
-Stare Metropolis,1.0,7.2,759,Italian Restaurants,Italian
-Stare Metropolis,1.0,7.2,584,Pizzerias,Pizza
-Stare Metropolis,1.0,7.2,487,Italian Restaurants,Italian
-Stare Metropolis,1.0,7.2,487,Polish Restaurants,Polish
-Stare Metropolis,1.0,7.2,658,Pizzerias,Pizza
-Stare Metropolis,1.0,7.2,658,Italian Restaurants,Italian
-Stare Metropolis,1.0,7.2,881,Pizzerias,Pizza
-Stare Metropolis,1.0,7.2,658,Polish Restaurants,Polish
-Stare Metropolis,1.0,7.2,382,Polish Restaurants,Polish
-Stare Metropolis,1.0,7.2,447,Pizzerias,Pizza
-Stare Metropolis,1.0,7.2,447,Polish Restaurants,Polish
-Stare Metropolis,1.0,7.2,382,Pizzerias,Pizza
-Stare Metropolis,1.0,7.2,881,Polish Restaurants,Polish
-Stare Metropolis,1.0,7.2,881,Italian Restaurants,Italian
-Stare Metropolis,1.0,7.2,757,Polish Restaurants,Polish
-Stare Metropolis,1.0,7.2,757,Italian Restaurants,Italian
-Stare Metropolis,1.0,7.2,757,Pizzerias,Pizza
-Stare Metropolis,1.0,7.2,447,Italian Restaurants,Italian
-Stare Metropolis,1.0,7.2,382,Italian Restaurants,Italian
-Hotel Filmar,,7.1,743,Hotels,Hotel
-Hotel Filmar,,7.1,944,Hotels,Hotel
-Hotel Filmar,,7.1,497,Hotels,Hotel
-Hotel Filmar,,7.1,805,Hotels,Hotel
-Hotel Filmar,,7.1,899,Hotels,Hotel
-Hotel Filmar,,7.1,310,Hotels,Hotel
-Lizard King,,7.0,721,Bars,Bar
-Lizard King,,7.0,721,Concert Halls,Concert Hall
-Lizard King,,7.0,506,Bars,Bar
-Lizard King,,7.0,506,Rock Clubs,Rock Club
-Lizard King,,7.0,506,Concert Halls,Concert Hall
-Lizard King,,7.0,703,Bars,Bar
-Lizard King,,7.0,703,Rock Clubs,Rock Club
-Lizard King,,7.0,703,Concert Halls,Concert Hall
-Lizard King,,7.0,721,Rock Clubs,Rock Club
-Od Nowa. Studencki klub pracy twórczej,1.0,6.8,502,Night Clubs,Night Club
-Od Nowa. Studencki klub pracy twórczej,1.0,6.8,502,Pubs,Pub
-Od Nowa. Studencki klub pracy twórczej,1.0,6.8,589,Pubs,Pub
-Od Nowa. Studencki klub pracy twórczej,1.0,6.8,589,Night Clubs,Night Club
-Od Nowa. Studencki klub pracy twórczej,1.0,6.8,20,Pubs,Pub
-Od Nowa. Studencki klub pracy twórczej,1.0,6.8,20,Night Clubs,Night Club
-Od Nowa. Studencki klub pracy twórczej,1.0,6.8,780,Night Clubs,Night Club
-Od Nowa. Studencki klub pracy twórczej,1.0,6.8,859,Night Clubs,Night Club
-Od Nowa. Studencki klub pracy twórczej,1.0,6.8,642,Night Clubs,Night Club
-Od Nowa. Studencki klub pracy twórczej,1.0,6.8,780,Pubs,Pub
-Od Nowa. Studencki klub pracy twórczej,1.0,6.8,642,Pubs,Pub
-Od Nowa. Studencki klub pracy twórczej,1.0,6.8,672,Pubs,Pub
-Od Nowa. Studencki klub pracy twórczej,1.0,6.8,672,Night Clubs,Night Club
-Od Nowa. Studencki klub pracy twórczej,1.0,6.8,859,Pubs,Pub
-Loft79,3.0,6.7,980,Pizzerias,Pizza
-Loft79,3.0,6.7,731,Tapas Restaurants,Tapas
-Loft79,3.0,6.7,980,Tapas Restaurants,Tapas
-Loft79,3.0,6.7,731,Pizzerias,Pizza
-Loft79,3.0,6.7,980,Cafés,Café
-Loft79,3.0,6.7,731,Cafés,Café
-Widelec,2.0,6.6,279,BBQ Joints,BBQ
-Widelec,2.0,6.6,311,Lounges,Lounge
-Widelec,2.0,6.6,279,Lounges,Lounge
-Widelec,2.0,6.6,659,Lounges,Lounge
-Widelec,2.0,6.6,659,BBQ Joints,BBQ
-Widelec,2.0,6.6,311,BBQ Joints,BBQ
-KFC,1.0,6.5,922,Fast Food Restaurants,Fast Food
-KFC,1.0,6.5,747,Fried Chicken Joints,Fried Chicken
-KFC,1.0,6.5,281,Fried Chicken Joints,Fried Chicken
-KFC,1.0,6.5,281,Fast Food Restaurants,Fast Food
-Subway,1.0,6.5,43,Sandwich Spots,Sandwich Spot
-KFC,1.0,6.5,412,Fast Food Restaurants,Fast Food
-KFC,1.0,6.5,412,Fried Chicken Joints,Fried Chicken
-KFC,1.0,6.5,747,Fast Food Restaurants,Fast Food
-Subway,1.0,6.5,669,Fast Food Restaurants,Fast Food
-Pierogarnia Leniwa,1.0,6.5,574,Dumpling Restaurants,Dumplings
-Pierogarnia Leniwa,1.0,6.5,574,Polish Restaurants,Polish
-Subway,1.0,6.5,669,Sandwich Spots,Sandwich Spot
-Subway,1.0,6.5,43,Fast Food Restaurants,Fast Food
-Subway,1.0,6.5,859,Sandwich Spots,Sandwich Spot
-Subway,1.0,6.5,637,Sandwich Spots,Sandwich Spot
-Subway,1.0,6.5,637,Fast Food Restaurants,Fast Food
-Subway,1.0,6.5,859,Fast Food Restaurants,Fast Food
-Gospoda Pod Modrym Fartuchem,,6.5,579,Polish Restaurants,Polish
-KFC,1.0,6.5,922,Fried Chicken Joints,Fried Chicken
-KFC,1.0,6.3,803,Fried Chicken Joints,Fried Chicken
-KFC,1.0,6.3,803,Fast Food Restaurants,Fast Food
-Dim Sum,2.0,6.3,621,Chinese Restaurants,Chinese
-Dim Sum,2.0,6.3,621,Dim Sum Restaurants,Dim Sum
-KFC,1.0,6.3,962,Fried Chicken Joints,Fried Chicken
-KFC,1.0,6.3,451,Fried Chicken Joints,Fried Chicken
-KFC,1.0,6.3,962,Fast Food Restaurants,Fast Food
-KFC,1.0,6.3,451,Fast Food Restaurants,Fast Food
-KFC,1.0,6.3,103,Fried Chicken Joints,Fried Chicken
-KFC,1.0,6.3,103,Fast Food Restaurants,Fast Food
-KFC,,6.2,434,Restaurants,Restaurant
-McDonald's,1.0,6.1,902,Fast Food Restaurants,Fast Food
-McDonald's,1.0,6.1,216,Fast Food Restaurants,Fast Food
-McDonald's,1.0,6.1,156,Fast Food Restaurants,Fast Food
-Mr.Capone,1.0,6.0,29,Bars,Bar
-KFC,1.0,6.0,803,Fried Chicken Joints,Fried Chicken
-Mr.Capone,1.0,6.0,656,Pizzerias,Pizza
-Mr.Capone,1.0,6.0,656,Bars,Bar
-Mr.Capone,1.0,6.0,378,Pizzerias,Pizza
-Mr.Capone,1.0,6.0,378,Bars,Bar
-McDonald's,1.0,6.0,158,Fast Food Restaurants,Fast Food
-McDonald's,1.0,6.0,158,Burger Joints,Burgers
-KFC,1.0,6.0,803,Fast Food Restaurants,Fast Food
-Mr.Capone,1.0,6.0,408,Bars,Bar
-KFC,1.0,6.0,34,Fried Chicken Joints,Fried Chicken
-KFC,1.0,6.0,34,Fast Food Restaurants,Fast Food
-Mr.Capone,1.0,6.0,29,Pizzerias,Pizza
-Mr.Capone,1.0,6.0,408,Pizzerias,Pizza
-KFC,1.0,6.0,303,Fast Food Restaurants,Fast Food
-KFC,1.0,6.0,303,Fried Chicken Joints,Fried Chicken
-McDonald's,1.0,5.8,445,Burger Joints,Burgers
-McDonald's,1.0,5.8,55,Fast Food Restaurants,Fast Food
-McDonald's,1.0,5.8,55,Burger Joints,Burgers
-McDonald's,1.0,5.8,445,Fast Food Restaurants,Fast Food
-Fort IV,,5.7,567,Hotels,Hotel
-Fort IV,,5.7,567,Hostels,Hostel
-McDonald's,1.0,5.6,314,Burger Joints,Burgers
-McDonald's,1.0,5.6,559,Fast Food Restaurants,Fast Food
-McDonald's,1.0,5.6,559,Burger Joints,Burgers
-McDonald's,1.0,5.6,314,Fast Food Restaurants,Fast Food
-Stara Paczkarnia,1.0,,25,Bakeries,Bakery
-Stara Paczkarnia,1.0,,25,Restaurants,Restaurant
-Klif. Bar,2.0,,181,Bars,Bar
-Klif. Bar,2.0,,188,Bars,Bar
-Klif. Bar,2.0,,188,Fast Food Restaurants,Fast Food
-Kinga Łuczak Usługi Hotelowe,,,283,Hotels,Hotel
-Pizzeria Wenecja,1.0,,314,Pizzerias,Pizza
-Pizzeria Wenecja,1.0,,314,Polish Restaurants,Polish
-Drink Bar Sierżant Dawid Kościecha,1.0,,350,Fast Food Restaurants,Fast Food
-Degustator Rafał Daczkowski,2.0,,370,Bars,Bar
-Degustator Rafał Daczkowski,2.0,,370,Fast Food Restaurants,Fast Food
-Pizzeria Venus,1.0,,64,Pizzerias,Pizza
-Kakadu u Marcina - Pub,2.0,,71,Bars,Bar
-Kakadu u Marcina - Pub,2.0,,71,Fast Food Restaurants,Fast Food
-Zahir Kebab,,,88,Kebab Restaurants,Kebab
-Restauracja Montenegro,1.0,,114,Pizzerias,Pizza
-Cafe Molus,1.0,,142,Cafés,Café
-Cafe Molus,1.0,,142,Coffee Shops,Coffee Shop
-Cafe Molus,1.0,,142,Restaurants,Restaurant
-Restauracja W Kapciach,,,144,Restaurants,Restaurant
-MClub,,,160,Restaurants,Restaurant
-"Misada. Restauracja, organizacja imprez",,,164,Restaurants,Restaurant
-Favola,1.0,,184,Cafés,Café
-Favola,1.0,,184,Restaurants,Restaurant
-Kalinowska Giorgi Wanda Pod Jarzębiną Pokoje Gościnne,,,258,Hotels,Hotel
-Kalinowska Giorgi Wanda Pod Jarzębiną Pokoje Gościnne,,,258,Motels,Motel
-Pod Jarzębiną,,,262,Hotels,Hotel
-La Pablo. FHU. Wiwatowski P.,1.0,,64,Pizzerias,Pizza
-Kim Orient,2.0,,97,Asian Restaurants,Asian
-Pizzeria Laguna,1.0,,126,Pizzerias,Pizza
-Start Bar. Bugajski Artur Toruń,2.0,,464,Bars,Bar
-Zapiekanki na dworcu,1.0,,480,Fast Food Restaurants,Fast Food
-Spichrz,,,480,Restaurants,Restaurant
-Zapiekarnia,1.0,,520,Fast Food Restaurants,Fast Food
-Dakat Firma. Dróżdż Teresa Toruń,,,556,Restaurants,Restaurant
-Folborska Monika Marcello,1.0,,562,Fast Food Restaurants,Fast Food
-Restauracja Waliza,,,734,Restaurants,Restaurant
-California Pizza Bar,1.0,,54,Pizzerias,Pizza
-Dom Pielgrzyma,,,55,Hostels,Hostel
-Dom Pielgrzyma,,,55,Hotels,Hotel
-Bar U Beaty,1.0,,99,Tea Rooms,Tea Room
-Bar U Beaty,1.0,,99,Diners,Diner
-Obiady u basi,1.0,,112,Diners,Diner
-Smakuś,,,134,Financial Services,Financial Service
-Smakuś,,,134,Bars,Bar
-Smakuś,,,134,Food Courts,Food Court
-Smakuś,,,134,Fast Food Restaurants,Fast Food
-Chiński Kubek,1.0,,140,Chinese Restaurants,Chinese
-NY's Pizza,1.0,,180,Pizzerias,Pizza
-Cukiernia & Cafe Weranda Anna Nitkowska,,,265,Restaurants,Restaurant
-Cukiernia & Cafe Weranda Anna Nitkowska,,,265,Food and Beverage Retail,Food & Beverage
-Stachowski Daniel Bar,1.0,,282,Fast Food Restaurants,Fast Food
-Chwast Prast Vegetarian Bistro,2.0,,289,Vegan and Vegetarian Restaurants,Vegan and Vegetarian Restaurant
-Tara,1.0,,296,Fast Food Restaurants,Fast Food
-Transcatering,,,317,Restaurants,Restaurant
-Dariusz Nowak,,,185,Restaurants,Restaurant
-Kawiarnia Staś Kwiatkowska Alicja,1.0,,247,Fast Food Restaurants,Fast Food
-Pizzeria Yarpen,1.0,,350,Bars,Bar
-Pizzeria Yarpen,1.0,,350,Pizzerias,Pizza
-Caffe Bar. Drink-bar,2.0,,364,Bars,Bar
-Caffe Bar. Drink-bar,2.0,,364,Coffee Shops,Coffee Shop
-Caffe Bar. Drink-bar,2.0,,364,Restaurants,Restaurant
-Skrzynka,,,430,Restaurants,Restaurant
-Policealna Szkoła Usług Turystycznych,,,502,Technology Business,Technology Business
-Policealna Szkoła Usług Turystycznych,,,502,Hotels,Hotel
-Ajsu Kebab,,,542,Kebab Restaurants,Kebab
-Mała Gastronomia Cegielski Jerzy,1.0,,758,Fast Food Restaurants,Fast Food
-Autosar. Restauracja,,,763,Polish Restaurants,Polish
-Cichy Zakątek S.C. Zembrzuska Magdalena Dąbrowska Kinga,1.0,,338,Fast Food Restaurants,Fast Food
-Apartament ksiezycowy II,,,433,Hotels,Hotel
-Palce Lizać,,,507,Bistros,Bistro
-Pro Eco - Invest Sp. z o.o.,,,583,Hotels,Hotel
-Smakuś,,,619,Financial Services,Financial Service
-Smakuś,,,619,Bars,Bar
-Smakuś,,,619,Food Courts,Food Court
-Smakuś,,,619,Fast Food Restaurants,Fast Food
-Pizza Sfera,1.0,,634,Pizzerias,Pizza
-Warpol,1.0,,640,Delis,Deli
-Bar Statystyk,,,688,Restaurants,Restaurant
-"Lokal Elena – Wesele, Catering Toruń",,,16,Polish Restaurants,Polish
-"Lokal Elena – Wesele, Catering Toruń",,,16,Food and Beverage Retail,Food & Beverage
-Elena. Restauracja,,,94,Polish Restaurants,Polish
-Cichowicz Maria. Bufet,2.0,,567,Bars,Bar
-Rustico Kebab,,,789,Kebab Restaurants,Kebab
-Planeta Kebab,2.0,,840,Bars,Bar
-Planeta Kebab,2.0,,840,Fast Food Restaurants,Fast Food
-Planeta Kebab,2.0,,840,Turkish Restaurants,Turkish
-Kawiarnia Staś Kwiatkowska Alicja,1.0,,906,Fast Food Restaurants,Fast Food
-Forte Prim Sp. z o.o. Sp.k,,,941,Hotels,Hotel
-Ajsu Kebab,,,982,Kebab Restaurants,Kebab
-Pcic Poland Sp. z o.o.,,,540,Business and Strategy Consulting Offices,Business and Strategy Consulting Office
-Pcic Poland Sp. z o.o.,,,540,Restaurants,Restaurant
-DDG Restauracje Grotkowscy Danuta Grotkowskaplacówka Opiekuncza Danuta Grotkowska,,,793,Restaurants,Restaurant
-BIM Oriental Fast Food,1.0,,125,Chinese Restaurants,Chinese
-"Hotel i Karczma ""Spichrz""",,,162,Hotels,Hotel
-Verona II S c Euro Car Bogusław Bojdo Aneta Bojdo,,,200,Hotels,Hotel
-Wild Bean Cafe,1.0,,324,Hot Dog Joints,Hot Dogs
-Wild Bean Cafe,1.0,,324,Cafés,Café
-Przeds Handlowo Usługowe S.C. Airfort Stawicki Janusz Paruszewski Adam,1.0,,338,Fast Food Restaurants,Fast Food
-Pokoje Alfa,,,374,Hostels,Hostel
-Pokoje Alfa,,,374,Hotels,Hotel
-Bar Hotelowy Alfa,1.0,,374,Diners,Diner
-G132 Office & Restaurant,,,378,Offices,Office
-G132 Office & Restaurant,,,378,Restaurants,Restaurant
-Ciechanowski Marian. Punkt małej gastronomii,2.0,,38,Bars,Bar
-Byczy Burger,1.0,,201,Burger Joints,Burgers
-Byczy Burger,1.0,,201,Fast Food Restaurants,Fast Food
-Baalbek,1.0,,202,Fast Food Restaurants,Fast Food
-Baalbek,1.0,,202,Middle Eastern Restaurants,Middle Eastern
-North Fish,3.0,,216,Bars,Bar
-North Fish,3.0,,216,Seafood Restaurants,Seafood
-Bangkok Wok,2.0,,261,Thai Restaurants,Thai
-Dołasiński Zbigniew Kasztelan Bar,1.0,,267,Fast Food Restaurants,Fast Food
-"Baalbek sp.j. Cieślewicz A., Poddany J.",2.0,,303,Bars,Bar
-Pizzeria Pe-Pe Marek Mech,2.0,,111,Tea Rooms,Tea Room
-Pizzeria Pe-Pe Marek Mech,2.0,,111,Pizzerias,Pizza
-Pizzeria Promyk,1.0,,122,Pizzerias,Pizza
-Jankowska Małgorzata pod Koszem Bar,1.0,,212,Fast Food Restaurants,Fast Food
-Simple Plan Ewelina Kosińska,,,267,Hotels,Hotel
-Warpol,1.0,,334,Delis,Deli
-Pizza Sfera,1.0,,351,Pizzerias,Pizza
-Pizzeria Laguna,1.0,,370,Pizzerias,Pizza
-W obłokach cafe,1.0,,293,Coffee Shops,Coffee Shop
-W obłokach cafe,1.0,,293,Tea Rooms,Tea Room
-W obłokach cafe,1.0,,293,Restaurants,Restaurant
-Rubens & Monet,,,774,Restaurants,Restaurant
-Prim S.C. Kulpa Wiktor Kulpa Elżbieta,1.0,,954,Cafés,Café
-Prim S.C. Kulpa Wiktor Kulpa Elżbieta,1.0,,954,Coffee Shops,Coffee Shop
-Prim S.C. Kulpa Wiktor Kulpa Elżbieta,1.0,,954,Fast Food Restaurants,Fast Food
-"Rubbens. Hotel, Restauracja",,,13991,Hotels,Hotel
-Usługi Kelnerskie Dominika Urbanik,,,947,Bars,Bar
-Usługi Kelnerskie Dominika Urbanik,,,947,Fast Food Restaurants,Fast Food
-Belfood Arkadiusz Szmytkowski,,,138,Polish Restaurants,Polish
-Zahir Kebab,2.0,,304,Turkish Restaurants,Turkish
-Hotele Solaris Sp. z o.o.,,,315,Hotels,Hotel
-Mała Gastronomia Rożen Sós Piotr,1.0,,378,Fast Food Restaurants,Fast Food
-Kashmir,2.0,,393,Pizzerias,Pizza
-Kashmir,2.0,,393,Italian Restaurants,Italian
-Max. Pub,1.0,,481,Pubs,Pub
-Kebab,,,540,Kebab Restaurants,Kebab
-Thienlong,1.0,,580,Chinese Restaurants,Chinese
-"Rubbens. Hotel, Restauracja",,,14936,Hotels,Hotel
-Sandżak Sp. z o.o.,,,56,Restaurants,Restaurant
-Montenegro,1.0,,61,Pizzerias,Pizza
-"Bapol s.c. Przedsiębiorstwo handlowo - gastronomiczne. Męcner J., Fedorowicz B.",2.0,,94,Bars,Bar
-Pizza Hut,1.0,,268,Pizzerias,Pizza
-Fenix. Firma handlowo - gastronomiczna,2.0,,356,Bars,Bar
-Tapas,1.0,,429,Bars,Bar
-Tapas,1.0,,429,Pizzerias,Pizza
-Tapas,1.0,,429,Burrito Restaurants,Burritos
-Firma Tapas Odolecka Jolanta,,,429,Restaurants,Restaurant
-Cube Cafe. Kawiarnia Multiconcept. Sp. Z O.o.,1.0,,434,Cafés,Café
-Cube Cafe. Kawiarnia Multiconcept. Sp. Z O.o.,1.0,,434,Coffee Shops,Coffee Shop
-Cube Cafe. Kawiarnia Multiconcept. Sp. Z O.o.,1.0,,434,Fast Food Restaurants,Fast Food
-Subway,1.0,,441,Sandwich Spots,Sandwich Spot
-Subway,1.0,,441,Fast Food Restaurants,Fast Food
-Wild Bean Cafe,1.0,,277,Hot Dog Joints,Hot Dogs
-Wild Bean Cafe,1.0,,277,Cafés,Café
-Ajsu Kebab,,,293,Kebab Restaurants,Kebab
-Pizzeria Don Corleone,1.0,,324,Pizzerias,Pizza
-Skrzynka,,,396,Restaurants,Restaurant
-Dobry Adres Kuchnia i Pub,1.0,,431,Coffee Shops,Coffee Shop
-Dobry Adres Kuchnia i Pub,1.0,,431,Restaurants,Restaurant
-Mała Gastronomia Cegielski Jerzy,1.0,,433,Fast Food Restaurants,Fast Food
-Caffe Bar. Drink-bar,2.0,,466,Bars,Bar
-Caffe Bar. Drink-bar,2.0,,466,Coffee Shops,Coffee Shop
-Caffe Bar. Drink-bar,2.0,,466,Restaurants,Restaurant
-Pizzeria Yarpen,1.0,,496,Bars,Bar
-Pizzeria Yarpen,1.0,,496,Pizzerias,Pizza
-North Fish,3.0,,41,Seafood Restaurants,Seafood
-Smaki Azji,2.0,,74,Asian Restaurants,Asian
-burgeroWnia,1.0,,90,Burger Joints,Burgers
-Kosmos Hotel Torun,,,99,Hotels,Hotel
-Arianos Döner Kebab,,,159,Doner Restaurants,Doner
-Misada,,,161,Restaurants,Restaurant
-Adaś. Bar,,,24,Bars,Bar
-Paluch stołówka,1.0,,130,Diners,Diner
-Bar ZIEMniaczek,,,137,Bars,Bar
-Bar ZIEMniaczek,,,137,Buffets,Buffet
-Bar ZIEMniaczek,,,137,Cafés,Café
-Hotel Uniwersytecki,,,230,Hotels,Hotel
-Murat Kebap,,,95,Halal Restaurants,Halal
-Soczek raz dwa,2.0,,107,Bars,Bar
-Soczek raz dwa,2.0,,107,Restaurants,Restaurant
-El Ninio,2.0,,167,Bars,Bar
-Jagoda,,,182,Polish Restaurants,Polish
-Chwast Prast Vegetarian Bistro,2.0,,195,Vegan and Vegetarian Restaurants,Vegan and Vegetarian Restaurant
-Mała gastronomia Bar U Dziadka,,,216,Restaurants,Restaurant
-Lawenda,,,348,Restaurants,Restaurant
-Kęs Dobry,1.0,,413,Burger Joints,Burgers
-Kęs Dobry,1.0,,413,Fast Food Restaurants,Fast Food
-"Restauracja ""PIĄTA KLEPKA"" Agnieszka Borkowska",,,425,Restaurants,Restaurant
-Dynasińska Maria Shangri La,,,639,Restaurants,Restaurant
-Rafa. Pizzeria,1.0,,842,Pizzerias,Pizza
-Firma Usł Gastronom Wiktor S.C. Modzelewska Alicja Modzelewska Kinga,,,31,Coffee Shops,Coffee Shop
-Firma Usł Gastronom Wiktor S.C. Modzelewska Alicja Modzelewska Kinga,,,31,Fast Food Restaurants,Fast Food
-"""Wiki"" Pizzeria Beata Chmurzyńska",,,42,Pizzerias,Pizza
-Kola Sklep Mięsno-Spożywczy. Kolasiński Tomasz Toruń,,,49,Restaurants,Restaurant
-Kola Sklep Mięsno-Spożywczy. Kolasiński Tomasz Toruń,,,49,Meat and Seafood Stores,Meat and Seafood Store
-Marco. Pizzeria,,,171,Pizzerias,Pizza
-Firma Handlowo-Gastronomiczna. Grzebińska Teodozja Toruń,,,222,Fast Food Restaurants,Fast Food
-Od Nowa MZK,,,25,Arts and Entertainment,Arts & Entertainment
-Od Nowa MZK,,,25,Bars,Bar
-Hotel Asystencki nr 2,,,98,Hotels,Hotel
-Bar Małej Gastronomi Baszyński Piotr,,,245,Restaurants,Restaurant
-Mała gastronomia Bar U Dziadka,,,381,Restaurants,Restaurant
-Chiński Kubek,1.0,,394,Chinese Restaurants,Chinese
-Cybermachina Przemysław Benedykciński,1.0,,191,Fast Food Restaurants,Fast Food
-Pora Obiadowa,1.0,,229,Diners,Diner
-Krągłe Placki,1.0,,319,Pizzerias,Pizza
-Pub Na Pętli,2.0,,340,Bars,Bar
-"Agnieszka Płachta Blue Cactus, Blue Home",,,507,Restaurants,Restaurant
-Chilli. Maćczak M.,2.0,,517,Bars,Bar
-Siwy Dym,,,685,Polish Restaurants,Polish
-Prim S.C. Kulpa Wiktor Kulpa Elżbieta,1.0,,767,Cafés,Café
-Prim S.C. Kulpa Wiktor Kulpa Elżbieta,1.0,,767,Coffee Shops,Coffee Shop
-Prim S.C. Kulpa Wiktor Kulpa Elżbieta,1.0,,767,Fast Food Restaurants,Fast Food
-Gruba Ryba,3.0,,796,Seafood Restaurants,Seafood
-Thienlong,1.0,,796,Chinese Restaurants,Chinese
-Kinga Łuczak Usługi Hotelowe,,,42,Hotels,Hotel
-Klif. Bar,2.0,,105,Bars,Bar
-Klif. Bar,2.0,,105,Fast Food Restaurants,Fast Food
-Klif. Bar,2.0,,109,Bars,Bar
-Stara Paczkarnia,1.0,,260,Bakeries,Bakery
-Stara Paczkarnia,1.0,,260,Restaurants,Restaurant
-Pizzeria Wenecja,1.0,,351,Pizzerias,Pizza
-Pizzeria Wenecja,1.0,,351,Polish Restaurants,Polish
-Lodmix Szczególski Sławomir,2.0,,360,Tea Rooms,Tea Room
-Lodmix Szczególski Sławomir,2.0,,360,Polish Restaurants,Polish
-Drink Bar Sierżant Dawid Kościecha,1.0,,392,Fast Food Restaurants,Fast Food
-Blue Kaktus. Pub,2.0,,507,Bars,Bar
-Mała Gastronomia Cegielski Jerzy,1.0,,163,Fast Food Restaurants,Fast Food
-Wild Bean Cafe,1.0,,383,Hot Dog Joints,Hot Dogs
-Wild Bean Cafe,1.0,,383,Cafés,Café
-Pizzeria Yarpen,1.0,,489,Bars,Bar
-Pizzeria Yarpen,1.0,,489,Pizzerias,Pizza
-Caffe Bar. Drink-bar,2.0,,519,Bars,Bar
-Caffe Bar. Drink-bar,2.0,,519,Coffee Shops,Coffee Shop
-Caffe Bar. Drink-bar,2.0,,519,Restaurants,Restaurant
-Skrzynka,,,525,Restaurants,Restaurant
-Ajsu Kebab,,,599,Kebab Restaurants,Kebab
-Kawiarnia Staś Kwiatkowska Alicja,1.0,,635,Fast Food Restaurants,Fast Food
-Dariusz Nowak,,,639,Restaurants,Restaurant
-Policealna Szkoła Usług Turystycznych,,,714,Technology Business,Technology Business
-Policealna Szkoła Usług Turystycznych,,,714,Hotels,Hotel
-Krystyna Bryla Mala Gastronomia Lodziarnia,,,50,Restaurants,Restaurant
-Punkt Sprzedaży Małej Gastronomi Koźlikowska Aleksandra,1.0,,102,Fast Food Restaurants,Fast Food
-Ajsu Kebab,,,108,Kebab Restaurants,Kebab
-Kwadrans Cafe Toruń,1.0,,156,Cafés,Café
-Kwadrans Cafe Toruń,1.0,,156,Coffee Shops,Coffee Shop
-Kwadrans Cafe Toruń,1.0,,156,Restaurants,Restaurant
-Kebab Star,1.0,,156,Fast Food Restaurants,Fast Food
-Portos,2.0,,178,Bars,Bar
-Mar Changlin Chang Lin Firma,,,185,General Contractors,General Contractor
-Mar Changlin Chang Lin Firma,,,185,Restaurants,Restaurant
-Restauracja Chińska Chang Lin,1.0,,190,Chinese Restaurants,Chinese
-Gruby Benek. Pizzeria,1.0,,199,Pizzerias,Pizza
-Enigma,2.0,,291,Bars,Bar
-Pokoje Alfa,,,65,Hostels,Hostel
-Pokoje Alfa,,,65,Hotels,Hotel
-Bar Hotelowy Alfa,1.0,,65,Diners,Diner
-G132 Office & Restaurant,,,70,Offices,Office
-G132 Office & Restaurant,,,70,Restaurants,Restaurant
-Wild Bean Cafe,1.0,,79,Hot Dog Joints,Hot Dogs
-Wild Bean Cafe,1.0,,79,Cafés,Café
-"Hotel i Karczma ""Spichrz""",,,313,Hotels,Hotel
-Wild Bean Cafe,1.0,,319,Hot Dog Joints,Hot Dogs
-Wild Bean Cafe,1.0,,319,Cafés,Café
-Mio Piano Restaurant,2.0,,339,Italian Restaurants,Italian
-Mio Piano Restaurant,2.0,,339,Polish Restaurants,Polish
-Blue Kaktus. Pub,2.0,,367,Bars,Bar
-Kebab,,,66,Kebab Restaurants,Kebab
-Mediterian,2.0,,83,Pizzerias,Pizza
-Mediterian,2.0,,83,Greek Restaurants,Greek
-Mediterian,2.0,,83,Mediterranean Restaurants,Mediterranean
-Apartament Delfin II,,,234,Hotels,Hotel
-Jajcarnia,1.0,,256,Diners,Diner
-Restauracja Olimpia Toruń,,,265,Restaurants,Restaurant
-Kryta Pływalnia z Hotelikiem,,,273,Swimming Pools,Pool
-Kryta Pływalnia z Hotelikiem,,,273,Hotels,Hotel
-Mr Chicken,1.0,,292,Fast Food Restaurants,Fast Food
-Atena. Pizzeria,1.0,,300,Pizzerias,Pizza
-Serjusz Szymon Rosiński,,,315,Restaurants,Restaurant
-Piekuś Bistro,,,113,Bistros,Bistro
-Przewoski Lech Żak,1.0,,361,Fast Food Restaurants,Fast Food
-Bar Kebab Gabi Mariola Tomaszewska,,,549,Restaurants,Restaurant
-Pizzeria Haos,1.0,,555,Pizzerias,Pizza
-Delikatesy 34,1.0,,576,Delis,Deli
-Domowa Barbara Langierowicz,2.0,,652,Tea Rooms,Tea Room
-Domowa Barbara Langierowicz,2.0,,652,Polish Restaurants,Polish
-"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",,,706,Food and Beverage Services,Food Service
-"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",,,706,Electronics Stores,Electronics
-"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",,,706,Furniture and Home Stores,Furniture and Home Store
-"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",,,706,Hotels,Hotel
-Klif. Bar,2.0,,723,Bars,Bar
-Klif. Bar,2.0,,723,Fast Food Restaurants,Fast Food
-Klif. Bar,2.0,,728,Bars,Bar
-Delikates,1.0,,767,Delis,Deli
-Bar Krokiecik Toruń,,,39,Bars,Bar
-Bar Krokiecik Toruń,,,39,Bistros,Bistro
-Bar BQ,2.0,,100,BBQ Joints,BBQ
-Domino's Pizza,1.0,,118,Pizzerias,Pizza
-Domino's Pizza,1.0,,118,Fast Food Restaurants,Fast Food
-Bar Orientalny HANOI,2.0,,132,Vietnamese Restaurants,Vietnamese
-Bar Azyl Dorota Jakimiak Toruń,1.0,,142,Bakeries,Bakery
-Bar Azyl Dorota Jakimiak Toruń,1.0,,142,Bars,Bar
-Bar Azyl Dorota Jakimiak Toruń,1.0,,142,Restaurants,Restaurant
-Polish Kebab,,,257,Doner Restaurants,Doner
-Dzięgiel Jacek. Kebab,,,257,Kebab Restaurants,Kebab
-Domino's Pizza,1.0,,280,Pizzerias,Pizza
-Atena. Pizzeria,1.0,,289,Pizzerias,Pizza
-Zahir Kebab,,,82,Kebab Restaurants,Kebab
-Gruba Ryba,3.0,,109,Seafood Restaurants,Seafood
-Thienlong,1.0,,109,Chinese Restaurants,Chinese
-Chilli. Maćczak M.,2.0,,324,Bars,Bar
-Delikates,1.0,,594,Delis,Deli
-Siwy Dym,,,605,Polish Restaurants,Polish
-"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",,,617,Food and Beverage Services,Food Service
-"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",,,617,Electronics Stores,Electronics
-"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",,,617,Furniture and Home Stores,Furniture and Home Store
-"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",,,617,Hotels,Hotel
-Domowa Barbara Langierowicz,2.0,,629,Tea Rooms,Tea Room
-Domowa Barbara Langierowicz,2.0,,629,Polish Restaurants,Polish
-Tomasz Tokarz,,,725,Restaurants,Restaurant
-Pora Obiadowa,1.0,,727,Diners,Diner
-Budzik Coffee Bartłomiej Maciejewski,1.0,,6,Restaurants,Restaurant
-Taica Frias Heli CLUB LATINO,1.0,,17,Fast Food Restaurants,Fast Food
-Maximus S.C. Bar-Pizzeria Toruń,1.0,,22,Pizzerias,Pizza
-Domowa,1.0,,40,Diners,Diner
-Ziemniak Czy Rybka,2.0,,95,Bars,Bar
-Domino's Pizza,1.0,,131,Pizzerias,Pizza
-Mr Chicken,1.0,,157,Fast Food Restaurants,Fast Food
-Atena. Pizzeria,1.0,,249,Pizzerias,Pizza
-Jordan Edyta Maciejewska,2.0,,274,Bars,Bar
-Jordan Edyta Maciejewska,2.0,,274,Fast Food Restaurants,Fast Food
-Restauracja Róża Wiatrów,,,310,Restaurants,Restaurant
-Filmar Service Sp. z o.o.,,,327,Hotels,Hotel
-Pro Eco - Invest Sp. z o.o.,,,173,Hotels,Hotel
-Palce Lizać,,,176,Bistros,Bistro
-Warpol,1.0,,214,Delis,Deli
-Pizza Sfera,1.0,,216,Pizzerias,Pizza
-Pizzeria Laguna,1.0,,345,Pizzerias,Pizza
-Pamela. Pub,1.0,,394,Night Clubs,Night Club
-Pamela. Pub,1.0,,394,Pubs,Pub
-Cichy Zakątek S.C. Zembrzuska Magdalena Dąbrowska Kinga,1.0,,405,Fast Food Restaurants,Fast Food
-Pizza Dominium,1.0,,22,Pizzerias,Pizza
-Słodka Chmurka Piotr Moroz,1.0,,34,Fast Food Restaurants,Fast Food
-"Baalbek sp.j. Cieślewicz A., Poddany J.",2.0,,38,Bars,Bar
-Bangkok Wok,2.0,,70,Thai Restaurants,Thai
-Subway,1.0,,94,Sandwich Spots,Sandwich Spot
-Subway,1.0,,94,Fast Food Restaurants,Fast Food
-Copernicus Döner Kebap,,,109,Kebab Restaurants,Kebab
-North Fish,3.0,,144,Bars,Bar
-North Fish,3.0,,144,Seafood Restaurants,Seafood
-Zapiekarnia,1.0,,64,Fast Food Restaurants,Fast Food
-Zapiekanki na dworcu,1.0,,103,Fast Food Restaurants,Fast Food
-Spichrz,,,103,Restaurants,Restaurant
-Budowlani Toruń,,,524,Hotels,Hotel
-La Pablo. FHU. Wiwatowski P.,1.0,,532,Pizzerias,Pizza
-Folborska Monika Marcello,1.0,,555,Fast Food Restaurants,Fast Food
-Start Bar. Bugajski Artur Toruń,2.0,,577,Bars,Bar
-Kim Orient,2.0,,674,Asian Restaurants,Asian
-Green Way,2.0,,938,Vegan and Vegetarian Restaurants,Vegan and Vegetarian Restaurant
-Dakat Firma. Dróżdż Teresa Toruń,,,994,Restaurants,Restaurant
-Oscar apartments,2.0,,228,Bars,Bar
-Restaracja Walter,,,433,Polish Restaurants,Polish
-Hotel Walter,,,437,Hotels,Hotel
-"Zakład Handlowo Usługowo Produkcyjny ""WALTER"" Walter Tadeusz",,,447,Retail,Retail
-"Zakład Handlowo Usługowo Produkcyjny ""WALTER"" Walter Tadeusz",,,447,Hotels,Hotel
-Towimor. Bar,,,474,Bars,Bar
-Przystanek Piekus,1.0,,195,Bakeries,Bakery
-Przystanek Piekus,1.0,,195,Cafés,Café
-Przystanek Piekus,1.0,,195,Restaurants,Restaurant
-McDonald's,1.0,,201,Burger Joints,Burgers
-McDonald's,1.0,,201,Fast Food Restaurants,Fast Food
-Dakat Firma. Dróżdż Teresa Toruń,,,322,Restaurants,Restaurant
-Zajazd Torunski,,,419,Hotels,Hotel
-Wild Bean Cafe,1.0,,522,Hot Dog Joints,Hot Dogs
-Wild Bean Cafe,1.0,,522,Cafés,Café
-Start Bar. Bugajski Artur Toruń,2.0,,756,Bars,Bar
-Kim Orient,2.0,,800,Asian Restaurants,Asian
-Pizzeria Laguna,1.0,,820,Pizzerias,Pizza
-La Pablo. FHU. Wiwatowski P.,1.0,,874,Pizzerias,Pizza
-Bar Leśny,,,87,Bars,Bar
-Trzy Smaki,,,110,Bistros,Bistro
-Urbański,,,139,Hotels,Hotel
-Graffico. Producent pylonów i witaczy,,,227,Hotels,Hotel
-Mała Gastronomia Galczak Jolanta,1.0,,282,Fast Food Restaurants,Fast Food
-Twierdza Torun,,,533,Hotels,Hotel
-Laskowska Rudnicka Violetta Viola Firma handlowo usługowa - Torun,,,559,Restaurants,Restaurant
-Restauracja Forteczna,2.0,,588,Eastern European Restaurants,Eastern European
-Kebabmaniak,,,625,Kebab Restaurants,Kebab
-Batory,,,626,Hotels,Hotel
-F.H.U Przy Złotej Wyspie Ewelina Fiedorowicz,,,693,Polish Restaurants,Polish
-Restauracja Monte Carlo,1.0,,784,Pizzerias,Pizza
-Restauracja Monte Carlo,1.0,,784,Polish Restaurants,Polish
-Roma. Pizzeria,1.0,,84,Pizzerias,Pizza
-New York Pizza Department Toruń,1.0,,95,Pizzerias,Pizza
-New York Pizza Department Toruń,1.0,,95,New American Restaurants,New American
-Jadło Do Syta,,,101,Polish Restaurants,Polish
-Verdad Sp. z o.o.,,,111,Hotels,Hotel
-Restauracja Jadło Polskie,,,127,Restaurants,Restaurant
-E-Pizzeria.Pl Krzysztof Pawłowski,1.0,,171,Pizzerias,Pizza
-Przedsiębiorstwo Handlowo Usługowe Kowalik Maria,1.0,,183,Fast Food Restaurants,Fast Food
-Servus Sp. z o.o.,,,206,Polish Restaurants,Polish
-Lawenda,,,160,Restaurants,Restaurant
-Dynasińska Maria Shangri La,,,179,Restaurants,Restaurant
-Kęs Dobry,1.0,,281,Burger Joints,Burgers
-Kęs Dobry,1.0,,281,Fast Food Restaurants,Fast Food
-Rafa. Pizzeria,1.0,,691,Pizzerias,Pizza
-Folborska Monika Marcello,1.0,,691,Fast Food Restaurants,Fast Food
-"Restauracja ""PIĄTA KLEPKA"" Agnieszka Borkowska",,,761,Restaurants,Restaurant
-Yomi S.C. Joanna Sowińska Michalina Bratkowska,,,120,Food and Beverage Services,Food Service
-Yomi S.C. Joanna Sowińska Michalina Bratkowska,,,120,Tea Rooms,Tea Room
-Yomi S.C. Joanna Sowińska Michalina Bratkowska,,,120,Restaurants,Restaurant
-Przedsiębiorstwo Handlowo Usługowe Majus Cander Tomasz,,,186,Fast Food Restaurants,Fast Food
-Przedsiębiorstwo Handlowo Usługowe Majus Cander Tomasz,,,186,Department Stores,Department Store
-Przedsiębiorstwo Handlowo Usługowe Majus Cander Tomasz,,,186,Food and Beverage Retail,Food & Beverage
-Firma Handlowo-Gastronomiczna. Grzebińska Teodozja Toruń,,,365,Fast Food Restaurants,Fast Food
-Pensjonat LAZUR,,,429,Bed and Breakfasts,Bed and Breakfast
-Pensjonat LAZUR,,,429,Hotels,Hotel
-Restauracja Lokomotywa,1.0,,57,Dive Bars,Dive Bar
-Restauracja Lokomotywa,1.0,,57,Polish Restaurants,Polish
-PIE TOWN Małgorzata Mitręga,,,143,Restaurants,Restaurant
-"Arkadiusz Owsianik Przedsiębiorstwo Handlowo-Usługowe ""Pizza Drive""",,,215,Food and Beverage Services,Food Service
-"Arkadiusz Owsianik Przedsiębiorstwo Handlowo-Usługowe ""Pizza Drive""",,,215,Tea Rooms,Tea Room
-"Arkadiusz Owsianik Przedsiębiorstwo Handlowo-Usługowe ""Pizza Drive""",,,215,Restaurants,Restaurant
-Orient Express,2.0,,457,Bars,Bar
-Orient Express,2.0,,457,Fast Food Restaurants,Fast Food
-Orient Express,2.0,,457,Sushi Restaurants,Sushi
-Pensjonat Winnica,,,495,Bed and Breakfasts,Bed and Breakfast
-Pensjonat Winnica,,,495,Cabins,Cabin
-Pensjonat Winnica,,,495,Hotels,Hotel
-Elżbieta. FPH. Bukowska E.,,,594,Hotels,Hotel
-Pub Mokre Kurtyka Mirosława,2.0,,616,Bars,Bar
-Pub Mokre Kurtyka Mirosława,2.0,,616,Restaurants,Restaurant
-Byczy Burger,1.0,,737,Burger Joints,Burgers
-Byczy Burger,1.0,,737,Fast Food Restaurants,Fast Food
+name,price,rating,distance,latitude,longitude
+Coffee & Whisky House,3.0,8.8,657,53.011939,18.611414
+Coffee & Whisky House,3.0,8.8,603,53.012029,18.596202
+Coffee & Whisky House,3.0,8.8,229,53.009622,18.600228
+Coffee & Whisky House,3.0,8.8,211,53.007485,18.600735
+Coffee & Whisky House,3.0,8.8,832,53.015745,18.607203
+Coffee & Whisky House,3.0,8.8,810,53.015872,18.601638
+Coffee & Whisky House,3.0,8.8,852,53.013655,18.612899
+Copernicus Toruń Hotel,,8.6,469,53.012029,18.596202
+Copernicus Toruń Hotel,,8.6,251,53.007485,18.600735
+Copernicus Toruń Hotel,,8.6,945,53.015872,18.601638
+Copernicus Toruń Hotel,,8.6,855,53.010124,18.584802
+Copernicus Toruń Hotel,,8.6,292,53.009622,18.600228
+Szeroka No.9,,8.5,806,53.012029,18.596202
+Szeroka No.9,,8.5,582,53.015745,18.607203
+Szeroka No.9,,8.5,477,53.013655,18.612899
+Szeroka No.9,,8.5,276,53.011939,18.611414
+Szeroka No.9,,8.5,786,53.012702,18.619199
+Szeroka No.9,,8.5,731,53.015872,18.601638
+Szeroka No.9,,8.5,591,53.007485,18.600735
+Szeroka No.9,,8.5,529,53.009622,18.600228
+Bread House Cafe,1.0,8.4,283,53.007485,18.600735
+Bread House Cafe,1.0,8.4,434,53.012029,18.596202
+Manekin,,8.4,662,53.009622,18.600228
+Manekin,,8.4,341,53.015745,18.607203
+Manekin,,8.4,986,53.021252,18.613106
+Widelec,2.0,8.4,578,53.01726,18.571075
+Manekin,,8.4,833,53.012029,18.596202
+Apartamenty Monka,,8.4,590,53.012029,18.596202
+Manekin,,8.4,671,53.014522,18.5616
+Widelec,2.0,8.4,730,53.013489,18.571125
+Apartamenty Monka,,8.4,872,53.015745,18.607203
+Manekin,,8.4,405,53.020554,18.570606
+Widelec,2.0,8.4,693,53.020554,18.570606
+Manekin,,8.4,379,53.013489,18.571125
+Apartamenty Monka,,8.4,834,53.015872,18.601638
+Widelec,2.0,8.4,440,53.013617,18.580471
+Bread House Cafe,1.0,8.4,656,53.015872,18.601638
+Manekin,,8.4,790,53.007485,18.600735
+Manekin,,8.4,578,53.015872,18.601638
+Bread House Cafe,1.0,8.4,739,53.015745,18.607203
+Widelec,2.0,8.4,160,53.018989,18.580011
+Manekin,,8.4,210,53.011939,18.611414
+Bread House Cafe,1.0,8.4,684,53.011939,18.611414
+Manekin,,8.4,302,53.013655,18.612899
+Bread House Cafe,1.0,8.4,852,53.013655,18.612899
+Apartamenty Monka,,8.4,901,53.013655,18.612899
+Apartamenty Monka,,8.4,211,53.009622,18.600228
+Manekin,,8.4,708,53.012702,18.619199
+Widelec,2.0,8.4,655,53.022897,18.583878
+Apartamenty Monka,,8.4,707,53.011939,18.611414
+Apartamenty Monka,,8.4,162,53.007485,18.600735
+Bread House Cafe,1.0,8.4,106,53.009622,18.600228
+Widelec,2.0,8.4,893,53.010124,18.584802
+Pierogarnia Stary Młyn,1.0,8.1,370,53.011939,18.611414
+Pierogarnia Stary Młyn,1.0,8.1,749,53.015872,18.601638
+Pierogarnia Stary Młyn,1.0,8.1,873,53.012702,18.619199
+Pierogarnia Stary Toruń,1.0,8.1,849,53.012702,18.619199
+Pierogarnia Stary Młyn,1.0,8.1,452,53.009622,18.600228
+Pierogarnia Stary Toruń,1.0,8.1,545,53.015872,18.601638
+Pierogarnia Stary Toruń,1.0,8.1,464,53.013655,18.612899
+Pierogarnia Stary Młyn,1.0,8.1,572,53.013655,18.612899
+Pierogarnia Stary Toruń,1.0,8.1,423,53.015745,18.607203
+Pierogarnia Stary Toruń,1.0,8.1,324,53.011939,18.611414
+Pierogarnia Stary Młyn,1.0,8.1,756,53.012029,18.596202
+Pierogarnia Stary Toruń,1.0,8.1,631,53.007485,18.600735
+Pierogarnia Stary Młyn,1.0,8.1,645,53.015745,18.607203
+Pierogarnia Stary Młyn,1.0,8.1,498,53.007485,18.600735
+Pierogarnia Stary Toruń,1.0,8.1,692,53.012029,18.596202
+Pierogarnia Stary Toruń,1.0,8.1,496,53.009622,18.600228
+Montenegro,1.0,8.0,843,53.021725,18.59627
+Montenegro,1.0,8.0,860,53.035522,18.599119
+Montenegro,1.0,8.0,670,53.033019,18.599727
+Montenegro,1.0,8.0,746,53.025309,18.601746
+Montenegro,1.0,8.0,877,53.022897,18.583878
+Montenegro,1.0,8.0,215,53.030117,18.58979
+Jan Olbracht Browar Staromiejski,2.0,7.8,523,53.007485,18.600735
+Jan Olbracht Browar Staromiejski,2.0,7.8,915,53.012702,18.619199
+Jan Olbracht Browar Staromiejski,2.0,7.8,405,53.009622,18.600228
+Jan Olbracht Browar Staromiejski,2.0,7.8,555,53.013655,18.612899
+Jan Olbracht Browar Staromiejski,2.0,7.8,388,53.011939,18.611414
+Jan Olbracht Browar Staromiejski,2.0,7.8,525,53.015745,18.607203
+Jan Olbracht Browar Staromiejski,2.0,7.8,648,53.012029,18.596202
+Jan Olbracht Browar Staromiejski,2.0,7.8,598,53.015872,18.601638
+Weranda Chełmińska,2.0,7.5,705,53.022897,18.583878
+Weranda Chełmińska,2.0,7.5,930,53.018852,18.591969
+Weranda Chełmińska,2.0,7.5,686,53.021725,18.59627
+Weranda Chełmińska,2.0,7.5,710,53.025309,18.601746
+Weranda Chełmińska,2.0,7.5,343,53.030117,18.58979
+Weranda Chełmińska,2.0,7.5,842,53.033019,18.599727
+Czarny Tulipan. Pub,2.0,7.4,827,53.018989,18.580011
+Czarny Tulipan. Pub,2.0,7.4,619,53.013489,18.571125
+Czarny Tulipan. Pub,2.0,7.4,234,53.013617,18.580471
+Czarny Tulipan. Pub,2.0,7.4,862,53.01726,18.571075
+Czarny Tulipan. Pub,2.0,7.4,369,53.010124,18.584802
+Azzurro,2.0,7.3,610,53.018989,18.580011
+Azzurro,2.0,7.3,728,53.010124,18.584802
+Azzurro,2.0,7.3,335,53.013489,18.571125
+Azzurro,2.0,7.3,298,53.013617,18.580471
+Azzurro,2.0,7.3,489,53.01726,18.571075
+Azzurro,2.0,7.3,810,53.020554,18.570606
+Azzurro,2.0,7.3,968,53.014522,18.5616
+Stare Metropolis,1.0,7.2,757,53.012029,18.596202
+Stare Metropolis,1.0,7.2,487,53.007485,18.600735
+Stare Metropolis,1.0,7.2,382,53.011939,18.611414
+Stare Metropolis,1.0,7.2,584,53.013655,18.612899
+Stare Metropolis,1.0,7.2,447,53.009622,18.600228
+Stare Metropolis,1.0,7.2,881,53.012702,18.619199
+Stare Metropolis,1.0,7.2,759,53.015872,18.601638
+Stare Metropolis,1.0,7.2,658,53.015745,18.607203
+Hotel Filmar,,7.0,899,53.021725,18.59627
+Lizard King,,7.0,703,53.013655,18.612899
+Lizard King,,7.0,506,53.011939,18.611414
+Hotel Filmar,,7.0,310,53.021252,18.613106
+Hotel Filmar,,7.0,805,53.025309,18.601746
+Hotel Filmar,,7.0,497,53.024134,18.609268
+Hotel Filmar,,7.0,944,53.019546,18.623415
+Hotel Filmar,,7.0,743,53.023882,18.61791
+Lizard King,,7.0,721,53.015745,18.607203
+Od Nowa. Studencki klub pracy twórczej,1.0,6.8,589,53.013617,18.580471
+Od Nowa. Studencki klub pracy twórczej,1.0,6.8,672,53.020554,18.570606
+Od Nowa. Studencki klub pracy twórczej,1.0,6.8,642,53.01726,18.571075
+Od Nowa. Studencki klub pracy twórczej,1.0,6.8,502,53.022897,18.583878
+Od Nowa. Studencki klub pracy twórczej,1.0,6.8,859,53.013489,18.571125
+Od Nowa. Studencki klub pracy twórczej,1.0,6.8,780,53.018852,18.591969
+Od Nowa. Studencki klub pracy twórczej,1.0,6.8,20,53.018989,18.580011
+Loft79,3.0,6.7,731,53.021252,18.613106
+Loft79,3.0,6.7,980,53.019546,18.623415
+Widelec,2.0,6.6,279,53.025994,18.633996
+Widelec,2.0,6.6,311,53.024468,18.638258
+Widelec,2.0,6.6,659,53.017646,18.635777
+KFC,1.0,6.5,922,53.029537,18.653436
+KFC,1.0,6.5,281,53.027355,18.665235
+Gospoda Pod Modrym Fartuchem,,6.5,579,53.012702,18.619199
+KFC,1.0,6.5,412,53.02348,18.659069
+Subway,1.0,6.5,859,53.020554,18.570606
+Subway,1.0,6.5,669,53.01726,18.571075
+Subway,1.0,6.5,637,53.013489,18.571125
+KFC,1.0,6.5,747,53.023772,18.675857
+Pierogarnia Leniwa,1.0,6.5,574,53.012702,18.619199
+Subway,1.0,6.5,43,53.014522,18.5616
+Dim Sum,2.0,6.3,621,53.012702,18.619199
+KFC,1.0,6.3,803,53.033019,18.599727
+KFC,1.0,6.3,103,53.031525,18.610275
+KFC,1.0,6.3,962,53.035522,18.599119
+KFC,1.0,6.3,451,53.034691,18.612857
+KFC,,6.2,434,53.028683,18.692462
+McDonald's,1.0,6.1,902,53.017646,18.635777
+McDonald's,1.0,6.1,156,53.024468,18.638258
+McDonald's,1.0,6.1,216,53.025994,18.633996
+Mr.Capone,1.0,6.0,408,53.013489,18.571125
+KFC,1.0,6.0,303,53.025994,18.633996
+KFC,1.0,6.0,34,53.024468,18.638258
+Mr.Capone,1.0,6.0,29,53.01726,18.571075
+McDonald's,1.0,6.0,158,53.014522,18.5616
+Mr.Capone,1.0,6.0,378,53.020554,18.570606
+Mr.Capone,1.0,6.0,656,53.018989,18.580011
+KFC,1.0,6.0,803,53.017646,18.635777
+McDonald's,1.0,5.9,445,53.034691,18.612857
+McDonald's,1.0,5.9,55,53.031525,18.610275
+Fort IV,,5.7,567,53.04035,18.624286
+McDonald's,1.0,5.6,314,53.023772,18.675857
+McDonald's,1.0,5.6,559,53.027355,18.665235
+Stara Paczkarnia,1.0,,25,53.033019,18.599727
+Klif. Bar,2.0,,181,53.033019,18.599727
+Klif. Bar,2.0,,188,53.033019,18.599727
+Kinga Łuczak Usługi Hotelowe,,,283,53.033019,18.599727
+Pizzeria Wenecja,1.0,,314,53.033019,18.599727
+Drink Bar Sierżant Dawid Kościecha,1.0,,350,53.033019,18.599727
+Degustator Rafał Daczkowski,2.0,,370,53.033019,18.599727
+Pizzeria Venus,1.0,,64,53.013489,18.571125
+Kakadu u Marcina - Pub,2.0,,71,53.013489,18.571125
+Zahir Kebab,,,88,53.013489,18.571125
+Restauracja Montenegro,1.0,,114,53.030117,18.58979
+Cafe Molus,1.0,,142,53.030117,18.58979
+Restauracja W Kapciach,,,144,53.030117,18.58979
+MClub,,,160,53.030117,18.58979
+"Misada. Restauracja, organizacja imprez",,,164,53.030117,18.58979
+Favola,1.0,,184,53.030117,18.58979
+Kalinowska Giorgi Wanda Pod Jarzębiną Pokoje Gościnne,,,258,53.030117,18.58979
+Pod Jarzębiną,,,262,53.030117,18.58979
+La Pablo. FHU. Wiwatowski P.,1.0,,64,52.99555,18.616924
+Kim Orient,2.0,,97,52.99555,18.616924
+Pizzeria Laguna,1.0,,126,52.99555,18.616924
+Start Bar. Bugajski Artur Toruń,2.0,,464,52.99555,18.616924
+Zapiekanki na dworcu,1.0,,480,52.99555,18.616924
+Spichrz,,,480,52.99555,18.616924
+Zapiekarnia,1.0,,520,52.99555,18.616924
+Dakat Firma. Dróżdż Teresa Toruń,,,556,52.99555,18.616924
+Folborska Monika Marcello,1.0,,562,52.99555,18.616924
+Restauracja Waliza,,,734,52.99555,18.616924
+California Pizza Bar,1.0,,54,53.022897,18.583878
+Dom Pielgrzyma,,,55,53.022897,18.583878
+Bar U Beaty,1.0,,99,53.022897,18.583878
+Obiady u basi,1.0,,112,53.022897,18.583878
+Smakuś,,,134,53.022897,18.583878
+Chiński Kubek,1.0,,140,53.022897,18.583878
+NY's Pizza,1.0,,180,53.010124,18.584802
+Cukiernia & Cafe Weranda Anna Nitkowska,,,265,53.010124,18.584802
+Stachowski Daniel Bar,1.0,,282,53.010124,18.584802
+Chwast Prast Vegetarian Bistro,2.0,,289,53.010124,18.584802
+Tara,1.0,,296,53.010124,18.584802
+Transcatering,,,317,53.010124,18.584802
+Dariusz Nowak,,,185,53.029537,18.653436
+Kawiarnia Staś Kwiatkowska Alicja,1.0,,247,53.029537,18.653436
+Pizzeria Yarpen,1.0,,350,53.029537,18.653436
+Caffe Bar. Drink-bar,2.0,,364,53.029537,18.653436
+Skrzynka,,,430,53.029537,18.653436
+Policealna Szkoła Usług Turystycznych,,,502,53.029537,18.653436
+Ajsu Kebab,,,542,53.029537,18.653436
+Mała Gastronomia Cegielski Jerzy,1.0,,758,53.029537,18.653436
+Autosar. Restauracja,,,763,53.029537,18.653436
+Cichy Zakątek S.C. Zembrzuska Magdalena Dąbrowska Kinga,1.0,,338,53.018852,18.591969
+Apartament ksiezycowy II,,,433,53.018852,18.591969
+Palce Lizać,,,507,53.018852,18.591969
+Pro Eco - Invest Sp. z o.o.,,,583,53.018852,18.591969
+Smakuś,,,619,53.018852,18.591969
+Pizza Sfera,1.0,,634,53.018852,18.591969
+Warpol,1.0,,640,53.018852,18.591969
+Bar Statystyk,,,688,53.018852,18.591969
+"Lokal Elena – Wesele, Catering Toruń",,,16,53.037219,18.657603
+Elena. Restauracja,,,94,53.037219,18.657603
+Cichowicz Maria. Bufet,2.0,,567,53.037219,18.657603
+Rustico Kebab,,,789,53.037219,18.657603
+Planeta Kebab,2.0,,840,53.037219,18.657603
+Kawiarnia Staś Kwiatkowska Alicja,1.0,,906,53.037219,18.657603
+Forte Prim Sp. z o.o. Sp.k,,,941,53.037219,18.657603
+Ajsu Kebab,,,982,53.037219,18.657603
+Pcic Poland Sp. z o.o.,,,540,53.037219,18.657603
+DDG Restauracje Grotkowscy Danuta Grotkowskaplacówka Opiekuncza Danuta Grotkowska,,,793,53.037219,18.657603
+BIM Oriental Fast Food,1.0,,125,53.034691,18.612857
+"Hotel i Karczma ""Spichrz""",,,162,53.034691,18.612857
+Verona II S c Euro Car Bogusław Bojdo Aneta Bojdo,,,200,53.034691,18.612857
+Wild Bean Cafe,1.0,,324,53.034691,18.612857
+Przeds Handlowo Usługowe S.C. Airfort Stawicki Janusz Paruszewski Adam,1.0,,338,53.034691,18.612857
+Pokoje Alfa,,,374,53.034691,18.612857
+Bar Hotelowy Alfa,1.0,,374,53.034691,18.612857
+G132 Office & Restaurant,,,378,53.034691,18.612857
+Ciechanowski Marian. Punkt małej gastronomii,2.0,,38,53.025994,18.633996
+Byczy Burger,1.0,,201,53.025994,18.633996
+Baalbek,1.0,,202,53.025994,18.633996
+North Fish,3.0,,216,53.025994,18.633996
+Bangkok Wok,2.0,,261,53.025994,18.633996
+Dołasiński Zbigniew Kasztelan Bar,1.0,,267,53.025994,18.633996
+"Baalbek sp.j. Cieślewicz A., Poddany J.",2.0,,303,53.025994,18.633996
+Pizzeria Pe-Pe Marek Mech,2.0,,111,53.025309,18.601746
+Pizzeria Promyk,1.0,,122,53.025309,18.601746
+Jankowska Małgorzata pod Koszem Bar,1.0,,212,53.025309,18.601746
+Simple Plan Ewelina Kosińska,,,267,53.025309,18.601746
+Warpol,1.0,,334,53.025309,18.601746
+Pizza Sfera,1.0,,351,53.025309,18.601746
+Pizzeria Laguna,1.0,,370,53.025309,18.601746
+W obłokach cafe,1.0,,293,53.050109,18.603833
+Rubens & Monet,,,774,53.050109,18.603833
+Prim S.C. Kulpa Wiktor Kulpa Elżbieta,1.0,,954,53.050109,18.603833
+"Rubbens. Hotel, Restauracja",,,13991,53.050109,18.603833
+Usługi Kelnerskie Dominika Urbanik,,,947,53.050109,18.603833
+Belfood Arkadiusz Szmytkowski,,,138,53.019546,18.623415
+Zahir Kebab,2.0,,304,53.019546,18.623415
+Hotele Solaris Sp. z o.o.,,,315,53.019546,18.623415
+Mała Gastronomia Rożen Sós Piotr,1.0,,378,53.019546,18.623415
+Kashmir,2.0,,393,53.019546,18.623415
+Max. Pub,1.0,,481,53.019546,18.623415
+Kebab,,,540,53.019546,18.623415
+Thienlong,1.0,,580,53.019546,18.623415
+"Rubbens. Hotel, Restauracja",,,14936,53.055472,18.617056
+Sandżak Sp. z o.o.,,,56,53.028683,18.692462
+Montenegro,1.0,,61,53.028683,18.692462
+"Bapol s.c. Przedsiębiorstwo handlowo - gastronomiczne. Męcner J., Fedorowicz B.",2.0,,94,53.028683,18.692462
+Pizza Hut,1.0,,268,53.028683,18.692462
+Fenix. Firma handlowo - gastronomiczna,2.0,,356,53.028683,18.692462
+Tapas,1.0,,429,53.028683,18.692462
+Firma Tapas Odolecka Jolanta,,,429,53.028683,18.692462
+Cube Cafe. Kawiarnia Multiconcept. Sp. Z O.o.,1.0,,434,53.028683,18.692462
+Subway,1.0,,441,53.028683,18.692462
+Wild Bean Cafe,1.0,,277,53.027355,18.665235
+Ajsu Kebab,,,293,53.027355,18.665235
+Pizzeria Don Corleone,1.0,,324,53.027355,18.665235
+Skrzynka,,,396,53.027355,18.665235
+Dobry Adres Kuchnia i Pub,1.0,,431,53.027355,18.665235
+Mała Gastronomia Cegielski Jerzy,1.0,,433,53.027355,18.665235
+Caffe Bar. Drink-bar,2.0,,466,53.027355,18.665235
+Pizzeria Yarpen,1.0,,496,53.027355,18.665235
+North Fish,3.0,,41,53.014522,18.5616
+Smaki Azji,2.0,,74,53.014522,18.5616
+burgeroWnia,1.0,,90,53.014522,18.5616
+Kosmos Hotel Torun,,,99,53.014522,18.5616
+Arianos Döner Kebab,,,159,53.014522,18.5616
+Misada,,,161,53.014522,18.5616
+Adaś. Bar,,,24,53.020554,18.570606
+Paluch stołówka,1.0,,130,53.020554,18.570606
+Bar ZIEMniaczek,,,137,53.020554,18.570606
+Hotel Uniwersytecki,,,230,53.020554,18.570606
+Murat Kebap,,,95,53.013617,18.580471
+Soczek raz dwa,2.0,,107,53.013617,18.580471
+El Ninio,2.0,,167,53.013617,18.580471
+Jagoda,,,182,53.013617,18.580471
+Chwast Prast Vegetarian Bistro,2.0,,195,53.013617,18.580471
+Mała gastronomia Bar U Dziadka,,,216,53.013617,18.580471
+Lawenda,,,348,52.99384,18.593969
+Kęs Dobry,1.0,,413,52.99384,18.593969
+"Restauracja ""PIĄTA KLEPKA"" Agnieszka Borkowska",,,425,52.99384,18.593969
+Dynasińska Maria Shangri La,,,639,52.99384,18.593969
+Rafa. Pizzeria,1.0,,842,52.99384,18.593969
+Firma Usł Gastronom Wiktor S.C. Modzelewska Alicja Modzelewska Kinga,,,31,52.99384,18.593969
+"""Wiki"" Pizzeria Beata Chmurzyńska",,,42,52.99384,18.593969
+Kola Sklep Mięsno-Spożywczy. Kolasiński Tomasz Toruń,,,49,52.99384,18.593969
+Marco. Pizzeria,,,171,52.99384,18.593969
+Firma Handlowo-Gastronomiczna. Grzebińska Teodozja Toruń,,,222,52.99384,18.593969
+Od Nowa MZK,,,25,53.018989,18.580011
+Hotel Asystencki nr 2,,,98,53.018989,18.580011
+Bar Małej Gastronomi Baszyński Piotr,,,245,53.018989,18.580011
+Mała gastronomia Bar U Dziadka,,,381,53.018989,18.580011
+Chiński Kubek,1.0,,394,53.018989,18.580011
+Cybermachina Przemysław Benedykciński,1.0,,191,53.049682,18.578734
+Pora Obiadowa,1.0,,229,53.049682,18.578734
+Krągłe Placki,1.0,,319,53.049682,18.578734
+Pub Na Pętli,2.0,,340,53.049682,18.578734
+"Agnieszka Płachta Blue Cactus, Blue Home",,,507,53.049682,18.578734
+Chilli. Maćczak M.,2.0,,517,53.049682,18.578734
+Siwy Dym,,,685,53.049682,18.578734
+Prim S.C. Kulpa Wiktor Kulpa Elżbieta,1.0,,767,53.049682,18.578734
+Gruba Ryba,3.0,,796,53.049682,18.578734
+Thienlong,1.0,,796,53.049682,18.578734
+Kinga Łuczak Usługi Hotelowe,,,42,53.035522,18.599119
+Klif. Bar,2.0,,105,53.035522,18.599119
+Klif. Bar,2.0,,109,53.035522,18.599119
+Stara Paczkarnia,1.0,,260,53.035522,18.599119
+Pizzeria Wenecja,1.0,,351,53.035522,18.599119
+Lodmix Szczególski Sławomir,2.0,,360,53.035522,18.599119
+Drink Bar Sierżant Dawid Kościecha,1.0,,392,53.035522,18.599119
+Blue Kaktus. Pub,2.0,,507,53.035522,18.599119
+Mała Gastronomia Cegielski Jerzy,1.0,,163,53.02348,18.659069
+Wild Bean Cafe,1.0,,383,53.02348,18.659069
+Pizzeria Yarpen,1.0,,489,53.02348,18.659069
+Caffe Bar. Drink-bar,2.0,,519,53.02348,18.659069
+Skrzynka,,,525,53.02348,18.659069
+Ajsu Kebab,,,599,53.02348,18.659069
+Kawiarnia Staś Kwiatkowska Alicja,1.0,,635,53.02348,18.659069
+Dariusz Nowak,,,639,53.02348,18.659069
+Policealna Szkoła Usług Turystycznych,,,714,53.02348,18.659069
+Krystyna Bryla Mala Gastronomia Lodziarnia,,,50,53.027043,18.679764
+Punkt Sprzedaży Małej Gastronomi Koźlikowska Aleksandra,1.0,,102,53.027043,18.679764
+Ajsu Kebab,,,108,53.027043,18.679764
+Kwadrans Cafe Toruń,1.0,,156,53.027043,18.679764
+Kebab Star,1.0,,156,53.027043,18.679764
+Portos,2.0,,178,53.027043,18.679764
+Mar Changlin Chang Lin Firma,,,185,53.027043,18.679764
+Restauracja Chińska Chang Lin,1.0,,190,53.027043,18.679764
+Gruby Benek. Pizzeria,1.0,,199,53.027043,18.679764
+Enigma,2.0,,291,53.027043,18.679764
+Pokoje Alfa,,,65,53.031525,18.610275
+Bar Hotelowy Alfa,1.0,,65,53.031525,18.610275
+G132 Office & Restaurant,,,70,53.031525,18.610275
+Wild Bean Cafe,1.0,,79,53.031525,18.610275
+"Hotel i Karczma ""Spichrz""",,,313,53.031525,18.610275
+Wild Bean Cafe,1.0,,319,53.031525,18.610275
+Mio Piano Restaurant,2.0,,339,53.031525,18.610275
+Blue Kaktus. Pub,2.0,,367,53.031525,18.610275
+Kebab,,,66,53.023882,18.61791
+Mediterian,2.0,,83,53.023882,18.61791
+Apartament Delfin II,,,234,53.023882,18.61791
+Jajcarnia,1.0,,256,53.023882,18.61791
+Restauracja Olimpia Toruń,,,265,53.023882,18.61791
+Kryta Pływalnia z Hotelikiem,,,273,53.023882,18.61791
+Mr Chicken,1.0,,292,53.023882,18.61791
+Atena. Pizzeria,1.0,,300,53.023882,18.61791
+Serjusz Szymon Rosiński,,,315,53.023882,18.61791
+Piekuś Bistro,,,113,53.041102,18.598109
+Przewoski Lech Żak,1.0,,361,53.041102,18.598109
+Bar Kebab Gabi Mariola Tomaszewska,,,549,53.041102,18.598109
+Pizzeria Haos,1.0,,555,53.041102,18.598109
+Delikatesy 34,1.0,,576,53.041102,18.598109
+Domowa Barbara Langierowicz,2.0,,652,53.041102,18.598109
+"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",,,706,53.041102,18.598109
+Klif. Bar,2.0,,723,53.041102,18.598109
+Klif. Bar,2.0,,728,53.041102,18.598109
+Delikates,1.0,,767,53.041102,18.598109
+Bar Krokiecik Toruń,,,39,53.024134,18.609268
+Bar BQ,2.0,,100,53.024134,18.609268
+Domino's Pizza,1.0,,118,53.024134,18.609268
+Bar Orientalny HANOI,2.0,,132,53.024134,18.609268
+Bar Azyl Dorota Jakimiak Toruń,1.0,,142,53.024134,18.609268
+Polish Kebab,,,257,53.024134,18.609268
+Dzięgiel Jacek. Kebab,,,257,53.024134,18.609268
+Domino's Pizza,1.0,,280,53.024134,18.609268
+Atena. Pizzeria,1.0,,289,53.024134,18.609268
+Zahir Kebab,,,82,53.042366,18.580832
+Gruba Ryba,3.0,,109,53.042366,18.580832
+Thienlong,1.0,,109,53.042366,18.580832
+Chilli. Maćczak M.,2.0,,324,53.042366,18.580832
+Delikates,1.0,,594,53.042366,18.580832
+Siwy Dym,,,605,53.042366,18.580832
+"Kasywtoruniu.pl - Kasy Fiskalne W Toruniu, Systemy Lini Insert i Adith",,,617,53.042366,18.580832
+Domowa Barbara Langierowicz,2.0,,629,53.042366,18.580832
+Tomasz Tokarz,,,725,53.042366,18.580832
+Pora Obiadowa,1.0,,727,53.042366,18.580832
+Budzik Coffee Bartłomiej Maciejewski,1.0,,6,53.01726,18.571075
+Taica Frias Heli CLUB LATINO,1.0,,17,53.01726,18.571075
+Maximus S.C. Bar-Pizzeria Toruń,1.0,,22,53.01726,18.571075
+Domowa,1.0,,40,53.01726,18.571075
+Ziemniak Czy Rybka,2.0,,95,53.021252,18.613106
+Domino's Pizza,1.0,,131,53.021252,18.613106
+Mr Chicken,1.0,,157,53.021252,18.613106
+Atena. Pizzeria,1.0,,249,53.021252,18.613106
+Jordan Edyta Maciejewska,2.0,,274,53.021252,18.613106
+Restauracja Róża Wiatrów,,,310,53.021252,18.613106
+Filmar Service Sp. z o.o.,,,327,53.021252,18.613106
+Pro Eco - Invest Sp. z o.o.,,,173,53.021725,18.59627
+Palce Lizać,,,176,53.021725,18.59627
+Warpol,1.0,,214,53.021725,18.59627
+Pizza Sfera,1.0,,216,53.021725,18.59627
+Pizzeria Laguna,1.0,,345,53.021725,18.59627
+Pamela. Pub,1.0,,394,53.021725,18.59627
+Cichy Zakątek S.C. Zembrzuska Magdalena Dąbrowska Kinga,1.0,,405,53.021725,18.59627
+Pizza Dominium,1.0,,22,53.024468,18.638258
+Słodka Chmurka Piotr Moroz,1.0,,34,53.024468,18.638258
+"Baalbek sp.j. Cieślewicz A., Poddany J.",2.0,,38,53.024468,18.638258
+Bangkok Wok,2.0,,70,53.024468,18.638258
+Subway,1.0,,94,53.024468,18.638258
+Copernicus Döner Kebap,,,109,53.024468,18.638258
+North Fish,3.0,,144,53.024468,18.638258
+Zapiekarnia,1.0,,64,53.000452,18.613884
+Zapiekanki na dworcu,1.0,,103,53.000452,18.613884
+Spichrz,,,103,53.000452,18.613884
+Budowlani Toruń,,,524,53.000452,18.613884
+La Pablo. FHU. Wiwatowski P.,1.0,,532,53.000452,18.613884
+Folborska Monika Marcello,1.0,,555,53.000452,18.613884
+Start Bar. Bugajski Artur Toruń,2.0,,577,53.000452,18.613884
+Kim Orient,2.0,,674,53.000452,18.613884
+Green Way,2.0,,938,53.000452,18.613884
+Dakat Firma. Dróżdż Teresa Toruń,,,994,53.000452,18.613884
+Oscar apartments,2.0,,228,53.019033,18.518344
+Restaracja Walter,,,433,53.019033,18.518344
+Hotel Walter,,,437,53.019033,18.518344
+"Zakład Handlowo Usługowo Produkcyjny ""WALTER"" Walter Tadeusz",,,447,53.019033,18.518344
+Towimor. Bar,,,474,53.019033,18.518344
+Przystanek Piekus,1.0,,195,52.993479,18.629549
+McDonald's,1.0,,201,52.993479,18.629549
+Dakat Firma. Dróżdż Teresa Toruń,,,322,52.993479,18.629549
+Zajazd Torunski,,,419,52.993479,18.629549
+Wild Bean Cafe,1.0,,522,52.993479,18.629549
+Start Bar. Bugajski Artur Toruń,2.0,,756,52.993479,18.629549
+Kim Orient,2.0,,800,52.993479,18.629549
+Pizzeria Laguna,1.0,,820,52.993479,18.629549
+La Pablo. FHU. Wiwatowski P.,1.0,,874,52.993479,18.629549
+Bar Leśny,,,87,52.993479,18.629549
+Trzy Smaki,,,110,53.04035,18.624286
+Urbański,,,139,53.04035,18.624286
+Graffico. Producent pylonów i witaczy,,,227,53.04035,18.624286
+Mała Gastronomia Galczak Jolanta,1.0,,282,53.04035,18.624286
+Twierdza Torun,,,533,53.04035,18.624286
+Laskowska Rudnicka Violetta Viola Firma handlowo usługowa - Torun,,,559,53.04035,18.624286
+Restauracja Forteczna,2.0,,588,53.04035,18.624286
+Kebabmaniak,,,625,53.04035,18.624286
+Batory,,,626,53.04035,18.624286
+F.H.U Przy Złotej Wyspie Ewelina Fiedorowicz,,,693,53.001641,18.701141
+Restauracja Monte Carlo,1.0,,784,53.001641,18.701141
+Roma. Pizzeria,1.0,,84,53.023772,18.675857
+New York Pizza Department Toruń,1.0,,95,53.023772,18.675857
+Jadło Do Syta,,,101,53.023772,18.675857
+Verdad Sp. z o.o.,,,111,53.023772,18.675857
+Restauracja Jadło Polskie,,,127,53.023772,18.675857
+E-Pizzeria.Pl Krzysztof Pawłowski,1.0,,171,53.023772,18.675857
+Przedsiębiorstwo Handlowo Usługowe Kowalik Maria,1.0,,183,53.023772,18.675857
+Servus Sp. z o.o.,,,206,53.023772,18.675857
+Lawenda,,,160,52.992563,18.600756
+Dynasińska Maria Shangri La,,,179,52.992563,18.600756
+Kęs Dobry,1.0,,281,52.992563,18.600756
+Rafa. Pizzeria,1.0,,691,52.992563,18.600756
+Folborska Monika Marcello,1.0,,691,52.992563,18.600756
+"Restauracja ""PIĄTA KLEPKA"" Agnieszka Borkowska",,,761,52.992563,18.600756
+Yomi S.C. Joanna Sowińska Michalina Bratkowska,,,120,52.992563,18.600756
+Przedsiębiorstwo Handlowo Usługowe Majus Cander Tomasz,,,186,52.992563,18.600756
+Firma Handlowo-Gastronomiczna. Grzebińska Teodozja Toruń,,,365,52.992563,18.600756
+Pensjonat LAZUR,,,429,52.992563,18.600756
+Restauracja Lokomotywa,1.0,,57,53.012702,18.619199
+PIE TOWN Małgorzata Mitręga,,,143,53.017646,18.635777
+"Arkadiusz Owsianik Przedsiębiorstwo Handlowo-Usługowe ""Pizza Drive""",,,215,53.017646,18.635777
+Orient Express,2.0,,457,53.017646,18.635777
+Pensjonat Winnica,,,495,53.017646,18.635777
+Elżbieta. FPH. Bukowska E.,,,594,53.017646,18.635777
+Pub Mokre Kurtyka Mirosława,2.0,,616,53.017646,18.635777
+Byczy Burger,1.0,,737,53.017646,18.635777
